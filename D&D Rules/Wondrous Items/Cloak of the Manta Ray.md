@@ -1,0 +1,22 @@
+---
+tags:
+  - Item
+type: Wondrous Item
+attunement: True
+attunement_details: None
+classes:
+icon: LiComponent
+rarity: Uncommon
+type: Wondrous Item
+type_details: None
+sources: 
+  - "[[Dungeon Master's Guide 2024]]"
+---
+>[!uncommon-wondrous-item-callout] Cloak of the Manta Ray
+>_Wondrous Item, Uncommon (Requires Attunement)_
+>
+>While wearing this cloak, you can breathe underwater, and you have a Swim Speed of 60 feet.
+>
+
+
+![[dungeon-masters-guide-2024.avif|banner]]

@@ -1,0 +1,23 @@
+---
+tags:
+  - Item
+attunement: True
+attunement_details: 
+banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
+banner_lock: True
+classes:
+icon: LiComponent
+rarity: Rare
+sources:
+  - "[[Mythic Odysseys of Theros]]"
+type: Wondrous Item
+type_details: 
+---
+>[!rare-wondrous-item-callout] `=this.file.name`
+>*Wondrous Item, Rare (Requires Attunement)*
+>
+>You can use an action to play this lyre and cast one of the following spells from it: [[Animal Friendship]], [[Charm Person]], [[Enthrall]], [[Suggestion]]. If the spell requires a saving throw, the spell save DC is 13.
+>
+>Once the instrument has been used to cast a spell, it can't be used to cast that spell again until the next dawn.
+>
+>

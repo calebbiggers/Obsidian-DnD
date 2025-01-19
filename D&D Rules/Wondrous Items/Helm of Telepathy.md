@@ -1,0 +1,22 @@
+---
+tags:
+  - Item
+type: Wondrous Item
+attunement: True
+attunement_details: None
+classes:
+icon: LiComponent
+rarity: Uncommon
+type: Wondrous Item
+type_details: None
+sources: 
+  - "[[Dungeon Master's Guide 2024]]"
+---
+>[!uncommon-wondrous-item-callout] Helm of Telepathy
+>_Wondrous Item, Uncommon (Requires Attunement)_
+>
+>While wearing this helm, you have telepathy with a range of 30 feet, and you can cast [[Detect Thoughts]] or [[Suggestion]] (save DC 13) from the helm. Once either spell is cast from the helm, that spell can't be cast from it again until the next dawn.
+>
+
+
+![[dungeon-masters-guide-2024.avif|banner]]
