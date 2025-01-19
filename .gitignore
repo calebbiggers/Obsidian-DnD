@@ -1,0 +1,39 @@
+# System Directories
+.obsidian/
+.smart_env/
+.scripts/
+.vscode/
+.trash/
+
+# Personal Directories
+Books/
+Brainstorming/
+Creatures/
+Deities/
+Districts/
+Islands/
+Locations/
+Maps/
+Miscellaneous/
+NPCs/
+Organizations/
+PCs/
+Players/
+Session Planning/
+Settlements/
+Shops & Services/
+Vessels & Vehicles/
+World/
+x_Website/
+z_Backups/
+z_Logs/
+z_Scripts/
+z_Testing/
+z_Tools/
+Home Page.md
+Home Page - Session Prep.md
+House Rules.md
+publish.css
+raw-items.md
+Resources.md
+Ship's Log.md
