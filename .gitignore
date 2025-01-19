@@ -1,6 +1,6 @@
 # System Directories
 .obsidian/
-.smart_env/
+.smart-env/
 .scripts/
 .vscode/
 .trash/
@@ -30,6 +30,13 @@ z_Logs/
 z_Scripts/
 z_Testing/
 z_Tools/
+z_Assets/Characters/
+z_Assets/Documents/
+z_Assets/Icons/
+z_Assets/Maps/
+z_Assets/Misc/
+z_Assets/Schedules/
+z_Assets/Statblocks/
 Home Page.md
 Home Page - Session Prep.md
 House Rules.md
@@ -37,3 +44,5 @@ publish.css
 raw-items.md
 Resources.md
 Ship's Log.md
+DM  Screen.canvas
+z_Assets/Buttons.md
