@@ -1,0 +1,21 @@
+---
+tags:
+  - Item
+attunement: false
+banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
+banner_lock: true
+classes: 
+icon: LiSwords
+rarity: Rare
+sources:
+  - "[[Explorer's Guide to Wildemount]]"
+type: Weapon
+price: 1500
+type_details: Any
+---
+>[!rare-weapon-callout] Weapon of Certain Death
+>*Weapon (Any), Rare*
+>
+>When you damage a creature with an attack using this magic weapon, the target can't regain hit points until the start of your next turn.
+
+![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
