@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 225
 rarity: Uncommon
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-price: 225
 type_details: 
 ---
+# Earworm
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

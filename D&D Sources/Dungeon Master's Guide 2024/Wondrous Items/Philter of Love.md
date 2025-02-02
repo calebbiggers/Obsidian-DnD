@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Philter of Love
 >[!uncommon-potion-callout] Philter of Love
 >_Potion, Uncommon_
 >

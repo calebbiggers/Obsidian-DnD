@@ -9,8 +9,8 @@ classes:
   - "[[Ranger]]"
   - "[[Sorcerer]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Daylight
+
 >[!spell-callout] Daylight
 >![[daylight.png]]
 >
@@ -40,4 +43,4 @@ sources:
 >If any of this spell's area overlaps with an area of [[Exploration#Darkness\|Darkness]] created by a spell of level 3 or lower, that other spell is dispelled.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

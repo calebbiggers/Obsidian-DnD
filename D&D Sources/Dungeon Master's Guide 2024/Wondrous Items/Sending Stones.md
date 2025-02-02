@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sending Stones
 >[!uncommon-wondrous-item-callout] Sending Stones
 >_Wondrous Item, Uncommon_
 >

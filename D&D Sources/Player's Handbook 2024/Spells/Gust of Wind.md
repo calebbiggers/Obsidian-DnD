@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a legume seed
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Gust of Wind
+
 >[!spell-callout] Gust of Wind
 >_Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

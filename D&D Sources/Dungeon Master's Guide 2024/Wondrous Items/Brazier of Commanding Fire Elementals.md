@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Brazier of Commanding Fire Elementals
 >[!rare-wondrous-item-callout] Brazier of Commanding Fire Elementals
 >![[brazier-of-commanding-fire-elementals.jpg]]
 >

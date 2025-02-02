@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any Ranged Or Thrown
 ---
+# Oceanic Weapon
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Any Ranged Or Thrown), Rare (Requires Attunement)*
 >

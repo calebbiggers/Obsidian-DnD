@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Amulet of Proof against Detection and Location
 >[!uncommon-wondrous-item-callout] Amulet of Proof against Detection and Location
 >![[amulet-of -proof-against -detection-and-location.jpg]]
 >

@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaLargeHammer
+price: 8500
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 8500
 type_details: Warhammer
 ---
+# Duskcrusher
 >[!very-rare-weapon-callout] Duskcrusher
 >*Weapon (Warhammer), Very Rare (Requires Attunement)*
 >

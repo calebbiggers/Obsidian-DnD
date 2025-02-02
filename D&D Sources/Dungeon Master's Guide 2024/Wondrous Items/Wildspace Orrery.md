@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Spelljammer-Adventures-In-Space-Astral-Adventurers-Guide-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Uncommon
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Wildspace Orrery
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

@@ -8,9 +8,9 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - M
   - a firefly or phosphorescent moss
+  - M
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Light
+
 >[!spell-callout] Light
 >_Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

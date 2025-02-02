@@ -2,17 +2,18 @@
 tags:
   - Item
 attunement: False
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
+price: 60
 rarity: Common
 sources:
   - "[[Xanathar's Guide to Everything]]"
 type: Wand
-price: 60
 type_details: 
 ---
+
+# Wand of Scowls
+
 >[!common-wand-callout] Wand of Scowls
 >*Wand, Common*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Horseshoes of a Zephyr
 >[!varies-wondrous-item-callout] Horseshoes of a Zephyr
 >_Wondrous Item, Varies_
 >

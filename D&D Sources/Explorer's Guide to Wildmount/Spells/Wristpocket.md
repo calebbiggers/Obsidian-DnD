@@ -1,9 +1,5 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
@@ -22,6 +18,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Wristpocket
 >[!spell-callout] Wristpocket
 >_Level 2 Conjuration (Wizard)_
 >

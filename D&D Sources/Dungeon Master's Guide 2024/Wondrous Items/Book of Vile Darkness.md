@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Book of Vile Darkness
 >[!artifact-wondrous-item-callout] Book of Vile Darkness
 >![[book-of-vile-darkness.png]]
 >

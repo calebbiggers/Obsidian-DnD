@@ -1,17 +1,16 @@
 ---
 tags:
   - Item
-attunement: False
-banner: "[[Legends-Of-Runeterra-Dark-Tides-Of-Bilgewater-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: false
+classes: 
+icon: RaVest
 rarity: Rare
 sources:
   - "[[Legends of Runeterra - Dark Tides of Bilgewater]]"
 type: Armor
 type_details: Medium Or Heavy
 ---
+# Dead Man's Plate
 >[!rare-armor-callout] `=this.file.name`
 >*Armor (Medium Or Heavy), Rare*
 >

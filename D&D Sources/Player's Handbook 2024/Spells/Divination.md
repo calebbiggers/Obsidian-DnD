@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - incense worth 25+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Divination
+
 >[!spell-callout] Divination
 >_Level 4 Divination (Cleric, Druid, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >If you cast the spell more than once before finishing a [[Damage & Healing#Long Rests\|Long Rest]], there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

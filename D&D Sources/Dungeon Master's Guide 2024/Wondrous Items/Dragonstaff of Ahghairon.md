@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Dragonstaff of Ahghairon
 >[!legendary-staff-callout] `=this.file.name`
 >*Staff, Legendary (Requires Attunement)*
 >

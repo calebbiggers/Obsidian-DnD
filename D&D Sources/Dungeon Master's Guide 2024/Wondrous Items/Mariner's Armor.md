@@ -2,17 +2,20 @@
 tags:
   - Item
 type: Armor
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Uncommon
-type: Armor
 type_details: Any Light, Medium, or Heavy
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Mariner's Armor
 >[!uncommon-armor-callout] Mariner's Armor
+>![[mariners-armor.png]]
+>
+> - - -
 >_Armor (Any Light, Medium, or Heavy) , Uncommon_
 >
 >While wearing this armor, you have a Swim Speed equal to your Speed. In addition, if you start your turn underwater with 0 Hit Points, you immediately regain 1d4 Hit Points. The armor can't heal anyone again until the next dawn.

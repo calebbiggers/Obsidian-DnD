@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Humanoid
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: PaPlainDagger
 rarity: Artifact
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Dagger
 ---
+# Blade of Broken Mirrors
 >[!artifact-weapon-callout] Blade of Broken Mirrors
 >*Weapon (Dagger), Artifact (Requires Attunement By A Humanoid)*
 >

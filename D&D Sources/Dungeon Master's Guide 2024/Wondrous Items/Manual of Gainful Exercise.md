@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Manual of Gainful Exercise
 >[!varies-wondrous-item-callout] Manual of Gainful Exercise
 >_Wondrous Item, Varies_
 >

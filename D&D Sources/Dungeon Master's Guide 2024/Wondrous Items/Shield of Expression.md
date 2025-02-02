@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Shield of Expression
 >[!common-armor-callout] Shield of Expression
 >_Armor (Shield) , Common_
 >

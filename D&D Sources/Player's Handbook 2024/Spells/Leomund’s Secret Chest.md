@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Leomund’s Secret Chest
+
 >[!spell-callout] Leomund’s Secret Chest
 >_Level 4 Conjuration (Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >After 60 days, there is a cumulative 5 percent chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

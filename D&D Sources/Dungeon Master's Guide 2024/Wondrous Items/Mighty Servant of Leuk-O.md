@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
-attunement_details:
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+attunement_details: 
+classes: 
 icon: LiComponent
 rarity: Artifact
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Mighty Servant of Leuk-O
 >[!artifact-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Artifact (Requires Attunement)*
 >

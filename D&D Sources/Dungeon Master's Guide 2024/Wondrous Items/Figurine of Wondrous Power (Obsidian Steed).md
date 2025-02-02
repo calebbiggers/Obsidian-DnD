@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 100000
 rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Wondrous Item
-price: 100000
-type_details:
+type_details: 
 ---
+# Figurine of Wondrous Power (Obsidian Steed)
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*`=this.type`, `=this.rarity`*
 >

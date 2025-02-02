@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Vitality
 >[!varies-potion-callout] Potion of Vitality
 >_Potion, Varies_
 >

@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a tentacle
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Evard's Black Tentacles
+
 >[!spell-callout] Evard's Black Tentacles
 >![[evards-black-tentacles.png]]
 >
@@ -38,4 +41,4 @@ sources:
 >A Restrained creature can take an action to make a Strength ([[Proficiency#Skill List\|Athletics ]]) check against your spell save DC, ending the condition on itself on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

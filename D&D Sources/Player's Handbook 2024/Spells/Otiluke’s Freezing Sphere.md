@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a miniature crystal sphere
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 300 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Otiluke’s Freezing Sphere
+
 >[!spell-callout] Otiluke’s Freezing Sphere
 >_Level 6 Evocation (Sorcerer, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 6.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

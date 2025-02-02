@@ -14,9 +14,12 @@ range: 30 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Guardian of Faith
+
 >[!spell-callout] Guardian of Faith
 >![[guardian-of-faith.png]]
 >
@@ -33,4 +36,4 @@ sources:
 >Any enemy that moves to a space within 10 feet of the guardian for the first time on a turn or starts its turn there makes a Dexterity saving throw, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

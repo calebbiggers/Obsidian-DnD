@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLargeHammer
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: Warhammer
 ---
+# Matalotok
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Warhammer), Legendary*
 >

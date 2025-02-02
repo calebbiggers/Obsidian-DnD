@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl7
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 10 Minutes
 classes:
   - Bard
@@ -12,9 +8,9 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Magic Item Or A Willing Creature From The Destination World)
+  - S
+  - V
 concentration: false
 duration: 6 Hours
 icon: LiWand2
@@ -26,8 +22,10 @@ schools:
   - Conjuration
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Dream of The Blue Veil
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

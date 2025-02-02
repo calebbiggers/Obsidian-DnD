@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Rare
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Butcher's Bib
 >[!rare-wondrous-item-callout] Butcher's Bib
 >*Wondrous Item, Rare (Requires Attunement)*
 >

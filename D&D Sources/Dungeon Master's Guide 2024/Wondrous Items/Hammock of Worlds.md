@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Journeys-Through-The-Radiant-Citadel-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Hammock of Worlds
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary*
 >

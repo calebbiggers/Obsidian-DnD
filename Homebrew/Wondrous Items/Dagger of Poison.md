@@ -2,16 +2,17 @@
 tags:
   - Item
 attunement: false
-banner: "[[Homebrew-Banner.jpg]]"
 classes: 
+icon: RaPlainDagger
+price: 500
 rarity: Uncommon
 sources:
   - "[[Homebrew]]"
 type: Weapon
-banner_lock: true
-icon: RaPlainDagger
-price: 500
 ---
+
+# Dagger of Poison
+
 ![[Homebrew-Banner.jpg|banner]]
 >[!uncommon-weapon-callout] Dagger of Poison
 >![[dagger-of-poison.png]]

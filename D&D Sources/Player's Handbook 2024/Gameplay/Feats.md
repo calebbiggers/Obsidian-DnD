@@ -1,3 +1,4 @@
+# Feats
 ![[weathermay-foxgrove-alanik-arthur.png]]
 
 This chapter offers a collection of feats, which are special features not tied to a character class. A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
@@ -7,9 +8,9 @@ The sections below explain the parts of a feat and list a variety of feat option
 Your background gives you a feat, and at certain levels, your class gives you the [[Ability Score Improvement]] feat or the choice of another feat for which you qualify.
 
 By whatever means you acquire a feat, you can take it only once unless its description says otherwise.
-# Feat Descriptions
+## Feat Descriptions
 This chapter’s feats are organized by category—[[Origin, [[General]], [[Fighting Style]], or [[Epic Boon]]—and alphabetized in each category. All the feats are listed alphabetically in the [[#Feat List table]]. If a feat can be taken more than once, an asterisk appears after its name in that table.
-## Parts of a Feat
+### Parts of a Feat
 The description of a feat contains the following parts, which are presented after the feat’s name.
 >**_Category._** A feat is a member of a category, which is noted in the feat. If you’re instructed to choose a feat from a specific category, such as the Origin category, that category must appear under the feat’s name. If you’re instructed to choose a feat and no category is specified, you can choose from any category.
 >
@@ -18,7 +19,7 @@ The description of a feat contains the following parts, which are presented afte
 >**_Benefit._** The benefits of a feat are detailed after any prerequisites are listed. If you have a feat, you gain its benefits.
 >
 >**_Repeatable._** A feat can be taken only once unless its description states otherwise in a “Repeatable” subsection.
-## Feat List Table
+### Feat List Table
 | Feat                                    | Category           |
 |:--------------------------------------- | ------------------ |
 | [[Ability Score Improvement]]*          | [[General]]        |

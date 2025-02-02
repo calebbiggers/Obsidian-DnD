@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Illusionist's Bracers
 >[!very-rare-wondrous-item-callout] Illusionist's Bracers
 >*Wondrous Item, Very Rare (Requires Attunement By A Spellcaster)*
 >

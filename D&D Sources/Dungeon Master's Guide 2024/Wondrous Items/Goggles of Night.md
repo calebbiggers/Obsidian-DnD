@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Goggles of Night
 >[!uncommon-wondrous-item-callout] Goggles of Night
 >![[goggles-of-night.jpg]]
 >

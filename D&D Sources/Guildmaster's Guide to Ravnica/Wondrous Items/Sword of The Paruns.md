@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Sword of The Paruns
 >[!very-rare-weapon-callout] Sword of The Paruns
 >*Weapon (Longsword), Very Rare (Requires Attunement)*
 >

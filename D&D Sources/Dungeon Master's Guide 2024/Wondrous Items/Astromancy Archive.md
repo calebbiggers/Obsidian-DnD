@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Wizard
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Wizard
 icon: LiComponent
@@ -14,6 +11,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Astromancy Archive
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Wizard)*
 >

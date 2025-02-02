@@ -6,10 +6,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
   - M
+  - S
   - seven thorns
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 150 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Spike Growth
+
 >[!spell-callout] Spike Growth
 >_Level 2 Transmutation (Druid, Ranger)_
 >
@@ -34,4 +37,4 @@ sources:
 >The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a [[Actions#Search\|Search]] action and succeed on a Wisdom ([[Proficiency#Skill List\|Perception]] or [[Proficiency#Skill List\|Survival]]) check against your spell save DC to recognize the terrain as hazardous before entering it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

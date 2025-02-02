@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Hour
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (Clay, Ash, And Mandrake Root, All Of Which The Spell Consumes, And A Jewel-Encrusted Dagger Worth At Least 1,000 Gp)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Create Homunculus
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

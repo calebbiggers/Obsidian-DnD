@@ -5,10 +5,10 @@ casting_time: Bonus Action
 classes:
   - "[[Warlock]]"
 components:
-  - V
-  - S
   - M
+  - S
   - the petrified eye of a newt
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 90 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hex
+
 >[!spell-callout] Hex
 >_Level 1 Enchantment (Warlock)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3–4 (up to 8 hours), or 5+ (24 hours).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

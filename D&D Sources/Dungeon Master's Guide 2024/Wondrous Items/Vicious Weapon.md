@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Vicious Weapon
 >[!rare-weapon-callout] Vicious Weapon
 >_Weapon (Any Simple or Martial) , Rare_
 >

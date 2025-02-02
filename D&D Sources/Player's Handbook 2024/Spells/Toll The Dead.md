@@ -7,8 +7,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Toll The Dead
+
 >[!spell-callout] Toll the Dead
 >_Necromancy Cantrip (Cleric, Warlock, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Longevity
 >[!varies-potion-callout] Potion of Longevity
 >_Potion, Varies_
 >

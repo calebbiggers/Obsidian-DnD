@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Sorcerer
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Sorcerer
 icon: RaCrystals
+price: 2500
 rarity: Uncommon
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 2500
 type_details: 
 ---
+# Feywild Shard
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement By A Sorcerer)*
 >

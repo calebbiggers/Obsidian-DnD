@@ -15,9 +15,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Aura of Purity
+
 >[!spell-callout] Aura of Purity
 >_Level 4 Abjuration (Cleric, Paladin)_
 >
@@ -29,4 +32,4 @@ sources:
 >An aura radiates from you in a 30-foot [[Spells#Emanation\|Emanation]] for the duration. While in the aura, you and your allies have Resistance to Poison damage and [[D20 Tests#Advantage/Disadvantage\|Advantage]] on saving throws to avoid or end effects that include the [[Conditions#Blinded\|Blinded]], [[Conditions#Charmed\|Charmed]], [[Conditions#Deafened\|Deafened]], [[Conditions#Frightened\|Frightened]], [[Conditions#Paralyzed\|Paralyzed]], [[Conditions#Poisoned\|Poisoned]], or [[Conditions#Stunned\|Stunned]] condition.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

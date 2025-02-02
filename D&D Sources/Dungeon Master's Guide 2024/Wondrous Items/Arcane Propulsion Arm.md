@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature Missing A Hand Or An Arm
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 5100
 rarity: Very Rare
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-price: 5100
 type_details: 
 ---
+# Arcane Propulsion Arm
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement By A Creature Missing A Hand Or An Arm)*
 >

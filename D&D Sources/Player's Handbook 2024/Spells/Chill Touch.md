@@ -7,8 +7,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Chill Touch
+
 >[!spell-callout] Chill Touch
 >_Necromancy Cantrip (Sorcerer, Warlock, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

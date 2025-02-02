@@ -1,17 +1,19 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
-  - Small
   - Medium
+  - Small
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: RiFireLine
 ---
+# Fire Genasi
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[fire-genasi.png|float-right|250]]Descended from efreet, the genies of the Elemental Plane of Fire, fire genasi channel the flamboyant and often destructive nature of flame. They show their heritage in their skin tones, which can range from deep charcoal to shades of red and orange. Some bear skin tones common to humanity but with fiery marks, such as slowly swirling lights under their skin that resemble embers or glowing red lines tracing over their bodies like cracks. Fire Genasi hair can resemble threads of fire or sooty smoke.
 
-# Fire Genasi Traits
+## Fire Genasi Traits
 **Creature Type:** Humanoid  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet

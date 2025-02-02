@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - powdered diamond worth 200+ GP, which the spell consumes
+  - S
+  - V
 concentration: false
 duration: Until dispelled or triggered
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Glyph of Warding
+
 >[!spell-callout] Glyph of Warding
 >_Level 3 Abjuration (Bard, Cleric, Wizard)_
 >
@@ -49,4 +52,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the _Glyph of Warding_.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

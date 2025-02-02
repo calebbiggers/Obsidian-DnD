@@ -7,14 +7,18 @@ attunement_details: a Wizard
 classes:
   - "[[Wizard]]"
 icon: LiComponent
-rarity: Varies
+rarity: Very Rare
 type: Wondrous Item
 type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-wondrous-item-callout] Hat of Many Spells
->_Wondrous Item, Varies (Requires Attunement a Wizard)_
+# Hat of Many Spells
+>[!very-rare-wondrous-item-callout] Hat of Many Spells
+>![[hat-of-many-spells.png]]
+>
+>- - -
+>_Wondrous Item, Very Rare (Requires Attunement a Wizard)_
 >
 >This pointed hat has the following properties.
 >
@@ -22,15 +26,11 @@ sources:
 >
 >**_Unknown Spell._** While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can't have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell's level. Then, to determine whether you cast the spell, make an Intelligence ([[Proficiency#Skill List\|Arcana]]) check (DC 10 plus the spell's level). On a successful check, you cast the spell using its normal casting time, and you can't use this property again until you finish a Short or Long Rest. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.
 >
->
->Presto creates a lightning bolt  
->using his Hat of Many Spells
->
 >Any spell you cast from the hat uses your spell save DC and spell attack bonus.
 >
 >|1d100|Effect|
 >|---|---|
->|01–50|You cast a random spell determined by rolling 1d10: on a **1**, [[Enlarge/Reduce]] (enlarge effect); on a **2**, [[Enlarge/Reduce]] (reduce effect); on a **3**, [[Faerie Fire]]; on a **4**, [[Fireball]]; on a **5**, [[Gust of Wind]]; on a **6**, [[Invisibility]] (cast on yourself); on a **7**, [[Lightning Bolt]]; on an **8**, [[Phantasmal Force]]; on a **9**, [[Polymorph]]; on a **10**, [[Stinking Cloud]].|
+>|01–50|You cast a random spell determined by rolling 1d10: on a **1**, [[Enlarge/Reduce]] (enlarge effect); on a **2**, [[Enlarge/Reduce]] (reduce effect); on a **3**, [[Faerie Fire]]; on a **4**, [[Fireball]]; on a **5**, [[Gust of Wind]]; on a **6**, [[Invisibility]] (cast on yourself); on a **7**, [[D&D Sources/Player's Handbook 2024/Spells/Lightning Bolt]]; on an **8**, [[Phantasmal Force]]; on a **9**, [[Polymorph]]; on a **10**, [[Stinking Cloud]].|
 >|51–55|You have the [[Conditions#Stunned\|Stunned]] condition until the end of your next turn, believing something awesome just happened.|
 >|56–60|A harmless swarm of butterflies fills a 10-foot [[Spells#Cube\|Cube]] within 30 feet of yourself. The swarm disperses after 1 minute.|
 >|61–65|You pull a nonmagical object out of the hat. Roll 1d4 to determine the object: on a **1**, a [[vial of Acid]]; on a **2**, a [[flask of Alchemist's Fire]]; on a **3**, a [[Adventuring Gear#Crowbar\|Crowbar]]; on a **4**, a lit [[Adventuring Gear#Torch\|Torch]].|

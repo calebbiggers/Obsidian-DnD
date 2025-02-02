@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Resistance
 >[!rare-ring-callout] Ring of Resistance
 >_Ring, Rare_
 >

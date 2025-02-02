@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Sorcerer]]"
 components:
-  - V
-  - S
-  - M
   - a fractured rock
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 500 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Earthquake
+
 >[!spell-callout] Earthquake
 >_Level 8 Transmutation (Cleric, Druid, Sorcerer)_
 >
@@ -43,4 +46,4 @@ sources:
 >A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes 12d6 Bludgeoning damage, has the [[Conditions#Prone\|Prone]] condition, and is buried in the rubble, requiring a DC 20 Strength ([[Proficiency#Skill List\|Athletics ]]) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

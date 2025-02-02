@@ -16,9 +16,12 @@ range: 10 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Teleport
+
 >[!spell-callout] Teleport
 >_Level 7 Conjuration (Bard, Sorcerer, Wizard)_
 >
@@ -32,6 +35,7 @@ sources:
 >The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The DM rolls 1d100 and consults the Teleportation Outcome table and the explanations after it.
 >
 >#### Teleportation Outcome
+>
 >|Familiarity|Mishap|Similar Area|Off Target|On Target|
 >|---|---|---|---|---|
 >|Permanent circle|—|—|—|01–00|
@@ -59,4 +63,4 @@ sources:
 >**_On Target._** You and your group (or the target object) appear where you intended.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

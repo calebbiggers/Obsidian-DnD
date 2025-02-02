@@ -1,17 +1,15 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Spelljammer-Adventures-In-Space-Astral-Adventurers-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Legendary
 sources:
   - "[[Spelljammer - Adventures in Space]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Talarith
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary*
 >

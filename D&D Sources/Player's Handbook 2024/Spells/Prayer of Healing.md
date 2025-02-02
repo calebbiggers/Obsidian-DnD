@@ -15,9 +15,12 @@ range: 30 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Prayer of Healing
+
 >[!spell-callout] Prayer of Healing
 >_Level 2 Abjuration (Cleric, Paladin)_
 >
@@ -31,4 +34,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing increases by 1d8 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

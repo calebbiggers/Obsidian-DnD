@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a diamond worth 50+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Chromatic Orb
+
 >[!spell-callout] Chromatic Orb
 >![[chromatic-orb.png]]
 >
@@ -39,4 +42,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

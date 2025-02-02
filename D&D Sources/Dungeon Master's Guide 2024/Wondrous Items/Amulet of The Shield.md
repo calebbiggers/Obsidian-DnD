@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaGemPendant
+price: 
 rarity: Unknown Rarity
 sources:
   - "[[Critical Role]]"
 type: Wondrous Item
 type_details: 
-price:
 ---
+# Amulet of The Shield
 >[!unknown-rarity-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Unknown Rarity*
 >

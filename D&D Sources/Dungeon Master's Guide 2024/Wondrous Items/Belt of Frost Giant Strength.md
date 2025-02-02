@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 12000
 rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
-price: 12000
-type_details:
+type_details: 
 ---
+# Belt of Frost Giant Strength
 >[!very-rare-wondrous-item-callout] Belt of Frost Giant Strength
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

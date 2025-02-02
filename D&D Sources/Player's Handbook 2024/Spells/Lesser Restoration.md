@@ -9,8 +9,8 @@ classes:
   - "[[Paladin]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Lesser Restoration
+
 >[!spell-callout] Lesser Restoration
 >![[lesser-restoration.png]]
 >
@@ -36,4 +39,4 @@ sources:
 >You touch a creature and end one condition on it: [[Conditions#Blinded\|Blinded]], [[Conditions#Deafened\|Deafened]], [[Conditions#Paralyzed\|Paralyzed]], or [[Conditions#Poisoned\|Poisoned]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

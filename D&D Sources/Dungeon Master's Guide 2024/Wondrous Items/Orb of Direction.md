@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Orb of Direction
 >[!common-wondrous-item-callout] Orb of Direction
 >_Wondrous Item, Common_
 >

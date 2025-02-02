@@ -1,18 +1,15 @@
 ---
 tags:
   - Spell
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Action
 classes:
   - Druid
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Withered Vine Twisted Into A Loop)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -26,6 +23,9 @@ sources:
   - "[[Strixhaven - A Curriculum of Chaos]]"
 type: Spell
 ---
+
+# Wither And Bloom
+
 >[!spell-callout] Wither And Bloom
 >_Level 2 Necromancy (Druid, Sorcerer, Wizard)_
 >

@@ -8,9 +8,9 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - S
-  - M
   - a pinch of confetti
+  - M
+  - S
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 120 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hypnotic Pattern
+
 >[!spell-callout] Hypnotic Pattern
 >_Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

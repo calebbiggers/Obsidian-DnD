@@ -6,8 +6,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Magic Missile
+
 >[!spell-callout] Magic Missile
 >_Level 1 Evocation (Sorcerer, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The spell creates one more dart for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

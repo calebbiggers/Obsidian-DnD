@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: True
+attunement: true
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Rare
-type: Armor
 type_details: Any Light, Medium, or Heavy
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Armor of Resistance
 >[!rare-armor-callout] Armor of Resistance
 >![[armor-of-resistance.png]]
 >

@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - diamond dust worth 100+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Stoneskin
+
 >[!spell-callout] Stoneskin
 >_Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

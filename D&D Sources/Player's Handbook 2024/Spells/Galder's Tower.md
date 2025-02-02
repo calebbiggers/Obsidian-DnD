@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 10 Minutes
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A Fragment Of Stone, Wood, Or Other Building Material)
+  - S
+  - V
 concentration: false
 duration: 24 Hours
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Conjuration
 sources:
   - "[[Lost Laboratory of Kwalish]]"
-type: Spell
 ---
+
+# Galder's Tower
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

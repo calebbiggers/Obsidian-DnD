@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 200
 rarity: Uncommon
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 200
 type_details: 
 ---
+# Balance of Harmony
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

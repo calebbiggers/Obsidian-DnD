@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Bard
@@ -13,19 +9,21 @@ classes:
   - Wizard
 components:
   - V
-concentration: True
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 4
 range: 30 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Enchantment
 sources:
   - "[[Unearthed Arcana 66 - Fighter, Rogue, And Wizard]]"
-type: Spell
 ---
+
+# Ego Whip (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

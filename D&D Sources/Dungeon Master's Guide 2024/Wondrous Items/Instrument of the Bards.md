@@ -13,6 +13,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Instrument of the Bards
 >[!varies-wondrous-item-callout] Instrument of the Bards
 >_Wondrous Item, Varies (Requires Attunement a Bard)_
 >

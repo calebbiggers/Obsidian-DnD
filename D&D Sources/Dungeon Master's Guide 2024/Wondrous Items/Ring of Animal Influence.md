@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Ring
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiComponent
+classes: 
+icon: LiTorus
 rarity: Rare
-type: Ring
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Animal Influence
 >[!rare-ring-callout] Ring of Animal Influence
 >_Ring, Rare_
 >

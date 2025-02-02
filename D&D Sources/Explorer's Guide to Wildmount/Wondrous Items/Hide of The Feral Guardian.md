@@ -3,16 +3,15 @@ tags:
   - Item
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
-icon: RaKnightHelmet
+icon: RaVest
 rarity: Legendary
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Armor
 type_details: Studded Leather
 ---
+# Hide of The Feral Guardian
 >[!legendary-armor-callout] Hide of The Feral Guardian
 >*Armor (Studded Leather), Legendary (Requires Attunement)*
 >

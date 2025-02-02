@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Out-Of-The-Abyss-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 500
 rarity: Uncommon
 sources:
   - "[[Out of the Abyss]]"
 type: Wondrous Item
-price: 500
 type_details: 
 ---
+# Piwafwi
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

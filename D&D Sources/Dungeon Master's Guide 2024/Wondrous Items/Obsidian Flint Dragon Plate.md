@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: False
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: false
+classes: 
+icon: RaVest
+price: 24300
 rarity: Legendary
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Armor
-price: 24300
 type_details: Plate
 ---
+# Obsidian Flint Dragon Plate
 >[!legendary-armor-callout] `=this.file.name`
 >*Armor (Plate), Legendary*
 >

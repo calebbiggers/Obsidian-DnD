@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Horseshoes of Speed
 >[!rare-wondrous-item-callout] Horseshoes of Speed
 >_Wondrous Item, Rare_
 >

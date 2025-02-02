@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature Of Good Alignment
-banner: "[[Curse-Of-Strahd-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Icon of Ravenloft
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement By A Creature Of Good Alignment)*
 >

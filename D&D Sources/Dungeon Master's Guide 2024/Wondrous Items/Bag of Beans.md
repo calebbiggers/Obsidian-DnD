@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bag of Beans
 >[!rare-wondrous-item-callout] Bag of Beans
 >![[bag-of-beans.jpg]]
 >

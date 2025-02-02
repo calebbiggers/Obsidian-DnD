@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Portable Hole
 >[!rare-wondrous-item-callout] Portable Hole
 >![[portable-hole.png]]
 >

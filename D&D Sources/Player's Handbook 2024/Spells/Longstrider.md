@@ -8,10 +8,10 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of dirt
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Longstrider
+
 >[!spell-callout] Longstrider
 >_Level 1 Transmutation (Bard, Druid, Ranger, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

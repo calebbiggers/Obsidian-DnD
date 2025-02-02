@@ -12,6 +12,7 @@ type_details: Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Life Stealing
 >[!rare-weapon-callout] Sword of Life Stealing
 >_Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Rare (Requires Attunement)_
 >

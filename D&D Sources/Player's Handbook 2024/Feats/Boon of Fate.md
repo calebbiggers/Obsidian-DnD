@@ -1,15 +1,15 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: Epic Boon
-repeatable: false
 prerequisites:
   - Level 19+
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: Epic Boon
 ---
+# Boon of Fate
 >[!feat] Boon of Fate
 >_Epic Boon Feat (Prerequisite: Level 19+)_
 >
@@ -20,4 +20,4 @@ prerequisites:
 >**_Improve Fate._** When you or another creature within 60 feet of you succeeds on or fails a [[D20 Test]], you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can’t use it again until you roll Initiative or finish a [[Damage & Healing#Short Rests\|Short]] or [[Damage & Healing#Long Rests\|Long Rest]].
 >
 >![[sword-napkin-star.png]]
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

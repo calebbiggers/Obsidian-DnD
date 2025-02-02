@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Alertness
 >[!varies-rod-callout] Rod of Alertness
 >_Rod, Varies (Requires Attunement)_
 >

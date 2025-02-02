@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Reaction, Which You Take When You Take Acid, Cold, Fire, Lightning, Or Thunder Damage
 classes:
   - Artificer
@@ -25,8 +21,10 @@ schools:
   - Abjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Absorb Elements
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

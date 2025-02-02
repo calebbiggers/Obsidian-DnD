@@ -15,9 +15,12 @@ range: Self
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Contact Other Plane
+
 >[!spell-callout] Contact Other Plane
 >_Level 5 Divination (Warlock, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >On a failed save, you take 6d6 Psychic damage and have the [[Conditions#Incapacitated\|Incapacitated]] condition until you finish a [[Damage & Healing#Long Rests\|Long Rest]]. A [[Greater Restoration]] spell cast on you ends this effect.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

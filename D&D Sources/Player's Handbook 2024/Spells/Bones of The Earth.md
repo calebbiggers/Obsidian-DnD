@@ -1,15 +1,12 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Druid
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -21,8 +18,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Bones of The Earth
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

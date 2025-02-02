@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaBatteredAxe
+price: 27000
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 27000
 type_details: Greataxe
 ---
+# Bloodaxe
 >[!very-rare-weapon-callout] Bloodaxe
 >*Weapon (Greataxe), Very Rare (Requires Attunement)*
 >

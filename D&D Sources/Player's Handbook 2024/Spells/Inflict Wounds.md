@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Inflict Wounds
+
 >[!spell-callout] Inflict Wounds
 >_Level 1 Necromancy (Cleric)_
 >
@@ -31,4 +34,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

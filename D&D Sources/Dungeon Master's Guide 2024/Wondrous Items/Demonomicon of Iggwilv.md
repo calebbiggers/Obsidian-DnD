@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Demonomicon of Iggwilv
 >[!artifact-wondrous-item-callout] Demonomicon of Iggwilv
 >![[demonomicon-of-iggwilv.png]]
 >

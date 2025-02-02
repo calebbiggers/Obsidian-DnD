@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sentinel Shield
 >[!uncommon-armor-callout] Sentinel Shield
 >_Armor (Shield) , Uncommon_
 >

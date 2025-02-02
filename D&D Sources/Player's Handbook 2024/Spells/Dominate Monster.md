@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dominate Monster
+
 >[!spell-callout] Dominate Monster
 >_Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** Your [[Spells#Concentration\|Concentration]] can last longer with a level 9 spell slot (up to 8 hours).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

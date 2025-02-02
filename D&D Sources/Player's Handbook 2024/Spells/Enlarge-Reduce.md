@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of powdered iron
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Enlarge-Reduce
+
 >[!spell-callout] Enlarge/Reduce
 >_Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Reduce._** The target's size decreases by one category—from Medium to Small, for example. The target also has [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

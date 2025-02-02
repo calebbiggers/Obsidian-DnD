@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bead of Refreshment
 >[!common-wondrous-item-callout] Bead of Refreshment
 >_Wondrous Item, Common_
 >

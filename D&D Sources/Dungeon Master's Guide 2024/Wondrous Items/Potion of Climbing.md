@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Climbing
 >[!common-potion-callout] Potion of Climbing
 >_Potion, Common_
 >

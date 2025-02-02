@@ -6,10 +6,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a statuette of the target worth 5,000+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Imprisonment
+
 >[!spell-callout] Imprisonment
 >_Level 9 Abjuration (Warlock, Wizard)_
 >
@@ -48,4 +51,4 @@ sources:
 >A [[Dispel Magic]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

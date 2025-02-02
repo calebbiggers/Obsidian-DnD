@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Orcus
 >[!artifact-wand-callout] Wand of Orcus
 >_Wand, Artifact (Requires Attunement)_
 >

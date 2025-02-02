@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Cleric]]"
 components:
-  - V
-  - S
-  - M
   - a diamond worth 1,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Resurrection
+
 >[!spell-callout] Resurrection
 >_Level 7 Necromancy (Bard, Cleric)_
 >
@@ -38,4 +41,4 @@ sources:
 >Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can't cast spells again, and you have [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on D20 Tests.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
-attunement_details:
-banner: "[[Infernal-Machine-Rebuild-Banner.jpg]]"
-banner_lock: True
-classes:
+attunement_details: 
+classes: 
 icon: LiComponent
 rarity: Artifact
 sources:
   - "[[Infernal Machine Rebuild]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# The Infernal Machine of Lum The Mad
 >[!artifact-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Artifact (Requires Attunement)*
 >

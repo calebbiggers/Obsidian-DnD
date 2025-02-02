@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Daern's Instant Fortress
 >[!rare-wondrous-item-callout] Daern's Instant Fortress
 >![[daerns-instant-fortress.jpg]]
 >

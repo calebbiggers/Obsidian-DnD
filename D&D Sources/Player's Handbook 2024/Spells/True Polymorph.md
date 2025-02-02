@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a drop of mercury, a dollop of gum arabic, and a wisp of smoke
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# True Polymorph
+
 >[!spell-callout] True Polymorph
 >_Level 9 Transmutation (Bard, Warlock, Wizard)_
 >
@@ -49,4 +52,4 @@ sources:
 >**_Creature into Object._** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

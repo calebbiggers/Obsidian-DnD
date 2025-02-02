@@ -5,8 +5,8 @@ casting_time: 1 minute or Ritual
 classes:
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 30 feet
 ritual: true
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Phantom Steed
+
 >[!spell-callout] Phantom Steed
 >![[phantom-steed.png]]
 >_Level 3 Illusion (Wizard)_
@@ -32,4 +35,4 @@ sources:
 >For the duration, you or a creature you choose can ride the steed. The steed uses the [[Riding Horse]] stat block (see [[appendix B]]), except it has a Speed of 100 feet and can travel 13 miles in an hour. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends early if the steed takes any damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Hag Eye
 >[!uncommon-wondrous-item-callout] Hag Eye
+>![[hag-eye.png]]
+>
+>- - -
 >_Wondrous Item, Uncommon_
 >
 >A _Hag Eye_ has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [[Exploration#Darkvision\|Darkvision]] (targeting yourself only) or [[See Invisibility]]. The _Hag Eye_ regains all expended charges daily at dawn.

@@ -12,6 +12,7 @@ type_details: Trident
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Trident of Fish Command
 >[!uncommon-weapon-callout] Trident of Fish Command
 >_Weapon (Trident) , Uncommon (Requires Attunement)_
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tome of Clear Thought
 >[!varies-wondrous-item-callout] Tome of Clear Thought
 >_Wondrous Item, Varies_
 >

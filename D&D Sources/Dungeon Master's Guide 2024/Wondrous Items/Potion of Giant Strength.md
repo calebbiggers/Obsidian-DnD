@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Giant Strength
 >[!varies-potion-callout] Potion of Giant Strength
 >_Potion, Varies_
 >

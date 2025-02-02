@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - S
-  - which the spell consumes)
   - ink worth 10+ GP
   - M
+  - S
+  - which the spell consumes)
 concentration: false
 duration: 10 days
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: true
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Illusory Script
+
 >[!spell-callout] Illusory Script
 >_Level 1 Illusion (Bard, Warlock, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >A creature that has [[Exploration#Truesight\|Truesight]] can read the hidden message.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

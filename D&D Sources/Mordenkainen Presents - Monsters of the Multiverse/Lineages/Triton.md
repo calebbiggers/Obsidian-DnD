@@ -1,17 +1,19 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: RaTrident
 ---
+# Triton
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[triton.png|float-right|300]]Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds’ oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean’s surface.
 
 Tritons have webbed hands and feet, small fins on their calves, and coloration that favors blues and greens.
-# Triton Traits
+## Triton Traits
 **Creature Type:** Humanoid  
 **Size:** Medium (about 5–7 feet tall)
 **Speed:** 30 feet

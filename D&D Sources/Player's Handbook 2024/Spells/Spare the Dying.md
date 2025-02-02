@@ -6,8 +6,8 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 15 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Spare the Dying
+
 >[!spell-callout] Spare the Dying
 >_Necromancy Cantrip (Cleric, Druid)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Cantrip Upgrade._** The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
-  - S
-  - M
   - a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Warding Bond
+
 >[!spell-callout] Warding Bond
 >_Level 2 Abjuration (Cleric, Paladin)_
 >
@@ -34,4 +37,4 @@ sources:
 >The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

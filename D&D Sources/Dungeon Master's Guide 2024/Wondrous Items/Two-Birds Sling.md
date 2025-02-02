@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: Sling
 ---
+# Two-Birds Sling
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Sling), Rare*
 >

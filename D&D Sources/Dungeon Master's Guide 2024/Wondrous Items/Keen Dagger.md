@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Dagger
 ---
+# Keen Dagger
 >[!unknown-rarity-weapon-callout] `=this.file.name`
 >*Weapon (Dagger), Unknown Rarity (Requires Attunement)*
 >

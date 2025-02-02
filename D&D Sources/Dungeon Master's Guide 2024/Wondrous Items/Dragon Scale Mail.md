@@ -1,16 +1,17 @@
 ---
 tags:
   - Item
-type: Armor
 attunement: true
 attunement_details: None
 classes: 
-icon: LiShield
+icon: RaVest
 rarity: Very Rare
-type_details: Scale Mail
 sources:
   - "[[Dungeon Master's Guide 2024]]"
+type: Armor
+type_details: Scale Mail
 ---
+# Dragon Scale Mail
 >[!very-rare-armor-callout] Dragon Scale Mail
 >![[dragon-scale-mail.jpg]]
 >

@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Princes-Of-The-Apocalypse-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaTrident
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Trident
 ---
+# Drown
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Trident), Legendary (Requires Attunement)*
 >

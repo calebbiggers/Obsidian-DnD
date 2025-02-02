@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Pariah's Shield
 >[!rare-armor-callout] Pariah's Shield
 >*Armor (Shield), Rare (Requires Attunement)*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of X-ray Vision
 >[!rare-ring-callout] Ring of X-ray Vision
 >_Ring, Rare (Requires Attunement)_
 >

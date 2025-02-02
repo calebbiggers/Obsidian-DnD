@@ -1,21 +1,19 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Cleric Or Paladin
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Cleric
   - Paladin
 icon: LiSwords
+price: 4200
 rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Weapon
-price: 4200
 type_details: Flail
 ---
+# Devotee's Censer
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Flail), Rare (Requires Attunement By A Cleric Or Paladin)*
 >

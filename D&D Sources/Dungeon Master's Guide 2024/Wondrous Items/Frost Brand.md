@@ -6,14 +6,18 @@ attunement: True
 attunement_details: None
 classes:
 icon: LiSwords
-rarity: Varies
+rarity: Very Rare
 type: Weapon
 type_details: Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-weapon-callout] Frost Brand
->_Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Varies (Requires Attunement)_
+# Frost Brand
+>[!very-rare-weapon-callout] Frost Brand
+>![[frost-brand.jpg]]
+>
+>- - -
+>_Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Very Rare (Requires Attunement)_
 >
 >When you hit with an attack roll using this magic weapon, the target takes an extra 1d6 Cold damage. In addition, while you hold the weapon, you have Resistance to Fire damage.
 >

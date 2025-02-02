@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By An Artificer
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Artificer
 icon: LiComponent
@@ -14,6 +11,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# All-Purpose Tool
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rarity Varies (Requires Attunement By An Artificer)*
 >

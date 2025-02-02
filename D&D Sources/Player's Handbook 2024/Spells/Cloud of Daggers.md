@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a sliver of glass
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Cloud of Daggers
+
 >[!spell-callout] Cloud of Daggers
 >_Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 2d4 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

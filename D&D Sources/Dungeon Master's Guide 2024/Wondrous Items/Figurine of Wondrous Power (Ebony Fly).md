@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 4200
 rarity: Rare
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Wondrous Item
-price: 4200
-type_details:
+type_details: 
 ---
+# Figurine of Wondrous Power (Ebony Fly)
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*`=this.type`, `=this.rarity`*
 >

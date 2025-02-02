@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Artificer
@@ -13,8 +9,8 @@ classes:
   - Sorcerer
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -26,8 +22,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Flame Arrows
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

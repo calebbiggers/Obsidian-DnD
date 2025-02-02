@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Weapon, +1, +2, or +3
 >[!varies-weapon-callout] Weapon, +1, +2, or +3
 >_Weapon (Any Simple or Martial) , Varies_
 >

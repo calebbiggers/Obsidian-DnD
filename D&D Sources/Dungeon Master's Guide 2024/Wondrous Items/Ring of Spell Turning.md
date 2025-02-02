@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Spell Turning
 >[!legendary-ring-callout] Ring of Spell Turning
 >_Ring, Legendary (Requires Attunement)_
 >

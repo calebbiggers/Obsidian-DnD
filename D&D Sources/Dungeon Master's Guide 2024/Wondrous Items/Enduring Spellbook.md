@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Enduring Spellbook
 >[!common-wondrous-item-callout] Enduring Spellbook
 >_Wondrous Item, Common_
 >

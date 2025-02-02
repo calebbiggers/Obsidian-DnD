@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - jade dust worth 25+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 120 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Programmed Illusion
+
 >[!spell-callout] Programmed Illusion
 >_Level 6 Illusion (Bard, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the [[Actions#Study\|Study]] action to examine the image can determine that it is an illusion with a successful Intelligence ([[Proficiency#Skill List\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

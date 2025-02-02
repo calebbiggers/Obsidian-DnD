@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 50
 rarity: Common
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 50
 type_details: 
 ---
+# Coin of Delving
 >[!common-wondrous-item-callout] Coin of Delving
 >*Wondrous Item, Common*
 >

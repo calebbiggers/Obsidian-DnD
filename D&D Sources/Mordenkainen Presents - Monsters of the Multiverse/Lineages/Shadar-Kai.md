@@ -1,19 +1,21 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: LiEclipse
 ---
+# Shadar-Kai
 ![[shadar-kai-image.png|float-right|300]]Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by [[The Raven Queen]]. Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies.
 
 Once shadar-kai were Fey like the rest of their elven kin; now they exist in a state between life and death, thanks to being transformed by the Shadowfell’s grim energy.
 
 Shadar-kai have ashen skin tones, and while they’re in the Shadowfell, they also become wizened, reflecting the somber nature of that gloomy plane.
-# Shadar-Kai Traits
+## Shadar-Kai Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall)
 **Speed:** 30 feet

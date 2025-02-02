@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of Striding and Springing
 >[!uncommon-wondrous-item-callout] Boots of Striding and Springing
 >![[boots-of-striding-and-springing.jpeg]]
 >

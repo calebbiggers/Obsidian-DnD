@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Wayfinders-Guide-To-Eberron-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 1500
 rarity: Uncommon
 sources:
   - "[[Wayfinder's Guide To Eberron]]"
 type: Ring
-price: 1500
 type_details: 
 ---
+# Rings of Shared Suffering
 >[!uncommon-ring-callout] `=this.file.name`
 >*Ring, Uncommon (Requires Attunement)*
 >

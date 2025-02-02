@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 200000
 rarity: Legendary
 sources:
   - "[[Fizban's Treasury of Dragons]]"
 type: Wondrous Item
-price: 200000
 type_details: 
 ---
+# Figurine of Wondrous Power (Gold Canary)
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*`=this.type`, `=this.rarity`*
 >

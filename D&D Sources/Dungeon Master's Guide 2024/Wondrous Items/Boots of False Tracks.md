@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of False Tracks
 >[!common-wondrous-item-callout] Boots of False Tracks
 >_Wondrous Item, Common (Requires Attunement)_
 >

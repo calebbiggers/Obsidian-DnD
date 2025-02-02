@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Artificer
@@ -23,8 +19,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Catapult
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

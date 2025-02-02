@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a chip of mica
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shatter
+
 >[!spell-callout] Shatter
 >_Level 2 Evocation (Bard, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Well of Many Worlds
 >[!legendary-wondrous-item-callout] Well of Many Worlds
 >_Wondrous Item, Legendary_
 >

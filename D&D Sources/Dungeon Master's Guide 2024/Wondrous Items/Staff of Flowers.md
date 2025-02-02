@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Flowers
 >[!common-staff-callout] Staff of Flowers
 >_Staff, Common_
 >

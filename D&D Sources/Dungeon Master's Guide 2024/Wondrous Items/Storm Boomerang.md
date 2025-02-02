@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Princes-Of-The-Apocalypse-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Uncommon
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: 
 ---
+# Storm Boomerang
 >[!uncommon-weapon-callout] `=this.file.name`
 >*Weapon, Uncommon*
 >

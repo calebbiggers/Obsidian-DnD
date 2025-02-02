@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Sorcerer
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Sorcerer
 icon: RaCrystals
+price: 5600
 rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 5600
 type_details: 
 ---
+# Shadowfell Shard
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Sorcerer)*
 >

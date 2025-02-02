@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Reaction, Which You Take When A Humanoid You Can See Within 60 Feet Of You Dies
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Tiny Silver Cage Worth 100 Gp)
+  - S
+  - V
 concentration: false
 duration: 8 Hours
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Necromancy
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Soul Cage
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

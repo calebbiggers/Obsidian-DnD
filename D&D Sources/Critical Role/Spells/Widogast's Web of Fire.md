@@ -1,17 +1,13 @@
 ---
-tags:
-  - Spell
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
-  - M
   - A Cat's Cradle Of Thread Or String Coated In Phosphorus
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Critical Role]]"
 type: Spell
 ---
+# Widogast's Web of Fire
 >[!spell-callout] Widogast's Web of Fire
 >_Level 4 Evocation (Wizard)_
 >

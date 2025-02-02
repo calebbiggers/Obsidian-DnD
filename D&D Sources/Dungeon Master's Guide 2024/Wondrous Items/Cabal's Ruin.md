@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
-attunement_details:
-banner: "[[Taldorei-Campaign-Guide-Reborn-Banner.jpg]]"
-banner_lock: true
-classes:
+attunement_details: 
+classes: 
 icon: LiComponent
 rarity: Legendary
 sources:
   - "[[Tal'Dorei Campaign Setting Reborn]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Cabal's Ruin
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

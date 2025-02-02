@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 7000
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 7000
 type_details: 
 ---
+# Dispelling Stone
 >[!very-rare-wondrous-item-callout] Dispelling Stone
 >*Wondrous Item, Very Rare*
 >

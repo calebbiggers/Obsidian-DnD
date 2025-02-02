@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Figurine of Wondrous Power
 >[!varies-wondrous-item-callout] Figurine of Wondrous Power
 >_Wondrous Item, Varies_
 >

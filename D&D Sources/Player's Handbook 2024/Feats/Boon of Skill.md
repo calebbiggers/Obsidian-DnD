@@ -1,15 +1,15 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: Epic Boon
-repeatable: false
 prerequisites:
   - Level 19+
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: Epic Boon
 ---
+# Boon of Skill
 >[!feat] Boon of Skill
 >_Epic Boon Feat (Prerequisite: Level 19+)_
 >
@@ -22,4 +22,4 @@ prerequisites:
 >**_Expertise._** Choose one skill in which you lack [[Expertise]]. You gain Expertise in that skill.
 >
 >![[helmet-belt-necklace.png]]
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

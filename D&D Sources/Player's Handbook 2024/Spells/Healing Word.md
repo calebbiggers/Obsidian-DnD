@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Healing Word
+
 >[!spell-callout] Healing Word
 >_Level 1 Abjuration (Bard, Cleric, Druid)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing increases by 2d4 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

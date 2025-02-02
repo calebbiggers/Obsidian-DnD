@@ -1,16 +1,12 @@
 ---
-tags:
-  - Spell
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
+tags: [Spell]
 casting_time: 1 Minute
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (5 Small Amber Gems Worth 200 Gp)
+  - S
+  - V
 concentration: false
 duration: Until Dispelled
 icon: LiWand2
@@ -24,6 +20,7 @@ sources:
   - "[[Critical Role]]"
 type: Spell
 ---
+# Widogast's Vault of Amber
 >[!spell-callout] Widogast's Vault of Amber
 >_Level 4 Transmutation (Wizard)_
 >

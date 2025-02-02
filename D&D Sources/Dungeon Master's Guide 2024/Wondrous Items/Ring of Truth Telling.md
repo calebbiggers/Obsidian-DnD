@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 150
 rarity: Uncommon
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Ring
-price: 150
 type_details: 
 ---
+# Ring of Truth Telling
 >[!uncommon-ring-callout] `=this.file.name`
 >*Ring, Uncommon (Requires Attunement)*
 >

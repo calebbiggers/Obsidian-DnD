@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Clothes of Mending
 >[!common-wondrous-item-callout] Clothes of Mending
 >_Wondrous Item, Common_
 >

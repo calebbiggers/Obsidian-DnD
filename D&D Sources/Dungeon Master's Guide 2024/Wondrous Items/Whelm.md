@@ -12,6 +12,7 @@ type_details: Warhammer
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Whelm
 >[!artifact-weapon-callout] Whelm
 >_Weapon (Warhammer) , Artifact (Requires Attunement a Dwarf or a Creature Attuned to a Belt of Dwarvenkind)_
 >

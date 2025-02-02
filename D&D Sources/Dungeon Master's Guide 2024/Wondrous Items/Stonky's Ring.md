@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Candlekeep-Mysteries-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Ring
 type_details: 
 ---
+# Stonky's Ring
 >[!unknown-rarity-ring-callout] `=this.file.name`
 >*Ring, Unknown Rarity (Requires Attunement)*
 >

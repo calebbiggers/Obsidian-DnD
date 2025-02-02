@@ -5,10 +5,10 @@ casting_time: Bonus Action
 classes:
   - "[[Warlock]]"
 components:
-  - V
-  - S
-  - M
   - a shard of blue glass
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Armor of Agathys
+
 >[!spell-callout] Armor of Agathys
 >![[armor-of-agathys.png]]
 >
@@ -36,4 +39,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

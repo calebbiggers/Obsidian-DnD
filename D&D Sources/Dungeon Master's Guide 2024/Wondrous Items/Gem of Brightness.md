@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Gem of Brightness
 >[!uncommon-wondrous-item-callout] Gem of Brightness
+>![[gem-of-brightness.png]]
+>
+>- - -
 >_Wondrous Item, Uncommon_
 >
 >This prism has 50 charges. While you are holding it, you can take a [[Actions#Magic\|Magic]] action and use one of three command words to cause one of the following effects:

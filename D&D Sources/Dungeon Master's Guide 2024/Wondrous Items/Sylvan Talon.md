@@ -12,6 +12,7 @@ type_details: Dagger, Rapier, Scimitar, Shortsword, Sickle, or Spear
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sylvan Talon
 >[!common-weapon-callout] Sylvan Talon
 >_Weapon (Dagger, Rapier, Scimitar, Shortsword, Sickle, or Spear) , Common (Requires Attunement)_
 >

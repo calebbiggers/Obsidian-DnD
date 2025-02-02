@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a miniature sword worth 250+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mordenkainen's Sword
+
 >[!spell-callout] Mordenkainen's Sword
 >_Level 7 Evocation (Bard, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >On your later turns, you can take a Bonus Action to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

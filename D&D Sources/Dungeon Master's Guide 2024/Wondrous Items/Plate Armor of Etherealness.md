@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: True
+attunement: true
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Legendary
-type: Armor
 type_details: Half Plate Armor or Plate Armor
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Plate Armor of Etherealness
 >[!legendary-armor-callout] Plate Armor of Etherealness
 >_Armor (Half Plate Armor or Plate Armor) , Legendary (Requires Attunement)_
 >

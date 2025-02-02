@@ -2,17 +2,16 @@
 tags:
   - Item
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
-icon: RaKnightHelmet
+icon: RaVest
+price: 6500
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Armor
-price: 6500
 type_details: Any
 ---
+# Last Stand Armor
 >[!very-rare-armor-callout] Last Stand Armor
 >*Armor (Any), Very Rare*
 >

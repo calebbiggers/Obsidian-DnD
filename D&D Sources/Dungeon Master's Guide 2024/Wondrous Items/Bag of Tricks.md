@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bag of Tricks
 >[!uncommon-wondrous-item-callout] Bag of Tricks
 >![[bag-of-tricks.png]]
 >

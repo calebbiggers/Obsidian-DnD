@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Spirit Board
 >[!varies-wondrous-item-callout] Spirit Board
 >_Wondrous Item, Varies_
 >

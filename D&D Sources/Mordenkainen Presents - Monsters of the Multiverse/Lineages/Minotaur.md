@@ -1,19 +1,21 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: RaHorns
 ---
+# Minotaur
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[minotaur.png|float-right|300]]Minotaurs are barrel-chested humanoids with heads resembling those of bulls. Blessed with a supernaturally strong sense of direction, minotaurs make great navigators. Some sages believe minotaurs were first created by the Lady of Pain to patrol the magical mazes that she uses to trap her foes.
 
 Minotaur horns range in size from about 1 foot long to easily three times that length. Minotaurs often carve their horns to sharpen their edges, etch symbols of power into them, or sheathe them in bronze to prevent them from shattering during battle.
 
 Thick hair extends down minotaurs’ necks and powerful backs, and some have long patches of hair on their chins and cheeks. Their legs end in heavy, cloven hooves, and they have long, tufted tails.
-# Minotaur Traits
+## Minotaur Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 5–7 feet tall)
 **Speed:** 30 feet

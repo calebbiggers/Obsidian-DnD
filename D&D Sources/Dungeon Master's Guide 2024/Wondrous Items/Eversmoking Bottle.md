@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Eversmoking Bottle
 >[!uncommon-wondrous-item-callout] Eversmoking Bottle
 >![[eversmoking-bottle.jpg]]
 >

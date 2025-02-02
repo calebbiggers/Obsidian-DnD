@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
 rarity: Legendary
 sources:
   - "[[Tal'Dorei Campaign Setting Reborn]]"
 type: Armor
 type_details: Plate
 ---
+# Plate of The Dawnmartyr
 >[!legendary-armor-callout] `=this.file.name`
 >*Armor (Plate), Legendary (Requires Attunement)*
 >

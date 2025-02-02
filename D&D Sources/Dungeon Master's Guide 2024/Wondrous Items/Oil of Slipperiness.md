@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Oil of Slipperiness
 >[!uncommon-potion-callout] Oil of Slipperiness
 >_Potion, Uncommon_
 >

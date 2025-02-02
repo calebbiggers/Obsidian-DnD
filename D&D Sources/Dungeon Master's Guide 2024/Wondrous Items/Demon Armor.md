@@ -1,16 +1,17 @@
 ---
 tags:
   - Item
-type: Armor
 attunement: true
 attunement_details: None
 classes: 
-icon: LiShield
+icon: RaVest
 rarity: Very Rare
-type_details: Any Light, Medium, or Heavy
 sources:
   - "[[Dungeon Master's Guide 2024]]"
+type: Armor
+type_details: Any Light, Medium, or Heavy
 ---
+# Demon Armor
 >[!very-rare-armor-callout] Demon Armor
 >![[demon-armor.jpg]]
 >

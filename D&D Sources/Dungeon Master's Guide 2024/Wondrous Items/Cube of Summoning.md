@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cube of Summoning
 >[!rare-wondrous-item-callout] Cube of Summoning
 >![[cube-of-summoning.png]]
 >

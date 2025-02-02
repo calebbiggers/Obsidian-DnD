@@ -1,16 +1,12 @@
 ---
-tags:
-  - Spell
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
+tags: [Spell]
 casting_time: 1 Action
 classes:
-  - "[[Druid]]"
   - "[[Cleric]]"
+  - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 Minute
 icon: LiWand2
@@ -24,6 +20,7 @@ sources:
   - "[[Critical Role]]"
 type: Spell
 ---
+# Decompose
 >[!spell-callout] Decompose
 >_Necromancy Cantrip (Cleric, Druid)_
 >

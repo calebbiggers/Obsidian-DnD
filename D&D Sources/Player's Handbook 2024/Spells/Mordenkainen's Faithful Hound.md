@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a silver whistle
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mordenkainen's Faithful Hound
+
 >[!spell-callout] Mordenkainen's Faithful Hound
 >_Level 4 Conjuration (Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >On your later turns, you can take a [[Actions#Magic\|Magic]] action to move the hound up to 30 feet.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

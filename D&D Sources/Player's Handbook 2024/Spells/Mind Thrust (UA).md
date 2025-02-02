@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Bonus Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: 1 Round
 icon: LiWand2
 level: 2
 range: 60 Feet
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Enchantment
 sources:
   - "[[Unearthed Arcana 71 - Psionic Options Revisited]]"
-type: Spell
 ---
+
+# Mind Thrust (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

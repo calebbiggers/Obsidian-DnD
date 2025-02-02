@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Spellcaster
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaCrystalWand
+price: 1000
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Staff
-price: 1000
 type_details: 
 ---
+# Staff of The Ivory Claw
 >[!rare-staff-callout] Staff of The Ivory Claw
 >*Staff, Rare (Requires Attunement By A Spellcaster)*
 >

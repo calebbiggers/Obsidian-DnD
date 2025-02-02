@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 2250
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Ring
-price: 2250
 type_details: 
 ---
+# Ring of Temporal Salvation
 >[!rare-ring-callout] Ring of Temporal Salvation
 >*Ring, Rare (Requires Attunement)*
 >

@@ -12,6 +12,7 @@ type_details: Greatclub
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Thunderous Greatclub
 >[!varies-weapon-callout] Thunderous Greatclub
 >_Weapon (Greatclub) , Varies (Requires Attunement)_
 >

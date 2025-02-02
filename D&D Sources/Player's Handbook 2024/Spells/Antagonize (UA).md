@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Bard
@@ -12,9 +8,9 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Playing Card Depicting A Rogue)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -26,8 +22,10 @@ schools:
   - Enchantment
 sources:
   - "[[Unearthed Arcana 85 - Wonders of The Multiverse]]"
-type: Spell
 ---
+
+# Antagonize (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

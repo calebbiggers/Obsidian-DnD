@@ -14,9 +14,12 @@ range: 90 feet
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hunter’s Mark
+
 >[!spell-callout] Hunter's Mark
 >_Level 1 Divination (Ranger)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** Your Concentration can last longer with a spell slot of level 3–4 (up to 8 hours) or 5+ (up to 24 hours).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

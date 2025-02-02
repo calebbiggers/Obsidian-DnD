@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Command
+
 >[!spell-callout] Command
 >_Level 1 Enchantment (Bard, Cleric, Paladin)_
 >
@@ -42,4 +45,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can affect one additional creature for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

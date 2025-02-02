@@ -5,7 +5,7 @@ casting_time: Action
 classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
-components:
+components: 
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -14,9 +14,12 @@ range: 5 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Tasha's Bubbling Cauldron
+
 >[!spell-callout] Tasha's Bubbling Cauldron
 >![[tashas-bubbling-cauldron.png]]
 >
@@ -36,4 +39,4 @@ sources:
 >Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

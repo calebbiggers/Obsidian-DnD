@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ear Horn of Hearing
 >[!common-wondrous-item-callout] Ear Horn of Hearing
 >_Wondrous Item, Common_
 >

@@ -12,6 +12,7 @@ type_details: Battleaxe, Greataxe, Halberd, or Handaxe
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Executioner's Axe
 >[!varies-weapon-callout] Executioner's Axe
 >_Weapon (Battleaxe, Greataxe, Halberd, or Handaxe) , Varies_
 >

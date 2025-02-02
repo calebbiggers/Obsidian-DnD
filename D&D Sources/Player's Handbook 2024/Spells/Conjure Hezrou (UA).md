@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl7
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (Food Worth At Least 100 Gp, Which The Spell Consumes)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
 level: 7
 range: 60 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Conjuration
 sources:
   - "[[Unearthed Arcana 11 - That Old Black Magic]]"
-type: Spell
 ---
+
+# Conjure Hezrou (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

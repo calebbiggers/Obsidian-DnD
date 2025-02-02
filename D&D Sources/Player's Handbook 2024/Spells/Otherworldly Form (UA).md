@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Cleric
@@ -12,22 +8,24 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (An Object Engraved With A Symbol Of The Outer Planes, Worth At Least 500 Gp)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 6
 range: Self
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 70 - Spells And Magic Tattoos]]"
-type: Spell
 ---
+
+# Otherworldly Form (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

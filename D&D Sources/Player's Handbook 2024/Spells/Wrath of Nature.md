@@ -1,16 +1,13 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Druid
   - Ranger
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -22,8 +19,10 @@ schools:
   - Evocation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Wrath of Nature
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Artifact
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Ring
 type_details: 
 ---
+# Ring of Winter
 >[!artifact-ring-callout] `=this.file.name`
 >*Ring, Artifact (Requires Attunement)*
 >

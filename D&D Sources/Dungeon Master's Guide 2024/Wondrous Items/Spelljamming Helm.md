@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Spelljammer-Adventures-In-Space-Astral-Adventurers-Guide-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHelmet
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Spelljamming Helm
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Spellcaster)*
 >

@@ -7,7 +7,7 @@ classes:
   - "[[Sorcerer]]"
   - "[[Warlock]]"
   - "[[Wizard]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Power Word Kill
+
 >[!spell-callout] Power Word Kill
 >_Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

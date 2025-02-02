@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Good-Aligned Creature
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
 rarity: Very Rare
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Steel
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Very Rare (Requires Attunement By A Good-Aligned Creature)*
 >

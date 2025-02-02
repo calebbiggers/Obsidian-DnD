@@ -6,10 +6,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a gilded skull worth 300+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Undead
+
 >[!spell-callout] Summon Undead
 >_Level 3 Necromancy (Warlock, Wizard)_
 >
@@ -82,4 +85,4 @@ sources:
 >**_Rotting Claw (Putrid Only)._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d6 + 3 + the spell's level Slashing damage. If the target has the [[Conditions#Poisoned\|Poisoned]] condition, it has the [[Conditions#Paralyzed\|Paralyzed]] condition until the end of its next turn.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -7,10 +7,10 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of diamond dust worth 25+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Nondetection
+
 >[!spell-callout] Nondetection
 >_Level 3 Abjuration (Bard, Ranger, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

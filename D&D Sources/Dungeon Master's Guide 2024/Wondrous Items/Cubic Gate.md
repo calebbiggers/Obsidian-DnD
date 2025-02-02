@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cubic Gate
 >[!legendary-wondrous-item-callout] Cubic Gate
 >![[cubic-gate.jpg]]
 >

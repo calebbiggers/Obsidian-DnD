@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLargeHammer
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Warhammer
 ---
+# Sunforger
 >[!rare-weapon-callout] Sunforger
 >*Weapon (Warhammer), Rare (Requires Attunement)*
 >

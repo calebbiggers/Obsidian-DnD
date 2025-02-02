@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pipe of Smoke Monsters
 >[!common-wondrous-item-callout] Pipe of Smoke Monsters
 >_Wondrous Item, Common_
 >

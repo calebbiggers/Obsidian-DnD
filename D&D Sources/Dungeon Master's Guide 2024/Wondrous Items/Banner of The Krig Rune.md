@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Storm-Kings-Thunder-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlag
 rarity: Rare
 sources:
   - "[[Storm King's Thunder]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Banner of The Krig Rune
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

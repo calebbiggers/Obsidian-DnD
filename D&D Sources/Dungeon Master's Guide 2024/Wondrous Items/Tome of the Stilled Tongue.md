@@ -13,6 +13,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tome of the Stilled Tongue
 >[!legendary-wondrous-item-callout] Tome of the Stilled Tongue
 >_Wondrous Item, Legendary (Requires Attunement a Wizard)_
 >

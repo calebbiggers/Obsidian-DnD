@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Heward's Handy Spice Pouch
 >[!common-wondrous-item-callout] Heward's Handy Spice Pouch
 >_Wondrous Item, Common_
 >

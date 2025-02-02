@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Sorcerer, Warlock, Or Wizard
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
 classes:
   - Sorcerer
   - Warlock
@@ -16,6 +13,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Mizzium Apparatus
 >[!uncommon-wondrous-item-callout] Mizzium Apparatus
 >*Wondrous Item, Uncommon (Requires Attunement By A Sorcerer, Warlock, Or Wizard)*
 >

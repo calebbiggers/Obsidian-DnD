@@ -7,9 +7,9 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - M
   - a small feather or piece of down
+  - M
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Feather Fall
+
 >[!spell-callout] Feather Fall
 >_Level 1 Transmutation (Bard, Sorcerer, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

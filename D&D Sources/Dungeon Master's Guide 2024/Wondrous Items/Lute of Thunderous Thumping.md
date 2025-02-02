@@ -12,6 +12,7 @@ type_details: Club
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Lute of Thunderous Thumping
 >[!varies-weapon-callout] Lute of Thunderous Thumping
 >_Weapon (Club) , Varies_
 >

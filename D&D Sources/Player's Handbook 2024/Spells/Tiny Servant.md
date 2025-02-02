@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Minute
 classes:
   - Artificer
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 8 Hours
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Tiny Servant
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >
@@ -38,8 +36,6 @@ type: Spell
 >As a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
 >
 >When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
->
->
 >
 >| Tiny Servant |
 >| --- |
@@ -56,6 +52,5 @@ type: Spell
 >| **Challenge:** — |
 >| Actions |
 >| ***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage. |
->
->
+
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.

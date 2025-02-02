@@ -6,8 +6,8 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Heal
+
 >[!spell-callout] Heal
 >_Level 6 Abjuration (Cleric, Druid)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing increases by 10 for each spell slot level above 6.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

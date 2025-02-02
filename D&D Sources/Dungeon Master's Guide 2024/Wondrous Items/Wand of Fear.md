@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Fear
 >[!rare-wand-callout] Wand of Fear
 >_Wand, Rare (Requires Attunement)_
 >

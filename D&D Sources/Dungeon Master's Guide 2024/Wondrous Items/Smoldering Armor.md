@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Common
-type: Armor
 type_details: Any Heavy, Medium, or Light
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Smoldering Armor
 >[!common-armor-callout] Smoldering Armor
 >_Armor (Any Heavy, Medium, or Light) , Common_
 >

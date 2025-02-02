@@ -12,7 +12,11 @@ type_details: Maul or Warhammer
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Hammer of Thunderbolts
 >[!legendary-weapon-callout] Hammer of Thunderbolts
+>![[hammer-of-thunderbolts.jpg]]
+>
+>- - -
 >_Weapon (Maul or Warhammer) , Legendary (Requires Attunement)_
 >
 >You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon.
@@ -23,11 +27,7 @@ sources:
 >
 >**Giants' Bane.** When you roll a 20 on the d20 for an attack roll made with this weapon against a Giant, the creature must succeed on a DC 17 Constitution saving throw or die.
 >
->**Might of Giants.** The Strength score bestowed by your _Belt of Giant Strength_ or _Gauntlets of Ogre Power_ increases by 4, to a maximum of 30.
->
->
->Goggles of Night, Hammer of Thunderbolts, Hag Eye, Gloves of Thievery
->
+>**Might of Giants.** The Strength score bestowed by your [[Belt of Giant Strength]] or [[Gauntlets of Ogre Power]] increases by 4, to a maximum of 30.
 
 
 ![[dungeon-masters-guide-2024.avif|banner]]

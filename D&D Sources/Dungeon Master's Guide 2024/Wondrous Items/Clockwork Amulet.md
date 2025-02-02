@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Clockwork Amulet
 >[!common-wondrous-item-callout] Clockwork Amulet
 >![[clockwork-amulet.png]]
 >

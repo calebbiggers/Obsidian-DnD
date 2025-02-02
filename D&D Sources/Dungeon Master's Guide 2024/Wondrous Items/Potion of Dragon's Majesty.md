@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiFlaskRound
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Potion
 type_details: 
 ---
+# Potion of Dragon's Majesty
 >[!legendary-potion-callout] `=this.file.name`
 >*Potion, Legendary*
 >

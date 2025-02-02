@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Veteran's Cane
 >[!common-wondrous-item-callout] Veteran's Cane
 >_Wondrous Item, Common_
 >

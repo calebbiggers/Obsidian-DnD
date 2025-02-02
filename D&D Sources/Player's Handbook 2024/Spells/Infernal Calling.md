@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Minute
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Ruby Worth At Least 999 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Infernal Calling
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

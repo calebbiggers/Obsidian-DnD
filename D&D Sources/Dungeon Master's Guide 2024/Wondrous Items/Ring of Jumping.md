@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Jumping
 >[!uncommon-ring-callout] Ring of Jumping
 >_Ring, Uncommon (Requires Attunement)_
 >

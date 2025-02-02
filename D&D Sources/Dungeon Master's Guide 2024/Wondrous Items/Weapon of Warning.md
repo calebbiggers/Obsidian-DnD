@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Weapon of Warning
 >[!uncommon-weapon-callout] Weapon of Warning
 >_Weapon (Any Simple or Martial) , Uncommon (Requires Attunement)_
 >

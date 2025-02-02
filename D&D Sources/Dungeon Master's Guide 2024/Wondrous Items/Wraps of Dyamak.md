@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Monk
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
 classes:
   - Monk
 icon: LiComponent
@@ -14,6 +11,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Wraps of Dyamak
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement By A Monk)*
 >

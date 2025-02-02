@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Wizard
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Wizard
 icon: LiComponent
+price: 15000
 rarity: Very Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 15000
 type_details: 
 ---
+# Crystalline Chronicle
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement By A Wizard)*
 >

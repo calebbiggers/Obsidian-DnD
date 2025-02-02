@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 6000
 rarity: Very Rare
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Wondrous Item
-price: 6000
 type_details: 
 ---
+# Battle Standard of Infernal Power
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

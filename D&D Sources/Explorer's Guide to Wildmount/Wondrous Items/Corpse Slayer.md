@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
+price: 1300
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 1300
 type_details: Any
 ---
+# Corpse Slayer
 >[!rare-weapon-callout] Corpse Slayer
 >*Weapon (Any), Rare (Requires Attunement)*
 >

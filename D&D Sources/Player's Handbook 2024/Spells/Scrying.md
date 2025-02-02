@@ -9,10 +9,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -21,9 +21,12 @@ range: Self
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Scrying
+
 >[!spell-callout] Scrying
 >![[scrying.png]]
 >
@@ -56,4 +59,4 @@ sources:
 >Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

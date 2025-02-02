@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Secrets
 >[!uncommon-wand-callout] Wand of Secrets
 >_Wand, Uncommon_
 >

@@ -17,9 +17,12 @@ range: 500 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dimension Door
+
 >[!spell-callout] Dimension Door
 >_Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take 4d6 Force damage, and the teleportation fails.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

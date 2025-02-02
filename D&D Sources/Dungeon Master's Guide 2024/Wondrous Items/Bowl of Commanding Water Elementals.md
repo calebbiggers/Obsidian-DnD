@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bowl of Commanding Water Elementals
 >[!rare-wondrous-item-callout] Bowl of Commanding Water Elementals
 >![[bowl-of-commanding-water-elementals.jpg]]
 >

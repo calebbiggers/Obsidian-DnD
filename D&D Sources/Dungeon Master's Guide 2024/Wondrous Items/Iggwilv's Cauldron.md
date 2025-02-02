@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Spellcaster
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Artifact
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Iggwilv's Cauldron
 >[!artifact-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Artifact (Requires Attunement By A Spellcaster)*
 >

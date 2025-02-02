@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaGemPendant
+price: 6400
 rarity: Very Rare
 sources:
   - "[[Tomb of Annihilation]]"
 type: Wondrous Item
-price: 6400
 type_details: 
 ---
+# Amulet of The Black Skull
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

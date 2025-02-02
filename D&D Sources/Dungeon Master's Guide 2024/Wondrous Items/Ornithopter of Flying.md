@@ -1,9 +1,6 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Very Rare
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Ornithopter of Flying
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare*
 >

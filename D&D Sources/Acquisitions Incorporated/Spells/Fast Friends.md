@@ -1,9 +1,5 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Bard
@@ -24,6 +20,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Fast Friends
 >[!spell-callout] Fast Friends
 >_Level 3 Enchantment (Bard, Cleric, Wizard)_
 >

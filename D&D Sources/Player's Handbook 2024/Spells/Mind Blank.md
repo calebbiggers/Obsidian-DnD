@@ -6,8 +6,8 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mind Blank
+
 >[!spell-callout] Mind Blank
 >_Level 8 Abjuration (Bard, Wizard)_
 >
@@ -30,4 +33,4 @@ sources:
 >Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the [[Conditions#Charmed\|Charmed]] condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell—not even [[Wish]]—can gather information about the target, observe it remotely, or control its mind.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

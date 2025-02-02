@@ -1,18 +1,23 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Player's Handbook]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Player's Handbook]]"
 speed: 35
+icon: LiBicepsFlexed
 ---
-![[players-handbook-banner-2024.png|banner]]![[goliath.png]]Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
+
+# Goliath
+
+![[players-handbook-2024-banner.png|banner]]![[goliath.png]]Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
 
 Goliaths have physical characteristics that are reminiscent of the giants in their family lines. For example, some goliaths look like stone giants, while others resemble fire giants. Whatever giants they count as kin, goliaths have forged their own path in the multiverse—unencumbered by the internecine conflicts that have ravaged giantkind for ages—and seek heights above those reached by their ancestors.
 
-# Goliath Traits
+## Goliath Traits
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 7–8 feet tall)
 **Speed:** 35 feet

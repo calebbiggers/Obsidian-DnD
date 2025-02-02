@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any Sword
 ---
+# Blade of The Medusa
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Any Sword), Very Rare (Requires Attunement)*
 >

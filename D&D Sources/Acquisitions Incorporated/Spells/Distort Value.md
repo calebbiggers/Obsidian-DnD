@@ -1,9 +1,5 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Minute
 classes:
   - Bard
@@ -25,6 +21,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Distort Value
 >[!spell-callout] Distort Value
 >_Level 1 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 >

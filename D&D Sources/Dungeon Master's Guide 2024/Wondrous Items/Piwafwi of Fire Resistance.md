@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Out-Of-The-Abyss-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 1400
 rarity: Rare
 sources:
   - "[[Out of the Abyss]]"
 type: Wondrous Item
-price: 1400
 type_details: 
 ---
+# Piwafwi of Fire Resistance
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

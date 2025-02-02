@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
-  - S
-  - M
   - a diamond worth 500+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Raise Dead
+
 >[!spell-callout] Raise Dead
 >![[raise-dead.png]]
 >
@@ -42,4 +45,4 @@ sources:
 >Coming back from the dead is an ordeal. The target takes a −4 penalty to [[D20 Tests]]. Every time the target finishes a [[Damage & Healing#Long Rests\|Long Rest]], the penalty is reduced by 1 until it becomes 0.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

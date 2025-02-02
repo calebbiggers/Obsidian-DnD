@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Dagger
 ---
+# Whisper
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Dagger), Legendary (Requires Attunement)*
 >

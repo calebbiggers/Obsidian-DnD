@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Arrow-Catching Shield
 >[!rare-armor-callout] Arrow-Catching Shield
 >_Armor (Shield) , Rare (Requires Attunement)_
 >

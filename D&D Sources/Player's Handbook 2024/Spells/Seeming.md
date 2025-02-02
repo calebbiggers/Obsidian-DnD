@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Seeming
+
 >[!spell-callout] Seeming
 >_Level 5 Illusion (Bard, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >A creature that takes the [[Actions#Study\|Study]] action to examine a target can make an Intelligence ([[Proficiency#Skill List\|Investigation]]) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

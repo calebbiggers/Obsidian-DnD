@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 7500
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 7500
 type_details: 
 ---
+# Far Gear
 >[!very-rare-wondrous-item-callout] Far Gear
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

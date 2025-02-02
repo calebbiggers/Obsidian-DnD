@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaMirror
+price: 3800
 rarity: Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 3800
 type_details: 
 ---
+# Mirror of The Past
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare*
 >

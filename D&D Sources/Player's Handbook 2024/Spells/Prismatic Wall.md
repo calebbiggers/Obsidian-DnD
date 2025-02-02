@@ -6,8 +6,8 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Prismatic Wall
+
 >[!spell-callout] Prismatic Wall
 >_Level 9 Abjuration (Bard, Wizard)_
 >
@@ -36,6 +39,7 @@ sources:
 >The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. [[Antimagic Field]] has no effect on the wall, and [[Dispel Magic]] can affect only the violet layer.
 >
 >##### Prismatic Layers
+>
 >|Order|Effects|
 >|---|---|
 >|1|**Red.** _Failed Save:_ 12d6 Fire damage. _Successful Save:_ Half as much damage. _Additional Effects:_ Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage.|
@@ -46,5 +50,4 @@ sources:
 >|6|**Indigo.** _Failed Save:_ The target has the [[Conditions#Restrained\|Restrained]] condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [[Conditions#Petrified\|Petrified]] condition until it is freed by an effect like the [[Greater Restoration]] spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. _Additional Effects:_ Spells can't be cast through this layer, which is destroyed by [[Exploration#Bright Light\|Bright Light]] shed by the [[Daylight]] spell.|
 >|7|**Violet.** _Failed Save:_ The target has the [[Conditions#Blinded\|Blinded]] condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). _Additional Effects:_ This layer is destroyed by [[Dispel Magic]].|
 
-
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

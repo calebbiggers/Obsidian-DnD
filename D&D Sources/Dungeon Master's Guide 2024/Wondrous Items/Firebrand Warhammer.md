@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLargeHammer
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Warhammer
 ---
+# Firebrand Warhammer
 >[!unknown-rarity-weapon-callout] `=this.file.name`
 >*Weapon (Warhammer), Unknown Rarity (Requires Attunement)*
 >

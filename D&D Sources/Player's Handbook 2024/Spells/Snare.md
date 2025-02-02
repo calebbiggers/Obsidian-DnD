@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Minute
 classes:
   - Artificer
@@ -12,9 +8,9 @@ classes:
   - Ranger
   - Wizard
 components:
-  - V
-  - S
   - M (30 Feet Of Cord Or Rope, Which Is Consumed By The Spell)
+  - S
+  - V
 concentration: false
 duration: Until Dispelled Or Triggered
 icon: LiWand2
@@ -26,8 +22,10 @@ schools:
   - Abjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Snare
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

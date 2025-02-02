@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Non-Evil Character
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiShield
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Honor's Last Stand
 >[!legendary-armor-callout] `=this.file.name`
 >*Armor (Shield), Legendary (Requires Attunement By A Non-Evil Character)*
 >

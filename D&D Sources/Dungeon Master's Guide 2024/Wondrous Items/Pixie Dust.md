@@ -1,9 +1,6 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Uncommon
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Pixie Dust
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

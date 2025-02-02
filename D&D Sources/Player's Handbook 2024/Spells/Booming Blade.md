@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 1 Action
 classes:
   - Artificer
@@ -11,8 +8,8 @@ classes:
   - Warlock
   - Wizard
 components:
-  - S
   - M (A Melee Weapon Worth At Least 1 Sp)
+  - S
 concentration: false
 duration: 1 Round
 icon: LiWand2
@@ -24,8 +21,10 @@ schools:
   - Evocation
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Booming Blade
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

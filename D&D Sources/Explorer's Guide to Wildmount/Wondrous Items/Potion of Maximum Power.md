@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlaskRound
+price: 2000
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Potion
-price: 2000
 type_details: 
 ---
+# Potion of Maximum Power
 >[!rare-potion-callout] Potion of Maximum Power
 >*Potion, Rare*
 >

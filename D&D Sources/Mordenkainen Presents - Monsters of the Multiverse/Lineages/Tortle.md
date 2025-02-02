@@ -1,19 +1,25 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
   - Small
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: LiTurtle
 ---
+
+# Tortle
+
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[tortle.png|float-right|300]]Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
 
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
-# Tortle Traits
-**Creature Type:** Humanoid  
+
+## Tortle Traits
+
+**Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet
 

@@ -5,7 +5,7 @@ casting_time: Action
 classes:
   - "[[Bard]]"
   - "[[Wizard]]"
-components:
+components: 
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -14,9 +14,12 @@ range: Self
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Yolande’s Regal Presence
+
 >[!spell-callout] Yolande’s Regal Presence
 >_Level 5 Enchantment (Bard, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >## Spells (Z)
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

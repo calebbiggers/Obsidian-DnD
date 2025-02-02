@@ -9,10 +9,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - mushroom powder worth 25+ GP, which the spell consumes
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -21,9 +21,12 @@ range: Touch
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# True Seeing
+
 >[!spell-callout] True Seeing
 >_Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >For the duration, the willing creature you touch has [[Exploration#Truesight\|Truesight]] with a range of 120 feet.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

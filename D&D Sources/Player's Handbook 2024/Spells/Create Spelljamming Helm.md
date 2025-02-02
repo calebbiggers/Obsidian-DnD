@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Spelljammer-Adventures-In-Space-Astral-Adventurers-Guide-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Action
 classes:
   - Artificer
   - Wizard
 components:
-  - V
-  - S
   - M (A Crystal Rod Worth At Least 5000 Gp, Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Transmutation
 sources:
   - "[[Spelljammer - Adventures in Space]]"
-type: Spell
 ---
+
+# Create Spelljamming Helm
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

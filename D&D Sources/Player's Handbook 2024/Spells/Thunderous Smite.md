@@ -4,7 +4,7 @@ tags:
 casting_time: Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
 classes:
   - "[[Paladin]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -13,9 +13,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Thunderous Smite
+
 >[!spell-callout] Thunderous Smite
 >_Level 1 Evocation (Paladin)_
 >
@@ -30,4 +33,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -16,6 +16,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Frost
 >[!varies-staff-callout] Staff of Frost
 >_Staff, Varies (Requires Attunement a Druid, Sorcerer, Warlock, or Wizard)_
 >

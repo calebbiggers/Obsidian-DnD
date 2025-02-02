@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 5000
 rarity: Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
-price: 5000
-type_details:
+type_details: 
 ---
+# Belt of Hill Giant Strength
 >[!rare-wondrous-item-callout] Belt Of Hill Giant Strength
 >*Wondrous Item, Rare (Requires Attunement)*
 >

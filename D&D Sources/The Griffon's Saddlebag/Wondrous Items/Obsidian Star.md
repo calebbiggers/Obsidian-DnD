@@ -1,21 +1,21 @@
 ---
 tags:
   - Item
-type: Weapon
-rarity: Rare
+attunement: true
 icon: LiSwords
+rarity: Rare
 sources:
   - "[[The Griffon's Saddlebag]]"
-banner: "[[griffons-saddlebag-banner.gif]]"
-banner_lock: true
-banner_y: 0
+type: Weapon
 type_details: Dagger
-attunement: true
 ---
+
+# Obsidian Star
+
 ![[griffons-saddlebag-banner.gif|banner]]
 >[!Rare-Weapon-callout] Obsidian Star
 > ![[obsidian-star.png]]
-> 
+>
 > ---
 >*Weapon (Dagger), Rare (Requires Attunement)*
 >

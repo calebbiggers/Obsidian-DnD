@@ -6,10 +6,10 @@ classes:
   - "[[Druid]]"
   - "[[Sorcerer]]"
 components:
-  - V
-  - S
-  - M
   - a sumac leaf
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Flame Blade
+
 >[!spell-callout] Flame Blade
 >_Level 2 Evocation (Druid, Sorcerer)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

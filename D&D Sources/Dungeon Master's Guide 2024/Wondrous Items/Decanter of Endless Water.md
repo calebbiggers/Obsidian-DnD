@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Decanter of Endless Water
 >[!uncommon-wondrous-item-callout] Decanter of Endless Water
 >![[decanter-of-endless-water.jpg]]
 >

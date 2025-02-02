@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
-attunement_details:
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+attunement_details: 
+classes: 
 icon: LiComponent
 rarity: Artifact
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Orrery of The Wanderer
 >[!artifact-wondrous-item-callout] Orrery of The Wanderer
 >*Wondrous Item, Artifact (Requires Attunement)*
 >

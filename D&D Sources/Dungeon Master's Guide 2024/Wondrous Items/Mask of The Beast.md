@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 200
 rarity: Uncommon
 sources:
   - "[[Tomb of Annihilation]]"
 type: Wondrous Item
-price: 200
 type_details: 
 ---
+# Mask of The Beast
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

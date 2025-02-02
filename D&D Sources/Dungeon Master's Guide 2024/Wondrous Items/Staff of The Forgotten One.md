@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Sorcerer, Warlock, Or Wizard
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
 classes:
   - Sorcerer
   - Warlock
@@ -16,6 +13,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Staff of The Forgotten One
 >[!artifact-staff-callout] `=this.file.name`
 >*Staff, Artifact (Requires Attunement By A Sorcerer, Warlock, Or Wizard)*
 >

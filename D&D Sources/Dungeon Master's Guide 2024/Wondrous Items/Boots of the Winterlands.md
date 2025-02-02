@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of the Winterlands
 >[!uncommon-wondrous-item-callout] Boots of the Winterlands
 >![[boots-of-the-winterlands.jpg]]
 >

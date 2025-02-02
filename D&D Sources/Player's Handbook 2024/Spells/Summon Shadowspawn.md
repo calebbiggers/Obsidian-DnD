@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 1 Action
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (Tears Inside A Crystal Vial Worth At Least 300 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Summon Shadowspawn
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >
@@ -37,8 +35,6 @@ type: Spell
 >You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drop to 0 hit points or when the spell ends.
 >
 >The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after your. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and it uses its move to avoid danger.
->
->
 >
 >| Shadow Spirit |
 >| --- |
@@ -62,6 +58,5 @@ type: Spell
 >| ***Dreadful Scream (1/Day).*** The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened of the spirit for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 >| Bonus Action |
 >| ***Shadow Stealth (Fear Only).*** While in dim light or darkness, the spirit takes the Hide action. |
->
->
+
 ***At Higher Levels.*** When you cast the spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears on the stat block.

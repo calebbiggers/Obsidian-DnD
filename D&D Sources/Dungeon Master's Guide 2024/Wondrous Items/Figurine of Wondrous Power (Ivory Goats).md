@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 14800
 rarity: Rare
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Wondrous Item
-price: 14800
-type_details:
+type_details: 
 ---
+# Figurine of Wondrous Power (Ivory Goats)
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*`=this.type`, `=this.rarity`*
 >

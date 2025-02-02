@@ -1,18 +1,18 @@
 ---
-tags:
-  - Lineage
-sources:
-  - "[[Player's Handbook]]"
+tags: [Lineage]
 creature_type: Humanoid
 sizes:
   - Small
+sources:
+  - "[[Player's Handbook]]"
 speed: 30
 ---
-![[players-handbook-banner-2024.png|banner]]![[gnome.png]]Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes’ secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
+# Gnome
+![[players-handbook-2024-banner.png|banner]]![[gnome.png]]Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes’ secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
 Gnomes are petite folk with big eyes and pointed ears, who live around 425 years. Many gnomes like the feeling of a roof over their head, even if that “roof” is nothing more than a hat.
 
-# Gnome Traits
+## Gnome Traits
 **Creature Type:** Humanoid
 **Size:** Small (about 3–4 feet tall)
 **Speed:** 30 feet

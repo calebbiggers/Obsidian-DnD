@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mirror Image
+
 >[!spell-callout] Mirror Image
 >_Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >A creature is unaffected by this spell if it has the [[Conditions#Blinded\|Blinded]] condition, [[Exploration#Blindsight\|Blindsight]], or [[Exploration#Truesight\|Truesight]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

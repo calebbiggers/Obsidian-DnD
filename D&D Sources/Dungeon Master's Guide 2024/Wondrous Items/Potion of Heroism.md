@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Heroism
 >[!rare-potion-callout] Potion of Heroism
 >_Potion, Rare_
 >

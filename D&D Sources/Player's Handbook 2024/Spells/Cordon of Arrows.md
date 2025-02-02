@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - an ornamental braid
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Cordon of Arrows
+
 >[!spell-callout] Cordon of Arrows
 >_Level 2 Transmutation (Ranger)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

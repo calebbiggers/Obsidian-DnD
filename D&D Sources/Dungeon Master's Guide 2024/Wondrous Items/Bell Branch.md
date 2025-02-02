@@ -1,21 +1,19 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Druid Or Warlock
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Druid
   - Warlock
 icon: LiComponent
+price: 1050
 rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 1050
 type_details: 
 ---
+# Bell Branch
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Druid Or Warlock)*
 >

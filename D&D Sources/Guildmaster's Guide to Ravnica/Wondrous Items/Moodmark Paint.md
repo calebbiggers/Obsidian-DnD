@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Common
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Moodmark Paint
 >[!common-wondrous-item-callout] Moodmark Paint
 >*Wondrous Item, Common*
 >

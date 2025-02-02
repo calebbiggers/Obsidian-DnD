@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Sword-Coast-Adventurers-Guide-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Artificer
@@ -11,8 +8,8 @@ classes:
   - Warlock
   - Wizard
 components:
-  - S
   - M (A Melee Weapon Worth At Least 1 Sp)
+  - S
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,10 +20,12 @@ scales: true
 schools:
   - Evocation
 sources:
-  - "[[Tasha's Cauldron of Everything]]"
   - "[[Sword Coast Adventurer's Guide]]"
-type: Spell
+  - "[[Tasha's Cauldron of Everything]]"
 ---
+
+# Green-Flame Blade
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

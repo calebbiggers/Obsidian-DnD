@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl7
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Hour
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A Vial Of Quicksilver Worth 500 Gp And A Life-Sized Human Doll, Both Of Which The Spell Consumes, And An Intricate Crystal Rod Worth At Least 1,500 Gp That Is Not Consumed)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Transmutation
 sources:
   - "[[Icewind Dale - Rime of the Frostmaiden]]"
-type: Spell
 ---
+
+# Create Magen
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

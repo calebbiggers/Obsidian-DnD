@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Bonus Action
 classes:
   - Ranger
@@ -21,8 +17,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Zephyr Strike
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

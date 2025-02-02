@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any Sword
 ---
+# Gambler's Blade
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Any Sword), Rare (Requires Attunement)*
 >

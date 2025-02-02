@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Shooting Stars
 >[!varies-ring-callout] Ring of Shooting Stars
 >_Ring, Varies (Requires Attunement)_
 >

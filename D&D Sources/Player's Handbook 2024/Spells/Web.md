@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bit of spiderweb
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Web
+
 >[!spell-callout] Web
 >_Level 2 Conjuration (Sorcerer, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >The webs are flammable. Any 5-foot [[Spells#Cube\|Cube]] of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

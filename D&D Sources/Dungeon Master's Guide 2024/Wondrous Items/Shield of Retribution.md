@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Shield of Retribution
 >[!unknown-rarity-armor-callout] `=this.file.name`
 >*Armor (Shield), Unknown Rarity (Requires Attunement)*
 >

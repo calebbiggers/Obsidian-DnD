@@ -8,10 +8,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a leather strap
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Freedom of Movement
+
 >[!spell-callout] Freedom of Movement
 >_Level 4 Abjuration (Bard, Cleric, Druid, Ranger)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 4.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

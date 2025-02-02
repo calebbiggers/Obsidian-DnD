@@ -12,6 +12,7 @@ type_details: Glaive, Greatsword, Longsword, or Scimitar
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Sharpness
 >[!varies-weapon-callout] Sword of Sharpness
 >_Weapon (Glaive, Greatsword, Longsword, or Scimitar) , Varies (Requires Attunement)_
 >

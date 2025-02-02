@@ -9,10 +9,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a jewel worth 1,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -21,9 +21,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Planar Binding
+
 >[!spell-callout] Planar Binding
 >_Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

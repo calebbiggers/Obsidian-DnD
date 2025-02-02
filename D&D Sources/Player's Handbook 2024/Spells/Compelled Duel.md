@@ -14,9 +14,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Compelled Duel
+
 >[!spell-callout] Compelled Duel
 >_Level 1 Enchantment (Paladin)_
 >
@@ -30,4 +33,4 @@ sources:
 >The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

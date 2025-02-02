@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a rotten egg
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Stinking Cloud
+
 >[!spell-callout] Stinking Cloud
 >_Level 3 Conjuration (Bard, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the [[Conditions#Poisoned\|Poisoned]] condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a Bonus Action.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Elemental-Evil-Players-Companion-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Druid
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Piece Of Obsidian)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -24,10 +20,12 @@ scales: true
 schools:
   - Transmutation
 sources:
-  - "[[Xanathar's Guide to Everything]]"
   - "[[Elemental Evil Player's Companion]]"
-type: Spell
+  - "[[Xanathar's Guide to Everything]]"
 ---
+
+# Erupting Earth
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Legend Lore
+
 >[!spell-callout] Legend Lore
 >_Level 5 Divination (Bard, Cleric, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

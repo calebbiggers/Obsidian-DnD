@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Universal Solvent
 >[!legendary-wondrous-item-callout] Universal Solvent
 >_Wondrous Item, Legendary_
 >

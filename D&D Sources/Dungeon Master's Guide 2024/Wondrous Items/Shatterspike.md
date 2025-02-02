@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
+price: 550
 rarity: Uncommon
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Weapon
-price: 550
 type_details: Longsword
 ---
+# Shatterspike
 >[!uncommon-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Uncommon (Requires Attunement)*
 >

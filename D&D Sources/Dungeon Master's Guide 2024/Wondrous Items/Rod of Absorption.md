@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Absorption
 >[!varies-rod-callout] Rod of Absorption
 >_Rod, Varies (Requires Attunement)_
 >

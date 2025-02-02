@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Lordly Might
 >[!legendary-rod-callout] Rod of Lordly Might
 >_Rod, Legendary (Requires Attunement)_
 >

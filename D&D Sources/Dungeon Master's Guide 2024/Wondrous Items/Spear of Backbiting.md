@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaSpearHead
+price: 6500
 rarity: Very Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Weapon
-price: 6500
 type_details: Spear Or Javelin
 ---
+# Spear of Backbiting
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Spear Or Javelin), Very Rare (Requires Attunement)*
 >

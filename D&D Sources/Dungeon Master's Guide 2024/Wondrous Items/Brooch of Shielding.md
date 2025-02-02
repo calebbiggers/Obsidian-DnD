@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Brooch of Shielding
 >[!uncommon-wondrous-item-callout] Brooch of Shielding
 >![[brooch-of-shielding.jpg]]
 >

@@ -5,10 +5,10 @@ casting_time: 10 minutes
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a thin sheet of lead
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mordenkainen's Private Sanctum
+
 >[!spell-callout] Mordenkainen's Private Sanctum
 >_Level 4 Abjuration (Wizard)_
 >
@@ -44,4 +47,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can increase the size of the Cube by 100 feet for each spell slot level above 4.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
+price: 900
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 900
 type_details: Any Sword
 ---
+# Acheron Blade
 >[!rare-weapon-callout] Acheron Blade
 >*Weapon (Any Sword), Rare (Requires Attunement)*
 >

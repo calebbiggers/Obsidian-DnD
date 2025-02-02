@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Djinni Summoning
 >[!legendary-ring-callout] Ring of Djinni Summoning
 >_Ring, Legendary (Requires Attunement)_
 >

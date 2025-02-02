@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dimensional Shackles
 >[!rare-wondrous-item-callout] Dimensional Shackles
 >![[dimensional-shackles.jpg]]
 >

@@ -9,10 +9,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a forked, metal rod worth 250+ GP and attuned to a plane of existence
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -21,9 +21,12 @@ range: Touch
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Plane Shift
+
 >[!spell-callout] Plane Shift
 >_Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

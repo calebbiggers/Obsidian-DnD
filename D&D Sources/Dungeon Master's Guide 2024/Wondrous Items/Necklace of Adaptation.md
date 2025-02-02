@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Necklace of Adaptation
 >[!uncommon-wondrous-item-callout] Necklace of Adaptation
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: LiComponent
+classes: 
+icon: LiTorus
 rarity: Unknown Rarity
 sources:
   - "[[Critical Role]]"
 type: Ring
-type_details: 
+type_details:
 ---
+# Band of Shrouds
 >[!unknown-rarity-ring-callout] `=this.file.name`
 >*Ring, Unknown Rarity (Requires Attunement)*
 >

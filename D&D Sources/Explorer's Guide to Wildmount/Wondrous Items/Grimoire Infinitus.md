@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Wizard
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes:
   - Wizard
 icon: LiComponent
@@ -14,6 +11,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Grimoire Infinitus
 >[!legendary-wondrous-item-callout] Grimoire Infinitus
 >*Wondrous Item, Legendary (Requires Attunement By A Wizard)*
 >

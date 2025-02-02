@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - a moonseed leaf
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Moonbeam
+
 >[!spell-callout] Moonbeam
 >_Level 2 Evocation (Druid)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

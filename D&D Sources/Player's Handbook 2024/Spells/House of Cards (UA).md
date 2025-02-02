@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Minute
 classes:
   - Artificer
@@ -12,9 +8,9 @@ classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Deck Of Cards)
+  - S
+  - V
 concentration: false
 duration: 24 Hours
 icon: LiWand2
@@ -26,8 +22,10 @@ schools:
   - Conjuration
 sources:
   - "[[Unearthed Arcana 85 - Wonders of The Multiverse]]"
-type: Spell
 ---
+
+# House of Cards (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

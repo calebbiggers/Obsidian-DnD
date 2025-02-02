@@ -1,19 +1,19 @@
 ---
-tags:
-  - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
+tags: [Lineage]
 creature_type: Humanoid
 sizes:
-  - Small
   - Medium
+  - Small
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
 ---
+# Earth Genasi
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[earth-genasi.png|float-right|300]]Tracing their ancestry to dao, the genies of the Elemental Plane of Earth, earth genasi inherit dao’s steadfast strength and control over earth.
 
 An earth genasi’s skin can be the colors of stone and earth or a human skin tone with glittering sparkles like gem dust. Some earth genasi have lines marking their skin like cracks, either showing glimmering gemlike veins or a dim, yellowish glow. Earth genasi hair can appear carved of stone or crystal or resemble strands of spun metal.
 
-# Earth Genasi Traits
+## Earth Genasi Traits
 **Creature Type:** Humanoid  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet

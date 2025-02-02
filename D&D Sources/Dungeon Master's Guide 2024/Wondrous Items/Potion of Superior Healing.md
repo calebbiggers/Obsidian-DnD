@@ -4,19 +4,23 @@ tags:
 aliases:
   - Superior Potion Of Healing
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlaskRound
+price: 750
 rarity: Rare
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Potion
-price: 750
-type_details:
+type_details: 
 ---
->[!rare-potion-callout] `=this.file.name`
->*`=this.type`, `=this.rarity`*
+
+# Potion of Superior Healing
+
+>[!rare-potion-callout] Potion of Superior Healing
+>![[z_Assets/Items/potion-of-healing.png]]
 >
->You regain `dice: 8d4 + 8` 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
+>- - -
+>_Potion, Rare_
+>
+>You regain 8d4 + 8 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 >

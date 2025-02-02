@@ -1,17 +1,14 @@
 ---
 tags:
   - Spell
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Action
 classes:
   - Artificer
   - Sorcerer
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +22,9 @@ sources:
   - "[[Strixhaven - A Curriculum of Chaos]]"
 type: Spell
 ---
+
+# Vortex Warp
+
 >[!spell-callout] Vortex Warp
 >_Level 2 Conjuration (Artificer, Sorcerer, Wizard)_
 >

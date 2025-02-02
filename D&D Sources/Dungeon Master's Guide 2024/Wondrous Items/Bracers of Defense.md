@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bracers of Defense
 >[!rare-wondrous-item-callout] Bracers of Defense
 >![[bracers-of-defense.jpg]]
 >

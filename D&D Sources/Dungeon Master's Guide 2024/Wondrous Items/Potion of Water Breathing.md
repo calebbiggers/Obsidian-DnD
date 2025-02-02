@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Water Breathing
 >[!uncommon-potion-callout] Potion of Water Breathing
 >_Potion, Uncommon_
 >

@@ -3,9 +3,7 @@ tags:
   - Item
 attunement: True
 attunement_details: 
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Legendary
 sources:
@@ -13,6 +11,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
+# Murgaxor's Orb
+
 >[!legendary-wondrous-item-callout] Murgaxor's Orb
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

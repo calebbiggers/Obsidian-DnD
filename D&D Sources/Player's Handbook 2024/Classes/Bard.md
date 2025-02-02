@@ -1,17 +1,18 @@
 ---
-sources:
-  - "[[Player's Handbook 2024]]"
-icon: DciClassIconBard
 tags:
   - Class
+icon: LiMusic
+sources:
+  - "[[Player's Handbook 2024]]"
 ---
-![[players-handbook-banner-2024.png|banner]]![[bard.png]]
+# ![[bard-symbol.png|25]] Bard
+![[players-handbook-2024-banner.png|banner]]![[bard.png]]
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
 
 Anything can inspire a new song or tale, so Bards are fascinated by almost everything. They become masters of many things, including performing music, working magic, and making jests.
 
 A Bard’s life is spent traveling, gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But Bards’ depth of knowledge and mastery of magic sets them apart.
-# Core Bard Traits
+## Core Bard Traits
 |   |   |
 |---|---|
 |Primary Ability|Charisma|
@@ -23,14 +24,14 @@ A Bard’s life is spent traveling, gathering lore, telling stories, and living 
 |Armor Training|Light armor|
 |Starting Equipment|_Choose A or B:_ (A) [[#Leather Armor]], 2 [[#Daggers]], Musical Instrument of your choice, [[Adventuring Gear#Entertainer’s Pack\|Entertainer’s Pack]], and 19 GP; or (B) 90 GP|
 
-# Becoming a Bard...
-## As a Level 1 Bard
+## Becoming a Bard...
+### As a Level 1 Bard
 - Gain all the traits in the Core Bard Traits table.
 - Gain the Bard’s level 1 features, which are listed in the Bard Features table.
-## As a Multiclass Bard
+### As a Multiclass Bard
 - Gain the following traits from the Core Bard Traits table: Hit Point Die, proficiency in one skill of your choice, proficiency with one Musical Instrument of your choice, and training with Light armor.
 - Gain the Bard’s level 1 features, which are listed in the Bard Features table. See the multiclassing rules to determine your available spell slots.
-# Bard Features Table
+## Bard Features Table
 ||   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Bardic Die|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
@@ -56,9 +57,9 @@ A Bard’s life is spent traveling, gathering lore, telling stories, and living 
 |19|+6|Epic Boon|D12|4|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Words of Creation|D12|4|22|4|3|3|3|3|2|2|1|1|
 
-# Bard Class Features
+## Bard Class Features
 As a Bard, you gain the following class features when you reach the specified Bard levels. These features are listed in the Bard Features table.
-## Level 1: Bardic Inspiration
+### Level 1: Bardic Inspiration
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
 >**_Using Bardic Inspiration._** As a Bonus Action, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
@@ -68,7 +69,7 @@ You can supernaturally inspire others through words, music, or dance. This inspi
 >**_Number of Uses._** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 >
 >**_At Higher Levels._** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a d8 at level 5, a d10 at level 10, and a d12 at level 15.
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 You have learned to cast spells through your bardic arts.
 
 >**_Cantrips._** You know two cantrips of your choice from the Bard spell list.
@@ -90,29 +91,29 @@ You have learned to cast spells through your bardic arts.
 >**_Spellcasting Ability._** Charisma is your spellcasting ability for your Bard spells.
 >
 >**_Spellcasting Focus._** You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
-## Level 2: Expertise
+### Level 2: Expertise
 You gain Expertise in two of your skill proficiencies of your choice.
 
 At Bard level 9, you gain Expertise in two more of your skill proficiencies of your choice.
-## Level 2: Jack of All Trades
+### Level 2: Jack of All Trades
 You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn’t otherwise use your Proficiency Bonus.
 
 For example, if you make a Strength ([[#Athletics]]) check and lack [[#Athletics]] proficiency, you can add half your Proficiency Bonus to the check.
-## Level 3: Bard Subclass
+### Level 3: Bard Subclass
 You gain a Bard subclass of your choice. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass’s features that are of your Bard level or lower.
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
-## Level 5: Font of Inspiration
+### Level 5: Font of Inspiration
 You now regain all your expended uses of Bardic Inspiration when you finish a Short or Long Rest.
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
-## Level 7: Countercharm
+### Level 7: Countercharm
 You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [[Conditions#Charmed\|Charmed]] or [[Conditions#Frightened\|Frightened]] condition, you can take a Reaction to cause the save to be rerolled, and the new roll has Advantage.
-## Level 10: Magical Secrets
+### Level 10: Magical Secrets
 You’ve learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the Bard, Cleric, Druid, and Wizard spell lists, and the chosen spells count as Bard spells for you. In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists.
-## Level 18: Superior Inspiration
+### Level 18: Superior Inspiration
 When you roll Initiative, you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
-## Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
-## Level 20: Words of Creation
+### Level 20: Words of Creation
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [[#Power Word Heal]] and [[#Power Word Kill]] spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.

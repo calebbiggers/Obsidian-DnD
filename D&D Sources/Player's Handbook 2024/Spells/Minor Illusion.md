@@ -8,9 +8,9 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - S
-  - M
   - a bit of fleece
+  - M
+  - S
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Minor Illusion
+
 >[!spell-callout] Minor Illusion
 >_Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Image._** If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot [[Spells#Cube\|Cube]]. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

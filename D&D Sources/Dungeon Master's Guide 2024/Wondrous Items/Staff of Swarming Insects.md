@@ -18,6 +18,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Swarming Insects
 >[!rare-staff-callout] Staff of Swarming Insects
 >_Staff, Rare (Requires Attunement a Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard)_
 >

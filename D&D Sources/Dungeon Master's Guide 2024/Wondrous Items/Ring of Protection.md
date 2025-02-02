@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Protection
 >[!rare-ring-callout] Ring of Protection
 >![[ring-of-protection.jpeg]]
 >

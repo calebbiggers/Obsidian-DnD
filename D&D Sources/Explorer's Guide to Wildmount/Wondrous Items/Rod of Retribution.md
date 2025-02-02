@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiWand2
+price: 2000
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Rod
-price: 2000
 type_details: 
 ---
+# Rod of Retribution
 >[!uncommon-rod-callout] Rod of Retribution
 >*Rod, Uncommon (Requires Attunement)*
 >

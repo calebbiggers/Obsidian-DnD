@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
-  - S
-  - M
   - a reliquary worth 500+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Celestial
+
 >[!spell-callout] Summon Celestial
 >_Level 5 Conjuration (Cleric, Paladin)_
 >
@@ -78,4 +81,4 @@ sources:
 >**_Healing Touch (1/Day)._** The spirit touches another creature. The target regains Hit Points equal to 2d8 + the spell's level.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

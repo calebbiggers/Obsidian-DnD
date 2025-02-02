@@ -14,9 +14,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Destructive Wave
+
 >[!spell-callout] Destructive Wave
 >_Level 5 Evocation (Paladin)_
 >
@@ -28,4 +31,4 @@ sources:
 >Destructive energy ripples outward from you in a 30-foot [[Spells#Emanation\|Emanation]]. Each creature you choose in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the [[Conditions#Prone\|Prone]] condition. On a successful save, a target takes half as much damage only.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

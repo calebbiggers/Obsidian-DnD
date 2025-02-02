@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a glass sphere
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Otiluke's Resilient Sphere
+
 >[!spell-callout] Otiluke's Resilient Sphere
 >_Level 4 Abjuration (Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >A [[Disintegrate]] spell targeting the globe destroys it without harming anything inside.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a mixture of water and dust
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 300 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Control Water
+
 >[!spell-callout] Control Water
 >_Level 4 Transmutation (Cleric, Druid, Wizard)_
 >
@@ -43,4 +46,4 @@ sources:
 >**_Whirlpool._** You cause a whirlpool to form in the center of the area, which must be at least 50 feet square and 25 feet deep. The whirlpool lasts until you choose a different effect or the spell ends. The whirlpool is 5 feet wide at the base, up to 50 feet wide at the top, and 25 feet tall. Any creature in the water and within 25 feet of the whirlpool is pulled 10 feet toward it. When a creature enters the whirlpool for the first time on a turn or ends its turn there, it makes a Strength saving throw. On a failed save, the creature takes 2d8 Bludgeoning damage. On a successful save, the creature takes half as much damage. A creature can swim away from the whirlpool only if it first takes an action to pull away and succeeds on a Strength ([[Proficiency#Skill List\|Athletics ]]) check against your spell save DC.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

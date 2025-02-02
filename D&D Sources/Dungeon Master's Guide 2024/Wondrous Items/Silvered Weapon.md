@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Silvered Weapon
 >[!common-weapon-callout] Silvered Weapon
 >_Weapon (Any Simple or Martial) , Common_
 >

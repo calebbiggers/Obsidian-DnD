@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Uncommon
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Skyblinder Staff
 >[!uncommon-staff-callout] Skyblinder Staff
 >*Staff, Uncommon (Requires Attunement)*
 >

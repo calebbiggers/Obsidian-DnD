@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: true
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Meld into Stone
+
 >[!spell-callout] Meld into Stone
 >_Level 3 Transmutation (Cleric, Druid, Ranger)_
 >
@@ -35,4 +38,4 @@ sources:
 >Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 Force damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 Force damage to you. If expelled, you move into an unoccupied space closest to where you first entered and have the [[Conditions#Prone\|Prone]] condition.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

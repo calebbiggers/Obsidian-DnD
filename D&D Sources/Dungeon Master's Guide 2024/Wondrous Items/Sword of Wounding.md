@@ -12,6 +12,7 @@ type_details: Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Wounding
 >[!rare-weapon-callout] Sword of Wounding
 >_Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Rare (Requires Attunement)_
 >

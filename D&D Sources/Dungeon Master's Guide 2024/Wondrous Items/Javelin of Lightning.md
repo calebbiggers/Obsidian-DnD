@@ -12,7 +12,11 @@ type_details: Javelin
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Javelin of Lightning
 >[!uncommon-weapon-callout] Javelin of Lightning
+>![[javelin-of-lightening.jpg]]
+>
+>- - -
 >_Weapon (Javelin) , Uncommon_
 >
 >Each time you make an attack roll with this magic weapon and hit, you can have it deal Lightning damage instead of Piercing damage.

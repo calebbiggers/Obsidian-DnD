@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Curse-Of-Strahd-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaSpearHead
 rarity: Uncommon
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Spear
 ---
+# Blood Spear
 >[!uncommon-weapon-callout] `=this.file.name`
 >*Weapon (Spear), Uncommon (Requires Attunement)*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Robe of Stars
 >[!varies-wondrous-item-callout] Robe of Stars
 >_Wondrous Item, Varies (Requires Attunement)_
 >

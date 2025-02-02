@@ -7,7 +7,7 @@ classes:
   - "[[Ranger]]"
   - "[[Sorcerer]]"
   - "[[Wizard]]"
-components:
+components: 
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Jump
+
 >[!spell-callout] Jump
 >_Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

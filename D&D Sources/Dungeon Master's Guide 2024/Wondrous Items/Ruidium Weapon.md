@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Call-Of-The-Netherdeep-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any
 ---
+# Ruidium Weapon
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Any), Very Rare (Requires Attunement)*
 >

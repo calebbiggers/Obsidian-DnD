@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Deck of Many Things
 >[!legendary-wondrous-item-callout] Deck of Many Things
 >_Wondrous Item, Legendary_
 >

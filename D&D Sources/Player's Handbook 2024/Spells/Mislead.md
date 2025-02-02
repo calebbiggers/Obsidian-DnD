@@ -16,9 +16,12 @@ range: Self
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mislead
+
 >[!spell-callout] Mislead
 >_Level 5 Illusion (Bard, Warlock, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >You can see through its eyes and hear through its ears as if you were located where it is.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

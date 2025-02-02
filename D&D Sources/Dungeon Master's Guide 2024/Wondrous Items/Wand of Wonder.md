@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Wonder
 >[!rare-wand-callout] Wand of Wonder
 >_Wand, Rare (Requires Attunement)_
 >
@@ -28,7 +29,7 @@ sources:
 >|31–35|Nothing happens at the chosen point of origin. Instead, you take 1d6 Psychic damage.|
 >|36–40|Heavy rain falls for 1 minute in a 120-foot-high, 60-foot-radius [[Spells#Cylinder\|Cylinder]] centered on the chosen point of origin. During that time, the area of effect is [[Exploration#Lightly Obscured\|Lightly Obscured]].|
 >|41–45|A cloud of 600 oversized butterflies fills a 60-foot-high, 30-foot-radius [[Spells#Cylinder\|Cylinder]] centered on the chosen point of origin. The butterflies remain for 10 minutes, during which time the area of effect is [[Exploration#Heavily Obscured\|Heavily Obscured]].|
->|46–50|You cast [[Lightning Bolt]]. The [[Spells#Line\|Line]] created by the spell extends from you to the chosen point of origin.|
+>|46–50|You cast [[D&D Sources/Player's Handbook 2024/Spells/Lightning Bolt]]. The [[Spells#Line\|Line]] created by the spell extends from you to the chosen point of origin.|
 >|51–55|The creature closest to the chosen point of origin is enlarged as if you had cast [[Enlarge/Reduce]] on it. If the target isn't you and can't be affected by that spell, you become the target instead.|
 >|56–60|A magically formed creature appears in an unoccupied space as close to the chosen point of origin as possible. The creature isn't under your control, acts as it normally would, and disappears after 1 hour or when it drops to 0 Hit Points. Roll 1d4 to determine which creature appears. On a **1**, a [[Rhinoceros]] appears; on a **2**, an [[Elephant]] appears; and on a **3–4**, a [[Rat]] appears.|
 >|61–64|Grass covers a 60-foot-radius circle of ground, with the center of that circle as close to the chosen point of origin as possible. Grass that's already there grows to ten times its normal size and remains overgrown for 1 minute.|

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Curse-Of-Strahd-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Sunsword
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Legendary (Requires Attunement)*
 >

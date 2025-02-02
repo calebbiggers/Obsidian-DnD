@@ -5,7 +5,7 @@ casting_time: Bonus Action
 classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -14,9 +14,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Arcane Vigor
+
 >[!spell-callout] Arcane Vigor
 >_Level 2 Abjuration (Sorcerer, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

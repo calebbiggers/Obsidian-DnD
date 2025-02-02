@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By An Evil Cleric Or Paladin
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
 classes:
   - Cleric
   - Paladin
@@ -15,6 +12,7 @@ sources:
 type: Weapon
 type_details: Battleaxe
 ---
+# Fane-Eater
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Battleaxe), Legendary (Requires Attunement By An Evil Cleric Or Paladin)*
 >

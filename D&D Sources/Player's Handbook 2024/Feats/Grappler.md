@@ -1,16 +1,16 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: General
-repeatable: false
 prerequisites:
   - Level 4+
   - Strength or Dexterity 13+
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: General
 ---
+# Grappler
 >[!feat] Grappler
 >_General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)_
 >
@@ -23,4 +23,4 @@ prerequisites:
 >**_Attack Advantage._** You have [[D20 Tests#Advantage/Disadvantage\|Advantage]] on attack rolls against a creature [[Conditions#Grappled\|Grappled]] by you.
 >
 >**_Fast Wrestler._** You don't have to spend extra movement to move a creature [[Conditions#Grappled\|Grappled]] by you if the creature is your size or smaller.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

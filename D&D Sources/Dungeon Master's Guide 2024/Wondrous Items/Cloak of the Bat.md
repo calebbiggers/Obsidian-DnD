@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of the Bat
 >[!rare-wondrous-item-callout] Cloak of the Bat
 >_Wondrous Item, Rare (Requires Attunement)_
 >

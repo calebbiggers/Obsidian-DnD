@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 10 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Astral Projection
+
 >[!spell-callout] Astral Projection
 >_Level 9 Necromancy (Cleric, Warlock, Wizard)_
 >
@@ -41,4 +44,4 @@ sources:
 >When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Wizard
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes:
   - Wizard
 icon: RaCrystalWand
+price: 27000
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Staff
-price: 27000
 type_details: 
 ---
+# Staff of Dunamancy
 >[!very-rare-staff-callout] Staff of Dunamancy
 >*Staff, Very Rare (Requires Attunement By A Wizard)*
 >

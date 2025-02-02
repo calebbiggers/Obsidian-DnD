@@ -12,8 +12,12 @@ type_details: Longbow or Shortbow
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-weapon-callout] Energy Bow
->_Weapon (Longbow or Shortbow) , Varies (Requires Attunement)_
+# Energy Bow
+>[!very-rare-weapon-callout] Energy Bow
+>![[energy-bow.png]]
+>
+>- - -
+>_Weapon (Longbow or Shortbow) , Very Rare (Requires Attunement)_
 >
 >You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [[Exploration#Bright Light\|Bright Light]] in a 20-foot radius and [[Exploration#Dim Light\|Dim Light]] for an additional 20 feet.
 >
@@ -24,10 +28,6 @@ sources:
 >**_Arrow of Transport._** As a [[Actions#Magic\|Magic]] action, you can fire one energy arrow from this weapon at a target you can see within 60 feet of yourself. The target can be either a willing Medium or smaller creature or an object that isn't being worn or carried, provided the object is small enough to fit inside a 5-foot [[Spells#Cube\|Cube]]. The arrow teleports the target to an unoccupied space you can see within 10 feet of you.
 >
 >**_Energy Ladder._** As a [[Actions#Magic\|Magic]] action, you can loose a flurry of energy arrows from this weapon at a wall up to 60 feet away from yourself. The arrows become glowing rungs that stick out of the wall, forming a magical ladder up to 60 feet long on the wall. This ladder lasts for 1 minute before disappearing.
->
->
->Hank draws his Energy Bow
->
 
 
 ![[dungeon-masters-guide-2024.avif|banner]]

@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 1 Action
 classes:
   - Sorcerer
@@ -22,8 +18,10 @@ schools:
   - Enchantment
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Tasha's Mind Whip
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

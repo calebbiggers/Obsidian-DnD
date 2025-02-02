@@ -14,9 +14,12 @@ range: 5 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Word of Recall
+
 >[!spell-callout] Word of Recall
 >_Level 6 Conjuration (Cleric)_
 >
@@ -30,4 +33,4 @@ sources:
 >You must designate a location, such as a temple, as a sanctuary by casting this spell there.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

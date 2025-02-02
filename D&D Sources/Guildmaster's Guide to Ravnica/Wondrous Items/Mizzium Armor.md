@@ -1,17 +1,16 @@
 ---
 tags:
   - Item
-attunement: False
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: false
+classes: 
+icon: RaVest
 rarity: Rare
 sources:
   - "[[Guildmaster's Guide to Ravnica]]"
 type: Armor
 type_details: Medium Or Heavy, But Not Hide
 ---
+# Mizzium Armor
 >[!rare-armor-callout] Mizzium Armor
 >*Armor (Medium Or Heavy, But Not Hide), Rare*
 >

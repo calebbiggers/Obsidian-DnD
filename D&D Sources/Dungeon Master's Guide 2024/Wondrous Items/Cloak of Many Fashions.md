@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of Many Fashions
 >[!common-wondrous-item-callout] Cloak of Many Fashions
 >![[cloak-of-many-fashions.png]]
 >

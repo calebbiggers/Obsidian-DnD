@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bag of Holding
 >[!uncommon-wondrous-item-callout] Bag of Holding
 >![[bag-of-holding.jpg]]
 >

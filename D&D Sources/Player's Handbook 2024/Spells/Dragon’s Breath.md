@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a hot pepper
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dragon’s Breath
+
 >[!spell-callout] Dragon’s Breath
 >_Level 2 Transmutation (Sorcerer, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

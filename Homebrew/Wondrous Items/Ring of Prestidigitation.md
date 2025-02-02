@@ -1,15 +1,15 @@
 ---
 tags:
   - Item
-type: Ring
+icon: LiTorus
 rarity: Common
-icon: LiComponent
 sources:
   - "[[Homebrew]]"
-banner: "[[Homebrew-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
+type: Ring
 ---
+
+# Ring of Prestidigitation
+
 ![[Homebrew-Banner.jpg|banner]]
 >[!Common-Ring-callout] Ring of Prestidigitation
 > ![[ring-of-prestidigitation.png]]

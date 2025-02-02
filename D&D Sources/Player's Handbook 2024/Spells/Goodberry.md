@@ -6,10 +6,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a sprig of mistletoe
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Goodberry
+
 >[!spell-callout] Goodberry
 >_Level 1 Conjuration (Druid, Ranger)_
 >
@@ -34,4 +37,4 @@ sources:
 >Uneaten berries disappear when the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

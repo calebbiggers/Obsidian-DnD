@@ -1,16 +1,13 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Warlock
 components:
-  - V
-  - S
   - M (An Undead Eyeball Encased In A Gem Worth At Least 150 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -22,8 +19,10 @@ schools:
   - Necromancy
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Shadow of Moil
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a drop of bitumen and a spider
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Spider Climb
+
 >[!spell-callout] Spider Climb
 >_Level 2 Transmutation (Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level about 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

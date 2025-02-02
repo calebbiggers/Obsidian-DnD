@@ -2,8 +2,6 @@
 tags:
   - Item
 attunement: False
-banner: 
-banner_lock: True
 classes:
 icon: LiComponent
 rarity: Unique
@@ -11,6 +9,7 @@ sources:
 type - Wondrous Item
 type_details: 
 ---
+# Gnomengarde Grenade
 >[!unique-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Unique*
 >

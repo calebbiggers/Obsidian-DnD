@@ -1,11 +1,9 @@
 ---
-tags:
-  - Players-Handbook
-banner: "[[Players-Handbook-Banner.jpg]]"
-banner_lock: true
+tags: []
 ---
-![[players-handbook-banner-2024.png|banner]]
 # Trade Goods
+![[players-handbook-2024-banner.png|banner]]
+## Trade Goods
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of the Ram
 >[!rare-ring-callout] Ring of the Ram
 >_Ring, Rare (Requires Attunement)_
 >

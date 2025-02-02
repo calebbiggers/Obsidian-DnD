@@ -5,10 +5,10 @@ casting_time: 24 hours
 classes:
   - "[[Cleric]]"
 components:
-  - V
-  - S
-  - M
   - incense worth 1,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hallow
+
 >[!spell-callout] Hallow
 >_Level 5 Abjuration (Cleric)_
 >
@@ -55,4 +58,4 @@ sources:
 >**Vulnerability.** Creatures of any types you choose have Vulnerability to one damage type of your choice while in the area.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

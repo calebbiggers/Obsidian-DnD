@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Danoth's Visor
 >[!legendary-wondrous-item-callout] Danoth's Visor
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

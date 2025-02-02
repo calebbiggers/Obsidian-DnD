@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
-attunement_details:
-banner: "[[Critical-Role-Call-Of-The-Netherdeep-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: true
+attunement_details: 
+classes: 
+icon: RaVest
 rarity: Very Rare
 sources:
   - "[[Critical Role - Call of the Netherdeep]]"
 type: Armor
 type_details: Any Medium Or Heavy Except Hide
 ---
+# Ruidium Armor
 >[!very-rare-armor-callout] `=this.file.name`
 >*Armor (Any Medium Or Heavy Except Hide), Very Rare (Requires Attunement)*
 >

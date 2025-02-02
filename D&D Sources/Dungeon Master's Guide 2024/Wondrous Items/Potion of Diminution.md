@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Diminution
 >[!rare-potion-callout] Potion of Diminution
 >_Potion, Rare_
 >

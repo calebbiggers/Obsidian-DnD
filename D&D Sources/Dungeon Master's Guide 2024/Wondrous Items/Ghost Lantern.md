@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLanternFlame
+price: 1750
 rarity: Rare
 sources:
   - "[[Tomb of Annihilation]]"
 type: Wondrous Item
-price: 1750
 type_details: 
 ---
+# Ghost Lantern
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

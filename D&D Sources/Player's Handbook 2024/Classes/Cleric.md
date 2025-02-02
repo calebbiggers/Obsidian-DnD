@@ -1,17 +1,18 @@
 ---
-sources:
-  - "[[Player's Handbook 2024]]"
-icon: DciClassIconCleric
 tags:
   - Class
+icon: RiCrossLine
+sources:
+  - "[[Player's Handbook 2024]]"
 ---
-![[players-handbook-banner-2024.png|banner]]![[cleric.png]]
+# ![[cleric-symbol.png|25]] Cleric
+![[players-handbook-2024-banner.png|banner]]![[cleric.png]]
 Clerics draw power from the realms of the gods and harness it to work miracles. Blessed by a deity, a pantheon, or another immortal entity, a Cleric can reach out to the divine magic of the Outer Planes—where gods dwell—and channel it to bolster people and battle foes.
 
 Because their power is a divine gift, Clerics typically associate themselves with temples dedicated to the deity or other immortal force that unlocked their magic. Harnessing divine magic doesn’t rely on specific training, yet Clerics might learn prayers and rites that help them draw on power from the Outer Planes.
 
 Not every member of a temple or shrine is a Cleric. Some priests are called to a simple life of temple service, carrying out their devotion through prayer and rituals, not through magic. Many mortals claim to speak for the gods, but few can marshal the power of those gods the way a Cleric can.
-# Core Cleric Traits
+## Core Cleric Traits
 |   |   |
 |---|---|
 |Primary Ability|Wisdom|
@@ -22,14 +23,14 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 |Armor Training|Light and Medium armor and Shields|
 |Starting Equipment|_Choose A or B:_ (A) [[#Chain Shirt]], [[Armor#Shield\|Shield]], [[#Mace]], [[Adventuring Gear#Holy Symbol\|Holy Symbol]], [[Adventuring Gear#Priest’s Pack\|Priest’s Pack]], and 7 GP; or (B) 110 GP|
 
-# Becoming a Cleric...
-## As a Level 1 Character
+## Becoming a Cleric...
+### As a Level 1 Character
 - Gain all the traits in the Core Cleric Traits table.
 - Gain the Cleric’s level 1 features, which are listed in the Cleric Features table.
-## As a Multiclass Character
+### As a Multiclass Character
 - Gain the following traits from the Core Cleric Traits table: Hit Point Die and training with Light and Medium armor and Shields.
 - Gain the Cleric’s level 1 features, which are listed in the Cleric Features table. See the multiclassing rules to determine your available spell slots.
-# Cleric Features Table
+## Cleric Features Table
 ||   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Channel Divinity|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
@@ -55,9 +56,9 @@ Not every member of a temple or shrine is a Cleric. Some priests are called to a
 |19|+6|Epic Boon|4|5|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Greater Divine Intervention|4|5|22|4|3|3|3|3|2|2|1|1|
 
-# Cleric Class Features
+## Cleric Class Features
 As a Cleric, you gain the following class features when you reach the specified Cleric levels. These features are listed in the Cleric Features table.
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 You have learned to cast spells through prayer and meditation. The information below details how you use those rules with Cleric spells, which appear on the Cleric spell list.
 
 >**_Cantrips._** You know three cantrips of your choice from the Cleric spell list.
@@ -79,12 +80,12 @@ You have learned to cast spells through prayer and meditation. The information b
 >**_Spellcasting Ability._** Wisdom is your spellcasting ability for your Cleric spells.
 >
 >**_Spellcasting Focus._** You can use a Holy Symbol as a Spellcasting Focus for your Cleric spells.
-## Level 1: Divine Order
+### Level 1: Divine Order
 You have dedicated yourself to one of the following sacred roles of your choice.
 >**_Protector._** Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
 >
 >**_Thaumaturge._** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([[#Arcana]] or [[#Religion]]) checks. The bonus equals your Wisdom modifier (minimum of +1).
-## Level 2: Channel Divinity
+### Level 2: Channel Divinity
 You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class’s Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.
 
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.
@@ -96,26 +97,26 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 >You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 >
 >**_Turn Undead._** As a [[Actions#Magic\|Magic]] action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the [[Conditions#Frightened\|Frightened]] and [[Conditions#Incapacitated\|Incapacitated]] conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the [[Conditions#Incapacitated\|Incapacitated]] condition, or if you die.
-## Level 3: Cleric Subclass
+### Level 3: Cleric Subclass
 You gain a Cleric subclass of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16.
-## Level 5: Sear Undead
+### Level 5: Sear Undead
 Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.
-## Level 7: Blessed Strikes
+### Level 7: Blessed Strikes
 Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).
 >**_Divine Strike._** Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant damage (your choice).
 >
 >**_Potent Spellcasting._** Add your Wisdom modifier to the damage you deal with any Cleric cantrip.
-## Level 10: Divine Intervention
+### Level 10: Divine Intervention
 You can call on your deity or pantheon to intervene on your behalf. As a [[Actions#Magic\|Magic]] action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a Long Rest.
-## Level 14: Improved Blessed Strikes
+### Level 14: Improved Blessed Strikes
 The option you chose for Blessed Strikes grows more powerful.
 >**_Divine Strike._** The extra damage of your Divine Strike increases to 2d8.
 >
 >**_Potent Spellcasting._** When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of [[Damage & Healing#Temporary Hit Points\|Temporary Hit Points]] equal to twice your Wisdom modifier.
-## Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
-## Level 20: Greater Divine Intervention
+### Level 20: Greater Divine Intervention
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [[#Wish]] when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
 

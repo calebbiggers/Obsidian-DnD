@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaGemPendant
+price: 500
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 500
 type_details: 
 ---
+# Amulet of The Drunkard
 >[!uncommon-wondrous-item-callout] Amulet of The Drunkard
 >*Wondrous Item, Uncommon*
 >

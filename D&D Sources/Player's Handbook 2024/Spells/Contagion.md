@@ -5,7 +5,7 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
   - "[[Druid]]"
-components:
+components: 
 concentration: false
 duration: 7 days
 icon: LiWand2
@@ -14,9 +14,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Contagion
+
 >[!spell-callout] Contagion
 >_Level 5 Necromancy (Cleric, Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >Whenever the Poisoned target receives an effect that would end the Poisoned condition, the target must succeed on a Constitution saving throw, or the Poisoned condition doesn't end on it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

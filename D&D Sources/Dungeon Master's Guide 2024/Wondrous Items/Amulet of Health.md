@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Amulet of Health
 >[!rare-wondrous-item-callout] Amulet of Health
 >![[amulet-of-health.jpg]]
 >

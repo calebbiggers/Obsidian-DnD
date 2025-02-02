@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature The Sword Deems Worthy
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Artifact
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Sword of Zariel
 >[!artifact-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Artifact (Requires Attunement By A Creature The Sword Deems Worthy)*
 >

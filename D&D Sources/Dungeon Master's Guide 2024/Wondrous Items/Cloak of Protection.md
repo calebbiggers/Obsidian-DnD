@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of Protection
 >[!uncommon-wondrous-item-callout] Cloak of Protection
 >![[cloak-of-protection.jpg]]
 >

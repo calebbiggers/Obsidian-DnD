@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Vial Of Blood From A Humanoid Killed Within The Past 24 Hours)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Summon Greater Demon
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

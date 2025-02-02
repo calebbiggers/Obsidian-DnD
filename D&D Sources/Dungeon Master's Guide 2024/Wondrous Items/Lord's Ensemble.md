@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature With A Humanoid Build
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 5000
 rarity: Very Rare
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Wondrous Item
-price: 5000
 type_details: 
 ---
+# Lord's Ensemble
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement By A Creature With A Humanoid Build)*
 >

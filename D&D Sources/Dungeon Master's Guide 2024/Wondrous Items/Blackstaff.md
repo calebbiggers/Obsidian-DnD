@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By The Blackstaff Heir, Who Must Be A Wizard
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
 classes:
   - Wizard
 icon: RaCrystalWand
+price: 64800
 rarity: Legendary
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Staff
-price: 64800
 type_details: 
 ---
+# Blackstaff
 >[!legendary-staff-callout] `=this.file.name`
 >*Staff, Legendary (Requires Attunement By The Blackstaff Heir, Who Must Be A Wizard)*
 >

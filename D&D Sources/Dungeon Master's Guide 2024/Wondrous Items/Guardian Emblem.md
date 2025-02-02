@@ -1,21 +1,19 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Cleric Or Paladin
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Cleric
   - Paladin
 icon: LiComponent
+price: 4500
 rarity: Uncommon
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 4500
 type_details: Holy Symbol
 ---
+# Guardian Emblem
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item (Holy Symbol), Uncommon (Requires Attunement By A Cleric Or Paladin)*
 >

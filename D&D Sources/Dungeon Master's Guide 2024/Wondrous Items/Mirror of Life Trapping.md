@@ -6,14 +6,18 @@ attunement: False
 attunement_details: None
 classes:
 icon: LiComponent
-rarity: Varies
+rarity: Very Rare
 type: Wondrous Item
 type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-wondrous-item-callout] Mirror of Life Trapping
->_Wondrous Item, Varies_
+# Mirror of Life Trapping
+>[!very-rare-wondrous-item-callout] Mirror of Life Trapping
+>![[mirror-of-life-trapping.jpg]]
+>
+>- - -
+>_Wondrous Item, Very Rare_
 >
 >When this 4-foot-tall, 2-foot-wide mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, HP 10, Immunity to Poison and Psychic damage, and [[Vulnerability]] to Bludgeoning damage. It shatters and is destroyed when reduced to 0 Hit Points.
 >

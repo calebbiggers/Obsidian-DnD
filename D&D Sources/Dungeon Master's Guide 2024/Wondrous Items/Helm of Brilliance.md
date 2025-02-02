@@ -6,14 +6,18 @@ attunement: True
 attunement_details: None
 classes:
 icon: LiComponent
-rarity: Varies
+rarity: Very Rare
 type: Wondrous Item
 type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-wondrous-item-callout] Helm of Brilliance
->_Wondrous Item, Varies (Requires Attunement)_
+# Helm of Brilliance
+>[!very-rare-wondrous-item-callout] Helm of Brilliance
+>![[helm-of-brilliance.jpg]]
+>
+>- - -
+>_Wondrous Item, Very Rare (Requires Attunement)_
 >
 >This helm is set with 1d10 diamonds, 2d10 rubies, 3d10 fire opals, and 4d10 opals. Any gem pried from the helm crumbles to dust. When all the gems are removed or destroyed, the helm loses its magic.
 >

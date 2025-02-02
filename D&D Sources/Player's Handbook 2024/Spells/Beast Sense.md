@@ -15,9 +15,12 @@ range: Touch
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Beast Sense
+
 >[!spell-callout] Beast Sense
 >_Level 2 Divination (Druid, Ranger)_
 >
@@ -29,4 +32,4 @@ sources:
 >You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

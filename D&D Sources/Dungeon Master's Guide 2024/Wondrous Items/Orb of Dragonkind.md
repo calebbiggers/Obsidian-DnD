@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Orb of Dragonkind
 >[!artifact-wondrous-item-callout] Orb of Dragonkind
 >_Wondrous Item, Artifact (Requires Attunement)_
 >

@@ -5,10 +5,10 @@ casting_time: 1 minute
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a gem, crystal, or reliquary worth 500+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Magic Jar
+
 >[!spell-callout] Magic Jar
 >_Level 6 Necromancy (Wizard)_
 >
@@ -43,4 +46,4 @@ sources:
 >When the spell ends, the container is destroyed.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

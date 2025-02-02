@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
-  - S
   - M
+  - S
   - the stem of a thorny plant
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Thorn Whip
+
 >[!spell-callout] Thorn Whip
 >_Transmutation Cantrip (Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

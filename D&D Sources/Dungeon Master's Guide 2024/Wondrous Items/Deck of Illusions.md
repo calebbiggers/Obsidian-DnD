@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Deck of Illusions
 >[!uncommon-wondrous-item-callout] Deck of Illusions
 >_Wondrous Item, Uncommon_
 >

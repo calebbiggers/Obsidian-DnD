@@ -1,32 +1,30 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: True
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 5
 range: 120 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
-  - Transmutation
   - (Technomagic)
+  - Transmutation
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Shutdown (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

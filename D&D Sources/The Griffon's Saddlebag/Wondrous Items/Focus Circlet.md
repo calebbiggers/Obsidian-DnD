@@ -1,21 +1,21 @@
 ---
 tags:
   - Item
-type: Wondrous Item
-rarity: Uncommon
-icon: LiComponent
-sources:
-  - "[[The Griffon's Saddlebag]]"
-banner: "[[griffons-saddlebag-banner.gif]]"
-banner_lock: true
-banner_y: 0
 attunement: true
 attunement_details: By A Spellcaster
+icon: LiComponent
+rarity: Uncommon
+sources:
+  - "[[The Griffon's Saddlebag]]"
+type: Wondrous Item
 ---
+
+# Focus Circlet
+
 ![[griffons-saddlebag-banner.gif|banner]]
 >[!Uncommon-Wondrous-Item-callout] Focus Circlet
 > ![[focus-circlet.png]]
-> 
+>
 > ---
 >*Wondrous Item, Uncommon (Requires Attunement by a Spellcaster)*
 >

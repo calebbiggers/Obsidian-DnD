@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Invisibility
 >[!rare-potion-callout] Potion of Invisibility
 >_Potion, Rare_
 >

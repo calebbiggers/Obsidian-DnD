@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
 rarity: Legendary
 sources:
   - "[[Lost Laboratory of Kwalish]]"
 type: Armor
 type_details: Plate
 ---
+# Powered Armor
 >[!legendary-armor-callout] `=this.file.name`
 >*Armor (Plate), Legendary (Requires Attunement)*
 >

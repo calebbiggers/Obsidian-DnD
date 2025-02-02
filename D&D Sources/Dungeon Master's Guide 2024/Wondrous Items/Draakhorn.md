@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[The-Rise-Of-Tiamat-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Unique
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Draakhorn
 >[!unique-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Unique*
 >

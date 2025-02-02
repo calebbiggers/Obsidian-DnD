@@ -1,20 +1,20 @@
 ---
 tags:
   - Item
-type: Wondrous Item
-rarity: Rare
+attunement: true
 icon: LiComponent
+rarity: Rare
 sources:
   - "[[The Griffon's Saddlebag]]"
-banner: "[[griffons-saddlebag-banner.gif]]"
-banner_lock: true
-banner_y: 0
-attunement: true
+type: Wondrous Item
 ---
+
+# Field Healer's Pauldron
+
 ![[griffons-saddlebag-banner.gif|banner]]
 >[!Rare-Wondrous-Item-callout] Field Healer's Pauldron
 > ![[field-healers-pauldron.png]]
-> 
+>
 >---
 >*Wondrous Item, Rare (Requires Attunement)*
 >

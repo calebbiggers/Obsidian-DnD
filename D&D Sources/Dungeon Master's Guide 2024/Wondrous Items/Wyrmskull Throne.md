@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Storm-Kings-Thunder-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Artifact
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Wyrmskull Throne
 >[!artifact-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Artifact*
 >
@@ -27,7 +25,7 @@ type_details:
 >
 >* The throne gains a flying speed of 30 feet and can hover and flies where the creature wills. This property doesn't expend any charges.
 >* Both the throne and the creature sitting on it can move through earth and stone without disturbing the material they move through. This property doesn't expend any charges.
->* As an action, the creature can expend 1 charge to cast [[Lightning Bolt]] (spell save DC 19) from the throne. The spell is cast as though using a 9th-level spell slot and deals 49 (14d6) lightning damage. The bolt discharges from the mouth of one of the throne's blue dragon skulls.
+>* As an action, the creature can expend 1 charge to cast [[D&D Sources/Player's Handbook 2024/Spells/Lightning Bolt]] (spell save DC 19) from the throne. The spell is cast as though using a 9th-level spell slot and deals 49 (14d6) lightning damage. The bolt discharges from the mouth of one of the throne's blue dragon skulls.
 >* As an action, the creature can expend 2 charges to cast the [[Globe of Invulnerability]] spell from the throne. The globe encloses both the creature and the throne.
 >* As an action, the creature can expend 3 charges to create a spectral image of an ancient blue dragon that surrounds both it and the throne. The spectral dragon lasts for 1 minute. At the end of each of the creature's turns, the spectral dragon makes one bite attack and two claw attacks against targets of the creature's choice. These attacks have the same attack bonus, reach, and damage as an ancient blue dragon's bite and claw attacks.
 >

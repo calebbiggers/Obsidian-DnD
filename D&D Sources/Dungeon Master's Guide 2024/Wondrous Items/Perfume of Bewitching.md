@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Perfume of Bewitching
 >[!common-wondrous-item-callout] Perfume of Bewitching
 >_Wondrous Item, Common_
 >

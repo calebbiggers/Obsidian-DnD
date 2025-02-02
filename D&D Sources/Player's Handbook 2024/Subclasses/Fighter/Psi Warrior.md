@@ -1,15 +1,23 @@
 ---
 tags:
   - Subclass
+classes:
+  - "[[Fighter]]"
 sources:
   - "[[Player's Handbook 2024]]"
-classes: "[[Fighter]]"
+icon: LiBrain
 ---
-![[players-handbook-banner-2024.png|banner]]![[psi-warrior.png|float-right|300]]Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
-# Level 3: Psionic Power
+
+# Psi Warrior
+
+![[players-handbook-2024-banner.png|banner]]![[psi-warrior.png|float-right|300]]Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
+
+## Level 3: Psionic Power
+
 You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel powers you have from this subclass. The Psi Warrior Energy Dice table shows the die size and number of these dice you have when you reach certain Fighter levels.
 
-## Psi Warrior Energy Dice
+### Psi Warrior Energy Dice
+
 | Fighter Level | Die Size | Number |
 |:------------- | -------- | ------ |
 | 3             | D6       | 4      |
@@ -30,19 +38,27 @@ You regain one of your expended Psionic Energy Dice when you finish a [[Damage &
 >**_Telekinetic Movement._** You can move an object or a creature with your mind. As a [[Actions#Magic\|Magic]] action, choose one target you can see within 30 feet of yourself; the target must be a loose object that is Large or smaller or one willing creature other than you. You transport the target up to 30 feet to an unoccupied space you can see. Alternatively, if the target is a Tiny object, you can transport it to or from your hand.
 
 Once you take this action, you can’t do so again until you finish a [[Damage & Healing#Short Rests\|Short]] or [[#Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
-# Level 7: Telekinetic Adept
+
+## Level 7: Telekinetic Adept
+
 You have mastered new ways to use your telekinetic abilities, detailed below.
 
 >**_Psi-Powered Leap._** As a Bonus Action, you gain a Fly Speed equal to twice your Speed until the end of the current turn. Once you take this Bonus Action, you can’t do so again until you finish a [[Damage & Healing#Short Rests\|Short]] or [[Damage & Healing#Long Rests|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 >
 >**_Telekinetic Thrust._** When you deal damage to a target with your Psionic Strike, you can force the target to make a Strength saving throw (DC 8 plus your Intelligence modifier and Proficiency Bonus). On a failed save, you can give the target the [[Conditions#Prone\|Prone]] condition or transport it up to 10 feet horizontally.
-# Level 10: Guarded Mind
+
+## Level 10: Guarded Mind
+
 You have Resistance to Psychic damage. Moreover, if you start your turn with the [[Conditions#Charmed\|Charmed]] or [[Conditions#Frightened\|Frightened]] condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself giving you those conditions.
-# Level 15: Bulwark of Force
+
+## Level 15: Bulwark of Force
+
 You can shield yourself and others with telekinetic force. As a Bonus Action, you can choose creatures, including yourself, within 30 feet of yourself, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures has [[Combat#Half Cover\|Half Cover]] for 1 minute or until you have the [[Conditions#Incapacitated\|Incapacitated]] condition.
 
 Once you use this feature, you can’t do so again until you finish a [[Damage & Healing#Long Rests|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
-# Level 18: Telekinetic Master
+
+## Level 18: Telekinetic Master
+
 You always have the [[Telekinesis]] spell prepared. With this feature, you can cast it without a spell slot or components, and your spellcasting ability for it is Intelligence. On each of your turns while you maintain [[Spells#Concentration|Concentration]] on it, including the turn when you cast it, you can make one attack with a weapon as a Bonus Action.
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a [[Damage & Healing#Long Rests|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.

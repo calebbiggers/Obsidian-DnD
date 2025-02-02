@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a piece of quartz
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wall of Ice
+
 >[!spell-callout] Wall of Ice
 >_Level 6 Evocation (Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

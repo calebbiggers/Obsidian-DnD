@@ -1,33 +1,31 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Small Piece Of Copper Wire)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
 level: 2
 range: Self
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
-  - Abjuration
   - (Technomagic)
+  - Abjuration
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Digital Phantom (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

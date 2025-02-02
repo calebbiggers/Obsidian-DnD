@@ -1,19 +1,18 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Tomb-Of-Annihilation-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
+price: 2100
 rarity: Rare
 sources:
   - "[[Tomb of Annihilation]]"
 type: Armor
-price: 2100
 type_details: Plate
 ---
+# Scorpion Armor
 >[!rare-armor-callout] `=this.file.name`
 >*Armor (Plate), Rare (Requires Attunement)*
 >

@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a miniature umbrella
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 150 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sleet Storm
+
 >[!spell-callout] Sleet Storm
 >_Level 3 Conjuration (Druid, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >Ground in the Cylinder is [[Combat#Difficult Terrain\|Difficult Terrain]]. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [[Conditions#Prone\|Prone]] condition and lose [[Spells#Concentration\|Concentration]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

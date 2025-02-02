@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl8
-banner: "[[Players-Handbook-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.3
 casting_time: 1 Action
 classes:
   - Bard
@@ -12,22 +8,24 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Handful Of Clay, Crystal, Glass, Or Mineral Spheres)
-concentration: False
+  - S
+  - V
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 8
 range: 150 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Enchantment
 sources:
   - "[[Player's Handbook]]"
-type: Spell
 ---
+
+# Feeblemind
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

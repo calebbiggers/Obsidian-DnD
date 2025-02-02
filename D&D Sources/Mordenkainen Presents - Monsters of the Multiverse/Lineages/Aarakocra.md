@@ -1,17 +1,19 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: RaFeatherWing
 ---
+# Aarakocra
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[aarakocra.png|float-right|300]]A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters’ power over winds. Their descendants still command echoes of that power.
 
 From below, aarakocra look like large birds and thus are sometimes called birdfolk. Only when they roost on a branch or walk across the ground is their Humanoid nature clear. Standing upright, aarakocra are typically about 5 feet tall, and they have long, narrow legs that taper to sharp talons. Feathers cover their bodies—usually red, orange, yellow, brown, or gray. Their heads are also avian, often resembling those of parrots or eagles.
-# Aarakocra Traits
+## Aarakocra Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–5 feet tall)
 **Speed:** 30 feet

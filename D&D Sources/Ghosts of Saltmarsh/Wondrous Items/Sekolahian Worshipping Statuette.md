@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Ghosts-Of-Saltmarsh-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Common
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Sekolahian Worshipping Statuette
 >[!common-wondrous-item-callout] Sekolahian Worshipping Statuette
 >*Wondrous Item, Common*
 >

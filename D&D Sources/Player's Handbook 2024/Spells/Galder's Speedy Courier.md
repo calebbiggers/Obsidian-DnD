@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (25 Gold Pieces, Or Mineral Goods Of Equivalent Value, Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: 10 Minutes
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Lost Laboratory of Kwalish]]"
-type: Spell
 ---
+
+# Galder's Speedy Courier
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

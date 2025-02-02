@@ -5,10 +5,10 @@ casting_time: Action or Ritual
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a drop of mercury
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: true
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Tenser's Floating Disk
+
 >[!spell-callout] Tenser's Floating Disk
 >![[tensers-floating-disk.png]]
 >
@@ -38,4 +41,4 @@ sources:
 >If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

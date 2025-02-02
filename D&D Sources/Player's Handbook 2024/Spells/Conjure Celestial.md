@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Conjure Celestial
+
 >[!spell-callout] Conjure Celestial
 >_Level 7 Conjuration (Cleric)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing and damage increase by 1d12 for each spell slot level above 7.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

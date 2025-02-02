@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a morsel of food
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Animal Friendship
+
 >[!spell-callout] Animal Friendship
 >_Level 1 Enchantment (Bard, Druid, Ranger)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional Beast for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

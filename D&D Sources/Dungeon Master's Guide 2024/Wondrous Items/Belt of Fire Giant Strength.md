@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 36000
 rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
-price: 36000
-type_details:
+type_details: 
 ---
+# Belt of Fire Giant Strength
 >[!very-rare-wondrous-item-callout] Belt of Fire Giant Strength
 >![[belt-of-fire-giant-strength.png]]
 >

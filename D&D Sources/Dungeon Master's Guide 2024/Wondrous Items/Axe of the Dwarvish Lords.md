@@ -12,6 +12,7 @@ type_details: Battleaxe
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Axe of the Dwarvish Lords
 >[!artifact-weapon-callout] Axe of the Dwarvish Lords
 >![[axe-of-the-dwarvish-lords.jpg]]
 >

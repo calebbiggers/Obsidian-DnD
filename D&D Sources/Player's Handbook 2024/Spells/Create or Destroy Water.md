@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - a mix of water and sand
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Create or Destroy Water
+
 >[!spell-callout] Create or Destroy Water
 >_Level 1 Transmutation (Cleric, Druid)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You create or destroy 10 additional gallons of water, or the size of the Cube increases by 5 feet, for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

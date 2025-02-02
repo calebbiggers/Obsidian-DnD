@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlaskRound
+price: 1900
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Potion
-price: 1900
 type_details: 
 ---
+# Potion of Possibility
 >[!very-rare-potion-callout] Potion of Possibility
 >*Potion, Very Rare*
 >

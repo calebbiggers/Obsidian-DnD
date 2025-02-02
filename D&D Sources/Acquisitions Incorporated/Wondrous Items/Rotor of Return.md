@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 2500
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 2500
 type_details: 
 ---
+# Rotor of Return
 >[!very-rare-wondrous-item-callout] Rotor of Return
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

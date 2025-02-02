@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Good-Aligned Dwarf, Fighter, Or Paladin
-banner: "[[Princes-Of-The-Apocalypse-Banner.jpg]]"
-banner_lock: True
 classes:
   - Fighter
   - Paladin
@@ -15,6 +12,7 @@ sources:
 type: Weapon
 type_details: Greataxe
 ---
+# Orcsplitter
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Greataxe), Legendary (Requires Attunement By A Good-Aligned Dwarf, Fighter, Or Paladin)*
 >

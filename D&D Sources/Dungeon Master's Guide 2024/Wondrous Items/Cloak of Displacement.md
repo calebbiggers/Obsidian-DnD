@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of Displacement
 >[!rare-wondrous-item-callout] Cloak of Displacement
 >![[cloak-of-displacement.jpg]]
 >

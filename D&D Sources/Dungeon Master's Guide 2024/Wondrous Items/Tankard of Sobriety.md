@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tankard of Sobriety
 >[!common-wondrous-item-callout] Tankard of Sobriety
 >_Wondrous Item, Common_
 >

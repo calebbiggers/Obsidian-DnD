@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bit of string and of wood
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: true
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Unseen Servant
+
 >[!spell-callout] Unseen Servant
 >_Level 1 Conjuration (Bard, Warlock, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

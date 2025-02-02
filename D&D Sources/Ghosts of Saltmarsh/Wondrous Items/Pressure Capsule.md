@@ -1,16 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-classes:
+classes: 
 icon: LiComponent
+price: 25
 rarity: Common
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
-price: 25
 type_details: 
 ---
+# Pressure Capsule
 >[!common-wondrous-item-callout] Pressure Capsule
 >*Wondrous Item, Common*
 >

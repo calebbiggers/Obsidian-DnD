@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Resurrection
 >[!legendary-rod-callout] Rod of Resurrection
 >_Rod, Legendary (Requires Attunement)_
 >

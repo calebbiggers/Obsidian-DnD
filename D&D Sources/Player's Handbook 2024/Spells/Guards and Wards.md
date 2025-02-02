@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a silver rod worth 10+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Guards and Wards
+
 >[!spell-callout] Guards and Wards
 >_Level 6 Abjuration (Bard, Wizard)_
 >
@@ -50,4 +53,4 @@ sources:
 >- [[Suggestion]] in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

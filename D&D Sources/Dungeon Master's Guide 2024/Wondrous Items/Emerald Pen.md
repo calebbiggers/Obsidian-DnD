@@ -1,17 +1,15 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiPenTool
 rarity: Uncommon
 sources:
   - "[[Fizban's Treasury of Dragons]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Emerald Pen
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

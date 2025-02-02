@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Whip
 ---
+# Dyrrn's Tentacle Whip
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Whip), Very Rare (Requires Attunement)*
 >

@@ -1,17 +1,13 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
-  - M
   - 1 Gold Coin, Which Is Consumed As Tax For Using The Spell
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Jim's Magic Missile
 >[!spell-callout] Jim's Magic Missile
 >_Level 1 Evocation (Wizard)_
 >

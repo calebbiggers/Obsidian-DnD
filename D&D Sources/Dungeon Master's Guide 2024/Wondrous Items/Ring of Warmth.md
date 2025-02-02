@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Warmth
 >[!uncommon-ring-callout] Ring of Warmth
 >_Ring, Uncommon (Requires Attunement)_
 >

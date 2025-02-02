@@ -7,8 +7,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Expeditious Retreat
+
 >[!spell-callout] Expeditious Retreat
 >_Level 1 Transmutation (Sorcerer, Warlock, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >You take the [[Actions#Dash\|Dash]] action, and until the spell ends, you can take that action again as a Bonus Action.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

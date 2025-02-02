@@ -15,9 +15,12 @@ range: 60 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Faerie Fire
+
 >[!spell-callout] Faerie Fire
 >_Level 1 Evocation (Bard, Druid)_
 >
@@ -31,4 +34,4 @@ sources:
 >Attack rolls against an affected creature or object have [[D20 Tests#Advantage/Disadvantage\|Advantage]] if the attacker can see it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

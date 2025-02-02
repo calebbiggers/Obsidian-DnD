@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bead of Force
 >[!rare-wondrous-item-callout] Bead of Force
 >_Wondrous Item, Rare_
 >

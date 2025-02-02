@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Greater Invisibility
+
 >[!spell-callout] Greater Invisibility
 >_Level 4 Illusion (Bard, Sorcerer, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >A creature you touch has the [[Conditions#Invisible\|Invisible]] condition until the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

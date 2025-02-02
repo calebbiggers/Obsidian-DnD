@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Prosthetic Limb
 >[!common-wondrous-item-callout] Prosthetic Limb
 >_Wondrous Item, Common_
 >

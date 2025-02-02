@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a cube of granite
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wall of Stone
+
 >[!spell-callout] Wall of Stone
 >_Level 5 Evocation (Druid, Sorcerer, Wizard)_
 >
@@ -43,4 +46,4 @@ sources:
 >If you maintain your [[Spells#Concentration\|Concentration]] on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

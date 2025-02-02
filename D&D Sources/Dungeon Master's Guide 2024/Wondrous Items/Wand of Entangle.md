@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
+price: 300
 rarity: Uncommon
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wand
-price: 300
 type_details: 
 ---
+# Wand of Entangle
 >[!uncommon-wand-callout] `=this.file.name`
 >*Wand, Uncommon (Requires Attunement By A Spellcaster)*
 >

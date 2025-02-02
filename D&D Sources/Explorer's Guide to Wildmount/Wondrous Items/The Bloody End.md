@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
 rarity: Artifact
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Morningstar
 ---
+# The Bloody End
 >[!artifact-weapon-callout] The Bloody End
 >*Weapon (Morningstar), Artifact (Requires Attunement)*
 >

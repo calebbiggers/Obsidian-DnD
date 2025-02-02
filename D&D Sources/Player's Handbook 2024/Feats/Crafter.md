@@ -1,13 +1,13 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: Origin
-repeatable: false
 ---
+# Crafter
 >[!feat] Crafter
 >_Origin Feat_
 >
@@ -32,4 +32,4 @@ repeatable: false
 | Woodcarver’s Tools    | [[Club]], [[Greatclub]], [[Quarterstaff]]                                                                                                                                                  |
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

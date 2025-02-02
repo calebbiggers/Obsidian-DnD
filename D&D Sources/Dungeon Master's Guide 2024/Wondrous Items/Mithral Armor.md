@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Uncommon
-type: Armor
 type_details: Any Medium or Heavy, Except Hide Armor
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Mithral Armor
 >[!uncommon-armor-callout] Mithral Armor
 >_Armor (Any Medium or Heavy, Except Hide Armor) , Uncommon_
 >

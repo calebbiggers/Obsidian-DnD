@@ -7,8 +7,8 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mass Cure Wounds
+
 >[!spell-callout] Mass Cure Wounds
 >_Level 5 Abjuration (Bard, Cleric, Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing increases by 1d8 for each spell slot level above 5.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

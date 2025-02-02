@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 2100
 rarity: Uncommon
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Wondrous Item
-price: 2100
 type_details: 
 ---
+# Stone of Good Luck
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

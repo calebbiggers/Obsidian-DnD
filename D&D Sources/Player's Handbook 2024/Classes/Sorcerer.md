@@ -1,17 +1,18 @@
 ---
-sources:
-  - "[[Player's Handbook 2024]]"
-icon: DciClassIconBarbarian
 tags:
   - Class
+icon: LiWand
+sources:
+  - "[[Player's Handbook 2024]]"
 ---
-![[players-handbook-banner-2024.png|banner]]![[sorcerer.png]]
+# ![[sorcerer-symbol.png|25]] Sorcerer
+![[players-handbook-2024-banner.png|banner]]![[sorcerer.png]]
 Sorcerers wield innate magic that is stamped into their being. Some Sorcerers can’t name the origin of their power, while others trace it to strange events in their personal or family history. The blessing of a dragon or a dryad at a baby’s birth or the strike of lightning from a clear sky might spark a Sorcerer’s gift. So too might the gift of a deity, exposure to the strange magic of another plane of existence, or a glimpse into the inner workings of reality. Whatever the origin, the result is an indelible mark on the Sorcerer, a churning magic that can be passed down through generations.
 
 Sorcerers don’t learn magic; the raw, roiling power of magic is part of them. The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sorcerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source.
 
 Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn’t like to stay quiet. A Sorcerer’s magic wants to be wielded.
-# Core Sorcerer Traits
+## Core Sorcerer Traits
 |   |   |
 |---|---|
 |Primary Ability|Charisma|
@@ -22,14 +23,14 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 |Armor Training|None|
 |Starting Equipment|_Choose A or B:_ (A) [[#Spear]], 2 [[#Daggers]], [[#Arcane Focus (crystal)]], [[Adventuring Gear#Dungeoneer’s Pack\|Dungeoneer’s Pack]], and 28 GP; or (B) 50 GP|
 
-# Becoming a Sorcerer...
-## As a Level 1 Character
+## Becoming a Sorcerer...
+### As a Level 1 Character
 - Gain all the traits in the Core Sorcerer Traits table.
 - Gain the Sorcerer’s level 1 features, which are listed in the Sorcerer Features table.
-## As a Multiclass Character
+### As a Multiclass Character
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
 - Gain the Sorcerer’s level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules to determine your available spell slots.
-# Sorcerer Features Table
+## Sorcerer Features Table
 ||   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Sorcery Points|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
@@ -55,9 +56,9 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 |19|+6|Epic Boon|19|6|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Arcane Apotheosis|20|6|22|4|3|3|3|3|2|2|1|1|
 
-# Sorcerer Class Features
+## Sorcerer Class Features
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. These features are listed in the Sorcerer Features table.
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 Drawing from your innate magic, you can cast spells.
 
 >**_Cantrips._** You know four Sorcerer cantrips of your choice. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
@@ -77,7 +78,7 @@ Drawing from your innate magic, you can cast spells.
 >**_Spellcasting Ability._** Charisma is your spellcasting ability for your Sorcerer spells.
 >
 >**_Spellcasting Focus._** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
-## Level 1: Innate Sorcery
+### Level 1: Innate Sorcery
 
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a Bonus Action, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
@@ -85,7 +86,7 @@ An event in your past left an indelible mark on you, infusing you with simmering
 - You have Advantage on the attack rolls of Sorcerer spells you cast.
 
 You can use this feature twice, and you regain all expended uses of it when you finish a Long Rest.
-## Level 2: Font of Magic
+### Level 2: Font of Magic
 You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.
 
 You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can’t have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a Long Rest.
@@ -107,71 +108,71 @@ You can use your Sorcery Points to fuel the options below, along with other feat
 >|3|5|5|
 >|4|6|7|
 >|5|7|9|
-## Level 2: Metamagic
+### Level 2: Metamagic
 Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from “Metamagic Options” later in this class’s description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
 Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
-## Level 3: Sorcerer Subclass
+### Level 3: Sorcerer Subclass
 You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16.
-## Level 5: Sorcerous Restoration
+### Level 5: Sorcerous Restoration
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
-## Level 7: Sorcery Incarnate
+### Level 7: Sorcery Incarnate
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 
 In addition, while your Innate Sorcery feature is active, you can use up to two of your Metamagic options on each spell you cast.
-## Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
-## Level 20: Arcane Apotheosis
+### Level 20: Arcane Apotheosis
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turns without spending Sorcery Points on it.
-## Metamagic Options
+### Metamagic Options
 The following options are available to your Metamagic feature. The options are presented in alphabetical order.
-### Careful Spell
+#### Careful Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
-### Distant Spell
+#### Distant Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell’s range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell’s range 30 feet.
-### Empowered Spell
+#### Empowered Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
 >
 >You can use Empowered Spell even if you’ve already used a different Metamagic option during the casting of the spell.
-### Extended Spell
+#### Extended Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 >
 >If the affected spell requires [[#Concentration]], you have Advantage on any saving throw you make to maintain that Concentration.
-### Heightened Spell
+#### Heightened Spell
 >_Cost: 2 Sorcery Points_
 >
 >When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
-### Quickened Spell
+#### Quickened Spell
 >_Cost: 2 Sorcery Points_
 >
 >When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can’t modify a spell in this way if you’ve already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
-### Seeking Spell
+#### Seeking Spell
 >_Cost: 1 Sorcery Point_
 >
 >If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
 >
 >You can use Seeking Spell even if you’ve already used a different Metamagic option during the casting of the spell.
-### Subtle Spell
+#### Subtle Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
-### Transmuted Spell
+#### Transmuted Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
-### Twinned Spell
+#### Twinned Spell
 >_Cost: 1 Sorcery Point_
 >
 >When you cast a spell, such as [[#Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell’s effective level by 1.

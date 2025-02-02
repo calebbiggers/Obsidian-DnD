@@ -5,10 +5,10 @@ casting_time: Bonus Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
-  - S
-  - M
   - a shard of glass from a mirror
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sanctuary
+
 >[!spell-callout] Sanctuary
 >_Level 1 Abjuration (Cleric)_
 >
@@ -33,4 +36,4 @@ sources:
 >The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

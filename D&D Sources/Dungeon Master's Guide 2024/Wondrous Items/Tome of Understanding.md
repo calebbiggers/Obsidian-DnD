@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tome of Understanding
 >[!varies-wondrous-item-callout] Tome of Understanding
 >_Wondrous Item, Varies_
 >

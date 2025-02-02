@@ -6,8 +6,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Touch
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shocking Grasp
+
 >[!spell-callout] Shocking Grasp
 >_Evocation Cantrip (Sorcerer, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

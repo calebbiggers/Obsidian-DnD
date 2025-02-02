@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: TiBow
 rarity: Unknown Rarity
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longbow
 ---
+# Longbow of The Sky Sentinel
 >[!unknown-rarity-weapon-callout] `=this.file.name`
 >*Weapon (Longbow), Unknown Rarity (Requires Attunement)*
 >

@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mage Hand
+
 >[!spell-callout] Mage Hand
 >_Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

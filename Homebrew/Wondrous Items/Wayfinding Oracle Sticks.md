@@ -1,15 +1,15 @@
 ---
 tags:
   - Item
-  - Gnar
-type: Wondrous Item
+icon: LiCompass
 rarity: Very Rare
 sources:
   - "[[Homebrew]]"
-banner: "[[Island-Banner.jpg]]"
-banner_lock: true
-icon: LiCompass
+type: Wondrous Item
 ---
+
+# Wayfinding Oracle Sticks
+
 ![[Homebrew-Banner.jpg|banner]]
 >[!very-rare-wondrous-item-callout] Wayfinding Oracle Sticks
 >_Wondrous Item, Very Rare_

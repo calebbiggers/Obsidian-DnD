@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Lock of Trickery
 >[!common-wondrous-item-callout] Lock of Trickery
 >_Wondrous Item, Common_
 >

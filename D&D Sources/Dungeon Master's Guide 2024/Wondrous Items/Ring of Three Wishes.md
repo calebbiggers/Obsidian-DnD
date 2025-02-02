@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Three Wishes
 >[!legendary-ring-callout] Ring of Three Wishes
 >_Ring, Legendary_
 >

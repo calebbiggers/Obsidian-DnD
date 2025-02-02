@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a piece of cured leather
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mage Armor
+
 >[!spell-callout] Mage Armor
 >![[mage-armor.png]]
 >
@@ -35,4 +38,4 @@ sources:
 >You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

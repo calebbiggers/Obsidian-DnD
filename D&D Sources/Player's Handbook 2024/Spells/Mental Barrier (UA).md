@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Reaction, Which You Take When You Are Forced To Make An Intelligence, A Wisdom, Or A Charisma Saving Throw
 classes:
   - Sorcerer
@@ -12,19 +8,21 @@ classes:
   - Wizard
 components:
   - V
-concentration: False
+concentration: false
 duration: 1 Round
 icon: LiWand2
 level: 2
 range: Self
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Abjuration
 sources:
   - "[[Unearthed Arcana 66 - Fighter, Rogue, And Wizard]]"
-type: Spell
 ---
+
+# Mental Barrier (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

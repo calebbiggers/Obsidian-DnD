@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a short reed
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 30 feet
 ritual: true
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Water Breathing
+
 >[!spell-callout] Water Breathing
 >_Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -6,8 +6,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Ray of Enfeeblement
+
 >[!spell-callout] Ray of Enfeeblement
 >_Level 2 Necromancy (Warlock, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >On a failed save, the target has Disadvantage on Strength-based [[D20 Tests]] for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

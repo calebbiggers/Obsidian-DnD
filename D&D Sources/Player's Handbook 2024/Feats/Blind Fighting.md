@@ -1,17 +1,17 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: Fighting Style
-repeatable: false
 prerequisites:
   - Fighting Style Feature
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: Fighting Style
 ---
+# Blind Fighting
 >[!feat] Blind Fighting
 >_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 >
 >You have [[Exploration#Blindsight\|Blindsight]] with a range of 10 feet.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

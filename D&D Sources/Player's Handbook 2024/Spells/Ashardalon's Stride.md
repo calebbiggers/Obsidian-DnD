@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Bonus Action
 classes:
   - Artificer
@@ -12,8 +8,8 @@ classes:
   - Sorcerer
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Transmutation
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Ashardalon's Stride
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

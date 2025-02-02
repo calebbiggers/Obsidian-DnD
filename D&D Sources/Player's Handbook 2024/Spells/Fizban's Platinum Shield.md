@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Bonus Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Platinum-Plated Dragon Scale, Worth At Least 500 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Abjuration
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Fizban's Platinum Shield
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

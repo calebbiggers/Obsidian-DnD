@@ -5,8 +5,8 @@ casting_time: 10 minutes
 classes:
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Planar Ally
+
 >[!spell-callout] Planar Ally
 >_Level 6 Conjuration (Cleric)_
 >
@@ -37,4 +40,4 @@ sources:
 >After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

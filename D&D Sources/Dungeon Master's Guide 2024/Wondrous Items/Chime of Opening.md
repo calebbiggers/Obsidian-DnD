@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Chime of Opening
 >[!rare-wondrous-item-callout] Chime of Opening
 >![[chime-of-opening.jpg]]
 >

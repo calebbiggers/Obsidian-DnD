@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - a gem-encrusted bowl worth 1,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Heroes' Feast
+
 >[!spell-callout] Heroes' Feast
 >![[heroes-feast.png]]
 >
@@ -38,4 +41,4 @@ sources:
 >A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the [[Conditions#Frightened\|Frightened]] and [[Conditions#Poisoned\|Poisoned]] conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

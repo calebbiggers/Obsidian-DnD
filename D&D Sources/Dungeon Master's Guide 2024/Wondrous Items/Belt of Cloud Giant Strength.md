@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 59400
 rarity: Legendary
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
-price: 59400
-type_details:
+type_details: 
 ---
+# Belt of Cloud Giant Strength
 >[!legendary-wondrous-item-callout] Belt of Cloud Giant Strength
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

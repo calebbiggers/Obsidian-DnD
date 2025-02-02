@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dust of Sneezing and Choking
 >[!uncommon-wondrous-item-callout] Dust of Sneezing and Choking
+>![[dust-of-sneezing-and-choking.jpg]]
+>
+>- - -
 >_Wondrous Item, Uncommon_
 >
 >Found in a small container, this powder resembles [[Dust of Disappearance]], and [[Identify]] reveals it to be such. There is enough of it for one use.

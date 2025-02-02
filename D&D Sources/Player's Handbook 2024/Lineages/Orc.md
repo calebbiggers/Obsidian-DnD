@@ -1,17 +1,17 @@
 ---
-tags:
-  - Lineage
-sources:
-  - "[[Player's Handbook]]"
+tags: [Lineage]
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Player's Handbook]]"
 speed: 30
 ---
-![[players-handbook-banner-2024.png|banner]]![[orc.png]]Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh’s gifts: endurance, determination, and the ability to see in darkness.
+# Orc
+![[players-handbook-2024-banner.png|banner]]![[orc.png]]Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh’s gifts: endurance, determination, and the ability to see in darkness.
 
 Orcs are, on average, tall and broad. They have gray skin, ears that are sharply pointed, and prominent lower canines that resemble small tusks. Orc youths on some worlds are told about their ancestors’ great travels and travails. Inspired by those tales, many of those orcs wonder when Gruumsh will call on them to match the heroic deeds of old and if they will prove worthy of his favor. Other orcs are happy to leave old tales in the past and find their own way.
-# Orc Traits
+## Orc Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 6–7 feet tall)
 **Speed:** 30 feet

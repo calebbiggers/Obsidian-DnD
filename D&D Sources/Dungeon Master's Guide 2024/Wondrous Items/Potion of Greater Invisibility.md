@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Greater Invisibility
 >[!varies-potion-callout] Potion of Greater Invisibility
 >_Potion, Varies_
 >

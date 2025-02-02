@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Bard
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
 classes:
   - Bard
 icon: LiSwords
@@ -14,6 +11,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Mythcarver
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Legendary (Requires Attunement By A Bard)*
 >

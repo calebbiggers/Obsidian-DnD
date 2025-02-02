@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Keys-From-The-Golden-Vault-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiBookMarked
 rarity: Artifact
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Book of Vile Darkness (Variant)
 >[!artifact-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Artifact (Requires Attunement)*
 >

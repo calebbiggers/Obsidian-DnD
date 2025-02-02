@@ -6,8 +6,8 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Tree Stride
+
 >[!spell-callout] Tree Stride
 >_Level 5 Conjuration (Druid, Ranger)_
 >
@@ -32,4 +35,4 @@ sources:
 >You can use this transportation ability only once on each of your turns. You must end each turn outside a tree.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

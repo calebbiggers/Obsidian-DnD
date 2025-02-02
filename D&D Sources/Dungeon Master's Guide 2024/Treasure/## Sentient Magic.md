@@ -1,4 +1,5 @@
-# Sentient Magic
+# ## Sentient Magic
+## Sentient Magic
 
 Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
 
@@ -6,15 +7,15 @@ Most sentient items are weapons. Other kinds of items can manifest sentience, bu
 
 Sentient magic items function as NPCs under the GM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder.
 
-## Creating Sentient Magic Items
+### Creating Sentient Magic Items
 
 When you decide to make a magic item sentient, you create the item's persona in the same way you would create an NPC, with a few exceptions described here.
 
-### Abilities
+#### Abilities
 
 A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest.
 
-### Communication
+#### Communication
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
@@ -27,7 +28,7 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 | 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 |        |                                                                                                                                                                    |
 
-### Senses
+#### Senses
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
@@ -41,7 +42,7 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 | 4  | Hearing and darkvision out to 120 feet.    |
 |    |                                            |
 
-### Alignment
+#### Alignment
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
@@ -60,7 +61,7 @@ A sentient magic item has an alignment. Its creator or nature might suggest an a
 | 97-100 | Chaotic evil    |
 |        |                 |
 
-### Special Purpose
+#### Special Purpose
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
@@ -80,7 +81,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 | 10  | Creator Seeker: The item seeks its creator and wants to understand why it was created.                                                 |
 |     |                                                                                                                                        |
 
-### Conflict
+#### Conflict
 
 A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder's Charisma check. If the item wins the contest, it makes one or more of the following demands:
 

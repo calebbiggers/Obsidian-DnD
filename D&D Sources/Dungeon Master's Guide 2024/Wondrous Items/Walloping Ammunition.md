@@ -12,6 +12,7 @@ type_details: Any Ammunition
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Walloping Ammunition
 >[!common-weapon-callout] Walloping Ammunition
 >_Weapon (Any Ammunition) , Common_
 >

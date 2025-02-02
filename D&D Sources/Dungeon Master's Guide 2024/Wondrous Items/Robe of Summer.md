@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 2900
 rarity: Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 2900
 type_details: 
 ---
+# Robe of Summer
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

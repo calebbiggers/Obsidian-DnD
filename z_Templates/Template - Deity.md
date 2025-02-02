@@ -2,8 +2,8 @@
 tags:
   - Deity
 aliases: 
-alignment:
+alignment: 
+icon: RiQuestionMark
 ---
-# Info
 
-# Symbol
+![[acolyte.jpg|banner]]

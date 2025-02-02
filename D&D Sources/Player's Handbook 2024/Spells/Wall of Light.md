@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Hand Mirror)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 10 Minutes
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Evocation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Wall of Light
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

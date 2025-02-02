@@ -1,15 +1,12 @@
 ---
 tags:
   - Spell
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Cleric
 components:
-  - V
   - S
+  - V
 concentration: False
 duration: 1 Round
 icon: LiWand2
@@ -21,8 +18,10 @@ schools:
   - Abjuration
 sources:
   - "[[Unearthed Arcana 36 - Starter Spells]]"
-type: Spell
 ---
+
+# Virtue (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

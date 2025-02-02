@@ -6,10 +6,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a jade circlet worth 1,500+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shapechange
+
 >[!spell-callout] Shapechange
 >![[shapechange.png]]
 >
@@ -41,4 +44,4 @@ sources:
 >Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

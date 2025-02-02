@@ -2,17 +2,18 @@
 tags:
   - Item
 attunement: False
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
+price: 60
 rarity: Common
 sources:
   - "[[Xanathar's Guide to Everything]]"
 type: Wand
-price: 60
 type_details: 
 ---
+
+# Wand of Smiles
+
 >[!common-wand-callout] Wand of Smiles
 >*Wand, Common*
 >
@@ -21,4 +22,3 @@ type_details:
 >The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand transforms into a [[Wand of Scowls]].
 
 ![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
-

@@ -7,8 +7,8 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Zone of Truth
+
 >[!spell-callout] Zone of Truth
 >_Level 2 Enchantment (Bard, Cleric, Paladin)_
 >
@@ -32,4 +35,4 @@ sources:
 >
 >An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

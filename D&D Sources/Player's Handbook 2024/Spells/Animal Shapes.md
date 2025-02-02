@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Animal Shapes
+
 >[!spell-callout] Animal Shapes
 >_Level 8 Transmutation (Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >The target gains a number of [[Damage & Healing#Temporary Hit Points\|Temporary Hit Points]] equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a Bonus Action.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,15 +1,12 @@
 ---
-tags:
-  - Dungeon-Masters-Guide
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_y: 0.3
-banner_lock: true
+tags: []
 ---
 # Pantheons
+## Pantheons
 
 The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of historical religions from our world's ancient times. They include deities that are most appropriate for use in a game, divorced from their historical context in the real world and united into pantheons that serve the needs of the game.
 
-## The Celtic Pantheon
+### The Celtic Pantheon
 
 It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak-and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
 
@@ -35,7 +32,7 @@ The Celtic gods are as often served by druids as by clerics, for they are closel
 | Silvanus, god of nature and forests               | N         | Nature            | Summer oak tree                    |
 |                                                   |           |                   |                                    |
 
-## The Greek Pantheon
+### The Greek Pantheon
 
 The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
@@ -64,7 +61,7 @@ The gods of Olympus make themselves known with the gentle lap of waves against t
 | Tyche, goddess of good fortune             | N         | Trickery               | Red pentagram                         |
 |                                            |           |                        |                                       |
 
-## The Egyptian Pantheon
+### The Egyptian Pantheon
 
 These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at-the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
 
@@ -90,7 +87,7 @@ The Egyptian pantheon is unusual in having three gods responsible for death, eac
 | Thoth, god of knowledge and wisdom             | N         | Knowledge                | Ibis                                 |
 |                                                |           |                          |                                      |
 
-## The Norse Pantheon
+### The Norse Pantheon
 
 Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring-this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
 

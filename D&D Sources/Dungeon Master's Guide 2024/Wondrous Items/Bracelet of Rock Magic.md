@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 9000
 rarity: Very Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 9000
 type_details: 
 ---
+# Bracelet of Rock Magic
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

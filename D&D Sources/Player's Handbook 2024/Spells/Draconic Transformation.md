@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl7
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Bonus Action
 classes:
   - Druid
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Statuette Of A Dragon, Worth At Least 500 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Transmutation
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Draconic Transformation
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

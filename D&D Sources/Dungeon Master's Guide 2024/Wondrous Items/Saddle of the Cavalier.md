@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Saddle of the Cavalier
 >[!uncommon-wondrous-item-callout] Saddle of the Cavalier
 >_Wondrous Item, Uncommon_
 >

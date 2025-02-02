@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Ghosts-Of-Saltmarsh-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 50
 rarity: Common
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
-price: 50
 type_details: 
 ---
+# Pipe of Remembrance
 >[!common-wondrous-item-callout] Pipe Of Remembrance
 >![[pipe-of-rememberance.jpg]]
 >

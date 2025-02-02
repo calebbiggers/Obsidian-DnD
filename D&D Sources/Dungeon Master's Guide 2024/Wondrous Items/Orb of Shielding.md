@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Common
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Orb of Shielding
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common (Requires Attunement)*
 >

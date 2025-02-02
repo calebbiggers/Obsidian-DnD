@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of Elvenkind
 >[!uncommon-wondrous-item-callout] Boots of Elvenkind
 >![[boots-of-elvenkind.jpeg]]
 >

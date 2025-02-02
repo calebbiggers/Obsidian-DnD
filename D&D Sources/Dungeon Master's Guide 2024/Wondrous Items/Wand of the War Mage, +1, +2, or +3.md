@@ -12,6 +12,7 @@ type_details: +1
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of the War Mage, +1, +2, or +3
 >[!varies-wand-callout] Wand of the War Mage, +1, +2, or +3
 >_Wand (+1) , Varies (Requires Attunement a Spellcaster)_
 >

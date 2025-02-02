@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Legends-Of-Runeterra-Dark-Tides-Of-Bilgewater-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Blade of Ledros
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Rare (Requires Attunement)*
 >

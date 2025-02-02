@@ -7,8 +7,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Finger of Death
+
 >[!spell-callout] Finger of Death
 >_Level 7 Necromancy (Sorcerer, Warlock, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >A Humanoid killed by this spell rises at the start of your next turn as a [[Zombie]] that follows your verbal orders.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Polymorph
 >[!varies-wand-callout] Wand of Polymorph
 >_Wand, Varies (Requires Attunement a Spellcaster)_
 >

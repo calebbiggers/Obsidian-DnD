@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 150
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Ring
-price: 150
 type_details: 
 ---
+# Ring of Obscuring
 >[!uncommon-ring-callout] Ring of Obscuring
 >*Ring, Uncommon (Requires Attunement)*
 >

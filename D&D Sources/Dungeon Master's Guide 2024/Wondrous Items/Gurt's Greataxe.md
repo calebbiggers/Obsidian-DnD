@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Storm-Kings-Thunder-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaAxe
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Greataxe
 ---
+# Gurt's Greataxe
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Greataxe), Legendary (Requires Attunement)*
 >

@@ -5,13 +5,14 @@ type: Armor
 attunement: False
 attunement_details: None
 classes:
-icon: LiShield
+icon: RaVest
 rarity: Uncommon
 type: Armor
 type_details: Any Medium or Heavy, Except Hide Armor
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Adamantine Armor
 >[!uncommon-armor-callout] Adamantine Armor
 >![[adamantine-armor.png]]
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Broom of Flying
 >[!uncommon-wondrous-item-callout] Broom of Flying
 >![[broom-of-flying.jpg]]
 >

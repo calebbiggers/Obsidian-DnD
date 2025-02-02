@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Warlock]]"
 components:
-  - V
-  - S
-  - M
   - a pickled tentacle
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 150 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hunger of Hadar
+
 >[!spell-callout] Hunger of Hadar
 >![[hunger-of-hadar.png]]
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

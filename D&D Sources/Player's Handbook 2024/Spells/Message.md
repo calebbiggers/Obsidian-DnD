@@ -8,9 +8,9 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - S
-  - M
   - a copper wire
+  - M
+  - S
 concentration: false
 duration: 1 round
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 120 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Message
+
 >[!spell-callout] Message
 >_Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

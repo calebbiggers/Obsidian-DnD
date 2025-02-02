@@ -15,6 +15,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Robe of the Archmagi
 >[!legendary-wondrous-item-callout] Robe of the Archmagi
 >_Wondrous Item, Legendary (Requires Attunement a Sorcerer, Warlock, or Wizard)_
 >

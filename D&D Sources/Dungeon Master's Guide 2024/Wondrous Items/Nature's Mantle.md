@@ -14,6 +14,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Nature's Mantle
 >[!uncommon-wondrous-item-callout] Nature's Mantle
 >_Wondrous Item, Uncommon (Requires Attunement a Druid or Ranger)_
 >

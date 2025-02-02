@@ -1,14 +1,14 @@
 ---
-tags:
-  - Item
-type: Weapon
-rarity: Uncommon
+tags: [Item]
+attunement: 
 icon: LiSwords
+rarity: Uncommon
 sources:
   - "[[The Book of Many Things]]"
-attunement: 
 subtype: Greataxe
+type: Weapon
 ---
+# Bloodrage Greataxe
 
 >[!Uncommon-Weapon-callout] Bloodrage Greataxe
 >_Weapon (greataxe), uncommon_

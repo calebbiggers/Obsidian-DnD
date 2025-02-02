@@ -2,8 +2,6 @@
 tags:
   - Item
 attunement: False
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
 classes:
 icon: LiFlaskRound
 rarity: Rarity Varies
@@ -15,6 +13,7 @@ price: 2500
 price: 1600
 type_details: 
 ---
+# Potion of Mind Control
 >[!rarity-varies-potion-callout] `=this.file.name`
 >*Potion, Rarity Varies*
 >

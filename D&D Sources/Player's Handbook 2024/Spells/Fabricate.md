@@ -5,8 +5,8 @@ casting_time: 10 minutes
 classes:
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 120 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Fabricate
+
 >[!spell-callout] Fabricate
 >_Level 4 Transmutation (Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill—such as weapons and armor—unless you have proficiency with the type of Artisan's Tools used to craft such objects.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

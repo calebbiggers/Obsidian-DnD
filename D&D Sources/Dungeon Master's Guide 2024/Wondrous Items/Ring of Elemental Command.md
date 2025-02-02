@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Elemental Command
 >[!legendary-ring-callout] Ring of Elemental Command
 >_Ring, Legendary (Requires Attunement)_
 >

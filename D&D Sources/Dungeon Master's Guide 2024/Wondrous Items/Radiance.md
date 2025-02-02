@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Candlekeep-Mysteries-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wand
 type_details: 
 ---
+# Radiance
 >[!unknown-rarity-wand-callout] `=this.file.name`
 >*Wand, Unknown Rarity (Requires Attunement By A Spellcaster)*
 >

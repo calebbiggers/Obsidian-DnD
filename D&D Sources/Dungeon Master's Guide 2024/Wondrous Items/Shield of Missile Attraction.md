@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Shield of Missile Attraction
 >[!rare-armor-callout] Shield of Missile Attraction
 >_Armor (Shield) , Rare (Requires Attunement)_
 >

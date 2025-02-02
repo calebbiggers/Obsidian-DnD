@@ -12,6 +12,7 @@ type_details: Glaive, Greatsword, Longsword, or Scimitar
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Vorpal Sword
 >[!legendary-weapon-callout] Vorpal Sword
 >_Weapon (Glaive, Greatsword, Longsword, or Scimitar) , Legendary (Requires Attunement)_
 >

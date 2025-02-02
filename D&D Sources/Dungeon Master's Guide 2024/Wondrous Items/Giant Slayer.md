@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Giant Slayer
 >[!rare-weapon-callout] Giant Slayer
 >_Weapon (Any Simple or Martial) , Rare_
 >

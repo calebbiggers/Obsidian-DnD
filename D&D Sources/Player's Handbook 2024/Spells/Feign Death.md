@@ -8,10 +8,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of graveyard dirt
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: true
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Feign Death
+
 >[!spell-callout] Feign Death
 >_Level 3 Necromancy (Bard, Cleric, Druid, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >The target also has Resistance to all damage except Psychic damage, and it has Immunity to the [[Conditions#Poisoned\|Poisoned]] condition.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

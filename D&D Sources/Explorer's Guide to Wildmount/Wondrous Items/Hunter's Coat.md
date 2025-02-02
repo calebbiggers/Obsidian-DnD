@@ -3,17 +3,16 @@ tags:
   - Item
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
-icon: RaKnightHelmet
+icon: RaVest
+price: 5000
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Armor
-price: 5000
 type_details: Leather
 ---
+# Hunter's Coat
 >[!very-rare-armor-callout] Hunter's Coat
 >*Armor (Leather), Very Rare (Requires Attunement)*
 >

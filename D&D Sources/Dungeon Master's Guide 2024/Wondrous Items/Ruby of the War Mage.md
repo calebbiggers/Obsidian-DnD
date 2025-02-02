@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ruby of the War Mage
 >[!common-wondrous-item-callout] Ruby of the War Mage
 >_Wondrous Item, Common (Requires Attunement a Spellcaster)_
 >

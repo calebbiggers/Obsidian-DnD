@@ -7,9 +7,9 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - M
   - bat fur and a piece of coal
+  - M
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Darkness
+
 >[!spell-callout] Darkness
 >_Level 2 Evocation (Sorcerer, Warlock, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >If any of this spell's area overlaps with an area of [[Exploration#Bright Light\|Bright Light]] or [[Exploration#Dim Light\|Dim Light]] created by a spell of level 2 or lower, that other spell is dispelled.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

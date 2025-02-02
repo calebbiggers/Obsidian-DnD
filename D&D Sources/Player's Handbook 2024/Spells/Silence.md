@@ -7,8 +7,8 @@ classes:
   - "[[Cleric]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: true
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Silence
+
 >[!spell-callout] Silence
 >_Level 2 Illusion (Bard, Cleric, Ranger)_
 >
@@ -31,4 +34,4 @@ sources:
 >For the duration, no sound can be created within or pass through a 20-foot-radius [[Spells#Sphere\|Sphere]] centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the [[Conditions#Deafened\|Deafened]] condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

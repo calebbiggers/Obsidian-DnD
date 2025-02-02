@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Cleric
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Necromancy
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Life Transference
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 1 Action
 classes:
   - Artificer
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Bit Of Rotten Food)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Evocation
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Tasha's Caustic Brew
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

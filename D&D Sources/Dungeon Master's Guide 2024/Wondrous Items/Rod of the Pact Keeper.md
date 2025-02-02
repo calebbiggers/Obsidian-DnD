@@ -13,6 +13,7 @@ type_details: +1
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of the Pact Keeper
 >[!varies-rod-callout] Rod of the Pact Keeper
 >_Rod (+1) , Varies (Requires Attunement a Warlock)_
 >

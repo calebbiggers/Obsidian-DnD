@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Stone of Controlling Earth Elementals
 >[!rare-wondrous-item-callout] Stone of Controlling Earth Elementals
 >_Wondrous Item, Rare_
 >

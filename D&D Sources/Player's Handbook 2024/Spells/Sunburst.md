@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a piece of sunstone
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 150 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sunburst
+
 >[!spell-callout] Sunburst
 >_Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >This spell dispels [[Exploration#Darkness\|Darkness]] in its area that was created by any spell.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,17 +1,15 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaLanternFlame
 rarity: Common
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Everbright Lantern
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common*
 >

@@ -6,8 +6,8 @@ classes:
   - "[[Bard]]"
   - "[[Paladin]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Touch
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Heroism
+
 >[!spell-callout] Heroism
 >_Level 1 Enchantment (Bard, Paladin)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

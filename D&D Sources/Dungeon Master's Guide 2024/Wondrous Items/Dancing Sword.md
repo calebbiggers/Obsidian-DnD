@@ -1,16 +1,16 @@
 ---
-tags:
-  - Item
-type: Weapon
+tags: [Item]
 attunement: true
 attunement_details: None
 classes: 
 icon: LiSwords
 rarity: Very Rare
-type_details: Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources:
   - "[[Dungeon Master's Guide 2024]]"
+type: Weapon
+type_details: Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 ---
+# Dancing Sword
 >[!very-rare-weapon-callout] Dancing Sword
 >![[dancing-sword.jpg]]
 >

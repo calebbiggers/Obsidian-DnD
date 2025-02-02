@@ -1,17 +1,14 @@
 ---
 tags:
   - Spell
-banner: "[[Elemental-Evil-Players-Companion-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Bonus Action
 classes:
   - Artificer
   - Druid
   - Warlock
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 Minute
 icon: LiWand2
@@ -22,10 +19,12 @@ scales: false
 schools:
   - Transmutation
 sources:
-  - "[[Xanathar's Guide to Everything]]"
   - "[[Elemental Evil Player's Companion]]"
-type: Spell
+  - "[[Xanathar's Guide to Everything]]"
 ---
+
+# Magic Stone
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

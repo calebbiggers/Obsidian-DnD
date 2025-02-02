@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Spell Storing
 >[!rare-ring-callout] Ring of Spell Storing
 >_Ring, Rare (Requires Attunement)_
 >

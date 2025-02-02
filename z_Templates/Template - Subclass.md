@@ -3,12 +3,7 @@ tags:
   - Subclass
 aliases: 
 class: 
-banner: 
 sources: 
-banner_lock: true
 type: Subclass
+icon: RiQuestionMark
 ---
-# `=this.file.name`
-Source: `=link(this.sources)`
->[!quote]
-

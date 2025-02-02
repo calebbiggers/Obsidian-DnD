@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Out-Of-The-Abyss-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
+price: 900
 rarity: Rare
 sources:
   - "[[Out of the Abyss]]"
 type: Wand
-price: 900
 type_details: 
 ---
+# Wand of Viscid Globs
 >[!rare-wand-callout] `=this.file.name`
 >*Wand, Rare (Requires Attunement)*
 >

@@ -1,18 +1,19 @@
 ---
 tags:
   - Lineage
-  - TODO
-sources:
-  - "[[Guildmaster's Guide to Ravnica]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Guildmaster's Guide to Ravnica]]"
 speed: 30
+icon:
 ---
+# Loxodon
 ![[Guildmasters-Guide-To-Ravnica-Banner.jpg|banner]]![[loxodon.png|float-right|300]]The humanoid elephants called loxodons are often oases of calm in the busy streets of Ravnica. They hum or chant in sonorous tones and move slowly or sit in perfect stillness. If provoked to action, loxodons are true terrors—bellowing with rage, trumpeting and flapping their ears. Their serene wisdom, fierce loyalty, and unwavering conviction are tremendous assets to their guilds.
 
 Loxodons physically mature at the same rate as humans, but they live about 450 years. They highly value the weight of wisdom and experience and are considered young until they reach the age of 60.
-# Loxodon Traits
+## Loxodon Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 7–8 feet tall) 
 **Speed:** 30 feet

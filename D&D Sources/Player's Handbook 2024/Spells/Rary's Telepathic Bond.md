@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
+  - S
   - two eggs
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Rary's Telepathic Bond
+
 >[!spell-callout] Rary's Telepathic Bond
 >_Level 5 Divination (Bard, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >Until the spell ends, the targets can communicate telepathically through the bond whether or not they share a language. The communication is possible over any distance, though it can't extend to other planes of existence.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

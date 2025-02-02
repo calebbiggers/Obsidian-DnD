@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Magic Missiles
 >[!uncommon-wand-callout] Wand of Magic Missiles
 >_Wand, Uncommon_
 >

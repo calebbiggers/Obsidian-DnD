@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLanternFlame
 rarity: Common
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Lantern of Tracking
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common*
 >

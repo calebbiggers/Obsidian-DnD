@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 round
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Guiding Bolt
+
 >[!spell-callout] Guiding Bolt
 >_Level 1 Evocation (Cleric)_
 >
@@ -31,4 +34,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

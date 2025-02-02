@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Find Traps
+
 >[!spell-callout] Find Traps
 >_Level 2 Divination (Cleric, Druid, Ranger)_
 >
@@ -33,4 +36,4 @@ sources:
 >This spell reveals that a trap is present but not its location. You do learn the general nature of the danger posed by a trap you sense.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

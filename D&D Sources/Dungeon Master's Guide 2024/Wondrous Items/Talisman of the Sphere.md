@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Talisman of the Sphere
 >[!legendary-wondrous-item-callout] Talisman of the Sphere
 >_Wondrous Item, Legendary (Requires Attunement)_
 >

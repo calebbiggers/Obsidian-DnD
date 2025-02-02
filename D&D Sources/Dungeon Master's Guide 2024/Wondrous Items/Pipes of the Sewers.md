@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pipes of the Sewers
 >[!uncommon-wondrous-item-callout] Pipes of the Sewers
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

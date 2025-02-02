@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Enspelled Staff
 >[!varies-staff-callout] Enspelled Staff
 >_Staff, Varies (Requires Attunement a Spellcaster)_
 >

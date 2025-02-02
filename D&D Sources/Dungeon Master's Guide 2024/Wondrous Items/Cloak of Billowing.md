@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of Billowing
 >[!common-wondrous-item-callout] Cloak of Billowing
 >![[cloak_of_billowing.png]]
 >

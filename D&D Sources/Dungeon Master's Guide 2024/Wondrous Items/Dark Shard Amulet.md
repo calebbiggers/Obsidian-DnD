@@ -13,6 +13,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dark Shard Amulet
 >[!common-wondrous-item-callout] Dark Shard Amulet
 >![[dark-shard-amulet.jpg]]
 >

@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Demiplane
+
 >[!spell-callout] Demiplane
 >_Level 8 Conjuration (Sorcerer, Warlock, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

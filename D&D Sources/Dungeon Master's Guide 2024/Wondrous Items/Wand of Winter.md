@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tyranny-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wand
 type_details: 
 ---
+# Wand of Winter
 >[!rare-wand-callout] `=this.file.name`
 >*Wand, Rare (Requires Attunement)*
 >

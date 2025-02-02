@@ -1,19 +1,18 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
+price: 9500
 rarity: Very Rare
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Armor
-price: 9500
 type_details: Any
 ---
+# Living Armor
 >[!very-rare-armor-callout] `=this.file.name`
 >*Armor (Any), Very Rare (Requires Attunement)*
 >

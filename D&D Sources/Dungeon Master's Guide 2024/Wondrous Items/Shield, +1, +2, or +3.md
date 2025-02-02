@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Shield, +1, +2, or +3
 >[!varies-armor-callout] Shield, +1, +2, or +3
 >_Armor (Shield) , Varies_
 >

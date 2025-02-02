@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 120 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Crown of Madness
+
 >[!spell-callout] Crown of Madness
 >_Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >On your later turns, you must take the [[Actions#Magic\|Magic]] action to maintain control of the target, or the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

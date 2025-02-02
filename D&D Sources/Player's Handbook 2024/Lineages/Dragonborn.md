@@ -1,18 +1,23 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Player's Handbook]]"
 creature_type: Humanoid
 sizes:
   - Medium
-speed: 30
+sources:
+  - "[[Player's Handbook]]"
+speed: "30"
+icon: RaDragon
 ---
-![[players-handbook-banner-2024.png|banner]]![[dragonborn.png]]The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods’ blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
+
+# Dragonborn
+
+![[players-handbook-2024-banner.png|banner]]![[dragonborn.png]]The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods’ blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
 
 Dragonborn look like wingless, bipedal dragons—scaly, bright-eyed, and thick-boned with horns on their heads—and their coloration and other features are reminiscent of their draconic ancestors.
 
-# Dragonborn Traits
+## Dragonborn Traits
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 5–7 feet tall)
 **Speed:** 30 feet
@@ -21,13 +26,14 @@ As a Dragonborn, you have these special traits.
 >
 >**_Draconic Ancestry._** Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 >
->## Draconic Ancestors
+>#### Draconic Ancestors
+>
 >| Dragon | Damage Type |
 >|:------ | ----------- |
 >| Black  | Acid        |
 >| Blue   | Lightning   |
 >| Brass  | Fire        |
-> Bronze | Lightning   |
+>| Bronze | Lightning   |
 >| Copper | Acid        |
 >| Gold   | Fire        |
 >| Green  | Poison      |

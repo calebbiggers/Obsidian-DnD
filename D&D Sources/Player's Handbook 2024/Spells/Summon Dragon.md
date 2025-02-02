@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - an object with the image of a dragon engraved on it worth 500+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Dragon
+
 >[!spell-callout] Summon Dragon
 >_Level 5 Conjuration (Wizard)_
 >
@@ -80,4 +83,4 @@ sources:
 >**_Breath Weapon._**_Dexterity Saving Throw:_ DC equals your spell save DC, each creature in a 30-foot [[Spells#Cone\|Cone]]. _Failure:_ 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). _Success:_ Half damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

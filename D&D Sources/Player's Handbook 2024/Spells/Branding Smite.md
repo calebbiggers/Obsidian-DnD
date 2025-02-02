@@ -1,28 +1,26 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Players-Handbook-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.3
 casting_time: 1 Bonus Action
 classes:
   - Paladin
 components:
   - V
-concentration: True
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 2
 range: Self
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Evocation
 sources:
   - "[[Player's Handbook]]"
-type: Spell
 ---
+
+# Branding Smite
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

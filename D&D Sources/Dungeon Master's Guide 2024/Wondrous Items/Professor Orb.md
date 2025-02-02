@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Professor Orb
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare*
 >

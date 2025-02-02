@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 1 mile
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Storm of Vengeance
+
 >[!spell-callout] Storm of Vengeance
 >_Level 9 Conjuration (Druid)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Turns 5–10._** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is [[Combat#Difficult Terrain\|Difficult Terrain]] and [[Exploration#Heavily Obscured\|Heavily Obscured]], ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

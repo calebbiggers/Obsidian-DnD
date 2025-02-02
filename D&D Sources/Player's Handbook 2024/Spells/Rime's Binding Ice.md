@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - S
   - M (A Vial Of Meltwater)
+  - S
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Evocation
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Rime's Binding Ice
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

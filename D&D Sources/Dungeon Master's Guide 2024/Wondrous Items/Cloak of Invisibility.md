@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of Invisibility
 >[!legendary-wondrous-item-callout] Cloak of Invisibility
 >_Wondrous Item, Legendary (Requires Attunement)_
 >

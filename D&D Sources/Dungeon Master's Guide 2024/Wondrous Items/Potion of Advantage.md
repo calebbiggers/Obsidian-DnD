@@ -1,9 +1,6 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlaskRound
 rarity: Uncommon
@@ -12,6 +9,7 @@ sources:
 type: Potion
 type_details: 
 ---
+# Potion of Advantage
 >[!uncommon-potion-callout] `=this.file.name`
 >*Potion, Uncommon*
 >

@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a hummingbird feather
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Foresight
+
 >[!spell-callout] Foresight
 >_Level 9 Divination (Bard, Druid, Warlock, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [[D20 Tests#Advantage/Disadvantage\|Advantage]] on [[D20 Tests]], and other creatures have [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on attack rolls against it. The spell ends early if you cast it again.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

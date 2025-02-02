@@ -5,10 +5,10 @@ casting_time: Bonus Action
 classes:
   - "[[Druid]]"
 components:
-  - V
-  - S
   - M
   - mistletoe
+  - S
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shillelagh
+
 >[!spell-callout] Shillelagh
 >_Transmutation Cantrip (Druid)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Cantrip Upgrade._** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

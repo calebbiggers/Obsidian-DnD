@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ioun Stone
 >[!varies-wondrous-item-callout] Ioun Stone
+>![[ioun-stone.png]]
+>
+>-  - -
 >_Wondrous Item, Varies (Requires Attunement)_
 >
 >Roughly marble sized, _Ioun Stones_ are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of _Ioun Stones_ exist, each type a distinct combination of shape and color.
@@ -24,9 +28,6 @@ sources:
 >As a [[Actions#Utilize\|Utilize]] action, you can seize and stow any number of _Ioun Stones_ orbiting your head. If your Attunement to an _Ioun Stone_ ends while it's orbiting your head, the stone falls as though you had dropped it.
 >
 >The type of stone determines its rarity and effects.
->
->
->Ioun Stones
 >
 >#### Absorption (Very Rare)
 >
@@ -87,10 +88,6 @@ sources:
 >#### Sustenance (Rare)
 >
 >You don't need to eat or drink while this clear spindle orbits your head.
->
->
->Javelin of Lightning, Iron bands of Bilarro, Iron Flask
->
 
 
 ![[dungeon-masters-guide-2024.avif|banner]]

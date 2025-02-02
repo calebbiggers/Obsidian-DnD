@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Minute
 classes:
   - Warlock
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Conjuration
 sources:
   - "[[Lost Laboratory of Kwalish]]"
-type: Spell
 ---
+
+# Flock of Familiars
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

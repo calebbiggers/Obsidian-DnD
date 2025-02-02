@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Hour
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M (Damp Clay Equal To The Weight Of The Target And 150 Gp Worth Of Crushed Gem Dust, Both Of Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Critical Role]]"
 type: Spell
 ---
+# Widogast's Transmogrification
 >[!spell-callout] Widogast's Transmogrification
 >_Level 6 Transmutation (Wizard)_
 >

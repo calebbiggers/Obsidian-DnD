@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Legends-Of-Runeterra-Dark-Tides-Of-Bilgewater-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Uncommon
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: Scimitar
 ---
+# Bilgewater Cutlass
 >[!uncommon-weapon-callout] `=this.file.name`
 >*Weapon (Scimitar), Uncommon*
 >

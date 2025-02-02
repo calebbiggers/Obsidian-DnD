@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Reaction, Which You Take When A Creature You Can See Within 60 Feet Of Yourself Succeeds On An Attack Roll, An Ability Check, Or A Saving Throw
 classes:
   - Bard
@@ -25,6 +21,9 @@ sources:
   - "[[Strixhaven - A Curriculum of Chaos]]"
 type: Spell
 ---
+
+# Silvery Barbs
+
 >[!spell-callout] Silvery Barbs
 >_Level 1 Enchantment (Bard, Sorcerer, Wizard)_
 >

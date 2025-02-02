@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Bonus Action
 classes:
   - Artificer
@@ -12,21 +8,23 @@ classes:
   - Sorcerer
   - Wizard
 components:
-  - V
   - S
-concentration: True
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 3
 range: Self
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 78 - Draconic Options]]"
-type: Spell
 ---
+
+# Flame Stride (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

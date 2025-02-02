@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Fire Breath
 >[!uncommon-potion-callout] Potion of Fire Breath
 >_Potion, Uncommon_
 >

@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 10 Minutes
 classes:
   - Druid
 components:
-  - V
-  - S
   - M (Mistletoe, Which The Spell Consumes, That Was Harvested With A Golden Sickle Under The Light Of A Full Moon)
+  - S
+  - V
 concentration: false
 duration: 24 Hours
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Abjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Druid Grove
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

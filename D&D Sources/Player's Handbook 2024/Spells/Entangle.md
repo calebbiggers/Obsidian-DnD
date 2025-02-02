@@ -6,8 +6,8 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Entangle
+
 >[!spell-callout] Entangle
 >![[entangle.png]]
 >
@@ -35,4 +38,4 @@ sources:
 >Each creature (other than you) in the area when you cast the spell must succeed on a Strength saving throw or have the [[Conditions#Restrained\|Restrained]] condition until the spell ends. A Restrained creature can take an action to make a Strength ([[Proficiency#Skill List\|Athletics ]]) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer Restrained by them.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

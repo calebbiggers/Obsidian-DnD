@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dragon Slayer
 >[!rare-weapon-callout] Dragon Slayer
 >![[dragon-slayer.jpg]]
 >

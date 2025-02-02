@@ -6,10 +6,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a fan and a feather
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wind Wall
+
 >[!spell-callout] Wind Wall
 >_Level 3 Evocation (Druid, Ranger)_
 >
@@ -36,4 +39,4 @@ sources:
 >The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in gaseous form can't pass through it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

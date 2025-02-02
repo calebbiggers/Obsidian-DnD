@@ -1,13 +1,13 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+repeatable: true
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: Origin
-repeatable: true
 ---
+# Magic Initiate
 >[!feat] Magic Initiate
 >_Origin Feat_
 >
@@ -21,4 +21,4 @@ repeatable: true
 >
 >**_Repeatable._** You can take this feat more than once, but you must choose a different spell list each time.
 >![[potions-book.png]]
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

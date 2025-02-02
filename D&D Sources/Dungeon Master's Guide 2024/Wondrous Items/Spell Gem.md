@@ -2,8 +2,6 @@
 tags:
   - Item
 attunement: False
-banner: "[[Out-Of-The-Abyss-Banner.jpg]]"
-banner_lock: True
 classes:
 icon: RaGem
 rarity: Rarity Varies
@@ -22,6 +20,7 @@ price: 350
 price: 150
 type_details: 
 ---
+# Spell Gem
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rarity Varies*
 >

@@ -1,15 +1,16 @@
 ---
-sources:
-  - "[[Player's Handbook 2024]]"
-icon: DciClassIconBarbarian
 tags:
   - Class
+icon: RaArrowFlights
+sources:
+  - "[[Player's Handbook 2024]]"
 ---
-![[players-handbook-banner-2024.png|banner]]![[ranger.png]]
+# ![[ranger-symbol.png|25]] Ranger
+![[players-handbook-2024-banner.png|banner]]![[ranger.png]]
 Far from bustling cities, amid the trees of trackless forests and across wide plains, Rangers keep their unending watch in the wilderness. Rangers learn to track their quarry as a predator does, moving stealthily through the wilds and hiding themselves in brush and rubble.
 
 Thanks to their connection with nature, Rangers can also cast spells that harness primal powers of the wilderness. A Ranger’s talents and magic are honed with deadly focus to protect the world from the ravages of monsters and tyrants.
-# Core Ranger Traits
+## Core Ranger Traits
 |   |   |
 |---|---|
 |Primary Ability|Dexterity and Wisdom|
@@ -20,14 +21,14 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 |Armor Training|Light and Medium armor and Shields|
 |Starting Equipment|_Choose A or B:_ (A) [[#Studded Leather Armor]], [[#Scimitar]], [[#Shortsword]], [[#Longbow]], 20 [[#Arrows]], [[Adventuring Gear#Quiver\|Quiver]], [[Adventuring Gear#Druidic Focus\|Druidic Focus]] ([[#sprig of mistletoe]]), [[Adventuring Gear#Explorer’s Pack\|Explorer’s Pack]], and 7 GP; or (B) 150 GP|
 
-# Becoming a Ranger...
-## As a Level 1 Character
+## Becoming a Ranger...
+### As a Level 1 Character
 - Gain all the traits in the Core Ranger Traits table.
 - Gain the Ranger’s level 1 features, which are listed in the Ranger Features table.
-## As a Multiclass Character
+### As a Multiclass Character
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
 - Gain the Ranger’s level 1 features, which are listed in the Ranger Features table. See the multiclassing rules to determine your available spell slots.
-# Ranger Features Table
+## Ranger Features Table
 ||   |   |   |—Spell Slots per Spell Level—|   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Favored Enemy|Prepared Spells|1|2|3|4|5|
@@ -53,9 +54,9 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 |19|+6|Epic Boon|6|15|4|3|3|3|2|
 |20|+6|Foe Slayer|6|15|4|3|3|3|2|
 
-# Ranger Class Features
+## Ranger Class Features
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 You have learned to channel the magical essence of nature to cast spells.
 
 >**_Spell Slots._** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
@@ -71,50 +72,50 @@ You have learned to channel the magical essence of nature to cast spells.
 >**_Spellcasting Ability._** Wisdom is your spellcasting ability for your Ranger spells.
 >
 >**_Spellcasting Focus._** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
-## Level 1: Favored Enemy
+### Level 1: Favored Enemy
 You always have the [[#Hunter’s Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels.
-## Level 1: Weapon Mastery
+### Level 1: Weapon Mastery
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
-## Level 2: Deft Explorer
+### Level 2: Deft Explorer
 
 Thanks to your travels, you gain the following benefits.
 
 >**_Expertise._** Choose one of your skill proficiencies with which you lack Expertise. You gain [[#Expertise]] in that skill.
 >
 >**_Languages._** You know two languages of your choice.
-## Level 2: Fighting Style
+### Level 2: Fighting Style
 You gain a Fighting Style feat of your choice. Instead of choosing one of those feats, you can choose the option below.
 >**_Druidic Warrior._** You learn two Druid cantrips of your choice. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
-## Level 3: Ranger Subclass
+### Level 3: Ranger Subclass
 You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
-## Level 5: Extra Attack
+### Level 5: Extra Attack
 You can attack twice instead of once whenever you take the [[Actions#Attack\|Attack]] action on your turn.
-## Level 6: Roving
+### Level 6: Roving
 Your Speed increases by 10 feet while you aren’t wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
-## Level 9: Expertise
+### Level 9: Expertise
 Choose two of your skill proficiencies with which you lack Expertise. You gain [[#Expertise]] in those skills.
-## Level 10: Tireless
+### Level 10: Tireless
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 >**_Temporary Hit Points._** As a [[Actions#Magic\|Magic]] action, you can give yourself a number of [[Damage & Healing#Temporary Hit Points\|Temporary Hit Points]] equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 >
 >**_Decrease Exhaustion._** Whenever you finish a Short Rest, your [[Conditions#Exhaustion\|Exhaustion]] level, if any, decreases by 1.
-## Level 13: Relentless Hunter
+### Level 13: Relentless Hunter
 Taking damage can’t break your [[#Concentration]] on [[#Hunter’s Mark]].
-## Level 14: Nature’s Veil
+### Level 14: Nature’s Veil
 You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the [[Conditions#Invisible\|Invisible]] condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
-## Level 17: Precise Hunter
+### Level 17: Precise Hunter
 You have Advantage on attack rolls against the creature currently marked by your [[#Hunter’s Mark]].
-## Level 18: Feral Senses
+### Level 18: Feral Senses
 Your connection to the forces of nature grants you [[#Blindsight]] with a range of 30 feet.
-## Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
-## Level 20: Foe Slayer
+### Level 20: Foe Slayer
 The damage die of your [[#Hunter’s Mark]] is a d10 rather than a d6.

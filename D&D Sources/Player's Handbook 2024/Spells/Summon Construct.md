@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a lockbox worth 400+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Construct
+
 >[!spell-callout] Summon Construct
 >_Level 4 Conjuration (Wizard)_
 >
@@ -83,4 +86,4 @@ sources:
 >**_Berserk Lashing (Clay Only)._** _Trigger:_ The spirit takes damage from a creature. _Response:_ The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [[Combat#Opportunity Attacks\|Opportunity Attacks]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

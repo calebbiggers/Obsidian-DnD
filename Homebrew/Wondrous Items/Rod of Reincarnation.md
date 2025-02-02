@@ -3,28 +3,30 @@ tags:
   - Item
 attunement: true
 attunement_details: By A Cleric, Druid, Or Paladin
-banner: "[[Homebrew-Banner.jpg]]"
-banner_lock: true
 classes:
   - Cleric
   - Druid
   - Paladin
 icon: LiWand2
+price: 9000
 rarity: Legendary
 sources:
   - "[[Homebrew]]"
 type: Rod
-price: 9000
-type_details:
+type_details: 
 ---
+
+# Rod of Reincarnation
+
 ![[Homebrew-Banner.jpg|banner]]
 >[!legendary-rod-callout] Rod of Reincarnation
 >*Rod, Legendary*
 >
->While you hold this rod, you can use an action to cast the [[Reincarnate]] spell without material components. Once this rod is used to cast this spell, it cannot be used for a year. 
+>While you hold this rod, you can use an action to cast the [[Reincarnate]] spell without material components. Once this rod is used to cast this spell, it cannot be used for a year.
 >
 >The race table for this casting of the Reincarnate spell is as follows:
->##### Reincarnation Table 
+>##### Reincarnation Table
+>
 >| d100  | Race                                     | %   |
 >|:----- |:---------------------------------------- |:--- |
 >| 1-25  | [[Human]]                                | 25% |

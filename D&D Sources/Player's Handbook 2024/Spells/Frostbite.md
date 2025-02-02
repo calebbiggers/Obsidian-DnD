@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Artificer
@@ -12,8 +9,8 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,8 +22,10 @@ schools:
   - Evocation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Frostbite
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

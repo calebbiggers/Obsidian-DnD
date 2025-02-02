@@ -1,17 +1,13 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
-  - M
   - (A Spool Of Platinum Cord Worth At Least 250 Gp, Which The Spell Consumes)
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Tether Essence
 >[!spell-callout] Tether Essence
 >_Level 7 Necromancy (Wizard)_
 >

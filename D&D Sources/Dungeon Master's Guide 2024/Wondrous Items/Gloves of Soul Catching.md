@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Candlekeep-Mysteries-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHand
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Gloves of Soul Catching
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

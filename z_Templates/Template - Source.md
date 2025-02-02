@@ -1,41 +1,37 @@
 ---
-tags:
-  - Source
-banner: 
-banner_lock: true
-banner_y: 0
-type: Source
+tags: [Source]
 icon: LiBookMarked
+type: Source
 ---
-# Classes
+## Classes
 ```dataview
 LIST
 FROM #Class
 WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
-# Subclasses
+## Subclasses
 ```dataview
 LIST
 FROM #Subclass 
 WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
-# Items
+## Items
 ```dataview
 LIST
 FROM #Item 
 WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
-# Spells
+## Spells
 ```dataview
 LIST
 FROM #Spell
 WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
-# Feats
+## Feats
 ```dataview
 LIST
 FROM #Feat

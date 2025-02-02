@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Non-Evil Creature
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Greatsword
 ---
+# Snicker-Snack
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Greatsword), Legendary (Requires Attunement By A Non-Evil Creature)*
 >

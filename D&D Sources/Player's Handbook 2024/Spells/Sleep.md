@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of sand or rose petals
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sleep
+
 >[!spell-callout] Sleep
 >_Level 1 Enchantment (Bard, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >Creatures that don't sleep, such as elves, or that have Immunity to the [[Conditions#Exhaustion\|Exhaustion]] condition automatically succeed on saves against this spell.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

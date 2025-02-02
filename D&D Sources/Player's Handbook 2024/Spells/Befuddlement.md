@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a key ring with no keys
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 150 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Befuddlement
+
 >[!spell-callout] Befuddlement
 >_Level 8 Enchantment (Bard, Druid, Warlock, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >On a successful save, the target takes half as much damage only.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

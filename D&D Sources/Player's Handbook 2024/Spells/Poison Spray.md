@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Poison Spray
+
 >[!spell-callout] Poison Spray
 >_Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

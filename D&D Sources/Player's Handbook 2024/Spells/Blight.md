@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Blight
+
 >[!spell-callout] Blight
 >_Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 4.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

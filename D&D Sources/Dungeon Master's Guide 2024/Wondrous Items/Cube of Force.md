@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cube of Force
 >[!rare-wondrous-item-callout] Cube of Force
 >![[cube-of-force.jpg]]
 >

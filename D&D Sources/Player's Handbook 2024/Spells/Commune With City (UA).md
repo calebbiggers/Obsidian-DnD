@@ -1,32 +1,30 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Minute
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 5
 range: Self
-ritual: True
-scales: False
+ritual: true
+scales: false
 schools:
-  - Divination
   - (Technomagic)
+  - Divination
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Commune With City (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -2,17 +2,18 @@
 tags:
   - Item
 attunement: False
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
+price: 25
 rarity: Common
 sources:
   - "[[Xanathar's Guide to Everything]]"
 type: Weapon
-price: 25
 type_details: Arrow
 ---
+
+# Unbreakable Arrow
+
 >[!common-weapon-callout] Unbreakable Arrow
 >*Weapon (Arrow), Common*
 >

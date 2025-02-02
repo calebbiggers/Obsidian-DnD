@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - an agate worth 1,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Awaken
+
 >[!spell-callout] Awaken
 >_Level 5 Transmutation (Bard, Druid)_
 >
@@ -34,4 +37,4 @@ sources:
 >The awakened target has the [[Conditions#Charmed\|Charmed]] condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -15,9 +15,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Aura of Life
+
 >[!spell-callout] Aura of Life
 >_Level 4 Abjuration (Cleric, Paladin)_
 >
@@ -29,4 +32,4 @@ sources:
 >An aura radiates from you in a 30-foot [[Spells#Emanation\|Emanation]] for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

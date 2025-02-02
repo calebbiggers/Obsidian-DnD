@@ -3,9 +3,7 @@ tags:
   - Item
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Uncommon
 sources:
@@ -13,6 +11,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
+# Quandrix Primer
+
 >[!uncommon-wondrous-item-callout] Quandrix Primer
 >*Wondrous Item, Uncommon (Requires Attunement By A Spellcaster)*
 >

@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Wizard
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Wizard
 icon: LiComponent
+price: 2100
 rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 2100
 type_details: 
 ---
+# Planecaller's Codex
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Wizard)*
 >

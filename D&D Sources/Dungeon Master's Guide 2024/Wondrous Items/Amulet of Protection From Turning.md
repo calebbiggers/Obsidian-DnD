@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaGemPendant
+price: 3600
 rarity: Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 3600
 type_details: 
 ---
+# Amulet of Protection From Turning
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

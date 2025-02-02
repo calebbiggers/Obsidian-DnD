@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of sulfur
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Flame Strike
+
 >[!spell-callout] Flame Strike
 >_Level 5 Evocation (Cleric)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

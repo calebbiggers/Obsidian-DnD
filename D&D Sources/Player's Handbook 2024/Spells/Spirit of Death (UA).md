@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Gilded Playing Card Depicting An Avatar Of Death Worth At Least 400 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Necromancy
 sources:
   - "[[Unearthed Arcana 85 - Wonders of The Multiverse]]"
-type: Spell
 ---
+
+# Spirit of Death (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >
@@ -38,8 +36,6 @@ type: Spell
 >You call forth a spirit that embodies death itself. Choose a creature you can see within range. The spirit manifests in an unoccupied space that you can see within 10 feet of the target, and the target becomes haunted by the spirit. The spirit uses the Reaper Spirit stat block. The spirit disappears when it or the haunted creature is reduced to 0 hit points, or when the spell ends.
 >
 >The reaper spirit is an ally to you and your companions. In combat, the spirit shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you), but it will only attack the haunted creature. If you don’t issue the spirit any commands, it takes the Dodge action and uses its move to avoid danger
->
->
 >
 >| Reaper Spirit |
 >| --- |
@@ -61,6 +57,5 @@ type: Spell
 >| ***Multiattack.*** The reaper makes a number of attacks equal to half this spell’s level (rounded down). |
 >| ***Reaping Scythe.*** *Melee Weapon Attack:* your spell attack modifier to hit (with advantage), reach 5 ft., one target. *Hit:* 1d10 + 3 + the spell’s level necrotic damage. |
 >| ***Paralyzing Fear (1/Day).*** The reaper attempts to instill fear into the haunted creature it can see within 60 feet of itself. The creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the reaper for 1 minute. While frightened this way, the creature’s speed is 0, and it can’t benefit from any bonus to its speed. The frightened creature can repeat the saving throw at the end of each of its turns, or immediately after it takes damage, ending the effect on itself on a success. |
->
->
+
 ***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.

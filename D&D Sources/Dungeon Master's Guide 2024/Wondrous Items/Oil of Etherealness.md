@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Oil of Etherealness
 >[!rare-potion-callout] Oil of Etherealness
 >_Potion, Rare_
 >

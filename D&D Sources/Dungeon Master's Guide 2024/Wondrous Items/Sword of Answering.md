@@ -12,6 +12,7 @@ type_details: Longsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Answering
 >[!legendary-weapon-callout] Sword of Answering
 >_Weapon (Longsword) , Legendary (Requires Attunement)_
 >

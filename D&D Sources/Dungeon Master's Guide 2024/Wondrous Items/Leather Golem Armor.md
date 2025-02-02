@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
 rarity: Rare
 sources:
   - "[[Lost Laboratory of Kwalish]]"
 type: Armor
 type_details: Leather
 ---
+# Leather Golem Armor
 >[!rare-armor-callout] `=this.file.name`
 >*Armor (Leather), Rare (Requires Attunement)*
 >

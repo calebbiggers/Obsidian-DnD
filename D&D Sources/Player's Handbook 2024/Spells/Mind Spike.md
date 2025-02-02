@@ -16,9 +16,12 @@ range: 120 feet
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mind Spike
+
 >[!spell-callout] Mind Spike
 >_Level 2 Divination (Sorcerer, Warlock, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

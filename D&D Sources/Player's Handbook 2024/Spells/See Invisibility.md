@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pinch of talc
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# See Invisibility
+
 >[!spell-callout] See Invisibility
 >_Level 2 Divination (Bard, Sorcerer, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >For the duration, you see creatures and objects that have the [[Conditions#Invisible\|Invisible]] condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

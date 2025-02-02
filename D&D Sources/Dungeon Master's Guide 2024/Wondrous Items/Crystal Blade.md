@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any Sword
 ---
+# Crystal Blade
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Any Sword), Rare (Requires Attunement)*
 >

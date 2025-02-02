@@ -1,30 +1,28 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Druid
   - Ranger
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 1
 range: 120 Feet
-ritual: True
-scales: False
+ritual: true
+scales: false
 schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 36 - Starter Spells]]"
-type: Spell
 ---
+
+# Wild Cunning (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

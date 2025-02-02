@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Sorcerer]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 150 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Fire Storm
+
 >[!spell-callout] Fire Storm
 >_Level 7 Evocation (Cleric, Druid, Sorcerer)_
 >
@@ -33,4 +36,4 @@ sources:
 >Flammable objects in the area that aren't being worn or carried start [[Exploration#Burning\|Burning]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

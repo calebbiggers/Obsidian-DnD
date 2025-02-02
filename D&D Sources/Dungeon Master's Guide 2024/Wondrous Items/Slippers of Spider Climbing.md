@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Slippers of Spider Climbing
 >[!uncommon-wondrous-item-callout] Slippers of Spider Climbing
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

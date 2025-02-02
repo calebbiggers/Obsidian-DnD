@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 325
 rarity: Uncommon
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Wondrous Item
-price: 325
 type_details: 
 ---
+# Smokepowder
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

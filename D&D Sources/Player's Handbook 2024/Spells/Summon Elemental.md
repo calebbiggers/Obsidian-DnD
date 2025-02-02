@@ -7,10 +7,10 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Elemental
+
 >[!spell-callout] Summon Elemental
 >_Level 4 Conjuration (Druid, Ranger, Wizard)_
 >
@@ -79,4 +82,4 @@ sources:
 >**_Slam._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_ 1d10 + 4 + the spell's level Bludgeoning (Earth only), Cold (Water only), Lightning (Air only), or Fire (Fire only) damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

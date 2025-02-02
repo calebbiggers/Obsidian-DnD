@@ -8,9 +8,9 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - S
-  - M
   - a weapon with which you have proficiency and that is worth 1+ CP
+  - M
+  - S
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# True Strike
+
 >[!spell-callout] True Strike
 >_Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Cantrip Upgrade._** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

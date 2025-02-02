@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a cockatrice feather
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Flesh to Stone
+
 >[!spell-callout] Flesh to Stone
 >_Level 6 Transmutation (Druid, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >If you maintain your [[Spells#Concentration\|Concentration]] on this spell for the entire possible duration, the target is Petrified until the condition is ended by [[Greater Restoration]] or similar magic.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

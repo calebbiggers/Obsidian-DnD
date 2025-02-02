@@ -14,9 +14,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Thaumaturgy
+
 >[!spell-callout] Thaumaturgy
 >_Transmutation Cantrip (Cleric)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Tremors._** You cause harmless tremors in the ground for 1 minute.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

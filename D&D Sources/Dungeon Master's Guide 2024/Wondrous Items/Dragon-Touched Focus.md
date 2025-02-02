@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Rarity Varies
 sources:
   - "[[Fizban's Treasury of Dragons]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Dragon-Touched Focus
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rarity Varies (Requires Attunement By A Spellcaster)*
 >

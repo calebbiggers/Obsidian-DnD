@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Oil of Sharpness
 >[!varies-potion-callout] Oil of Sharpness
 >_Potion, Varies_
 >

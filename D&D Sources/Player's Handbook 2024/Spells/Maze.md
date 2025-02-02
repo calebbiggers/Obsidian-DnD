@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Maze
+
 >[!spell-callout] Maze
 >_Level 8 Conjuration (Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

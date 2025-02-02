@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiShield
+price: 850
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Armor
-price: 850
 type_details: Shield
 ---
+# Battering Shield
 >[!rare-armor-callout] Battering Shield
 >*Armor (Shield), Rare (Requires Attunement)*
 >

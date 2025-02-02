@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dominate Person
+
 >[!spell-callout] Dominate Person
 >_Level 5 Enchantment (Bard, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** Your [[Spells#Concentration\|Concentration]] can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

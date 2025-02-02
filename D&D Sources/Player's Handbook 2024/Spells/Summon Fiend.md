@@ -6,10 +6,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bloody vial worth 600+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Fiend
+
 >[!spell-callout] Summon Fiend
 >_Level 6 Conjuration (Warlock, Wizard)_
 >
@@ -86,4 +89,4 @@ sources:
 >**_Fiery Strike (Devil Only)._** _Melee or Ranged Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. _Hit:_ 2d6 + 3 + the spell's level Fire damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

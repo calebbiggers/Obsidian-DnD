@@ -1,17 +1,18 @@
 ---
-sources:
-  - "[[Player's Handbook 2024]]"
-icon: DciClassIconBarbarian
 tags:
   - Class
+icon: LiLeaf
+sources:
+  - "[[Player's Handbook 2024]]"
 ---
-![[players-handbook-banner-2024.png|banner]]![[druid.png]]
+# ![[druid-symbol.png|25]] Druid
+![[players-handbook-2024-banner.png|banner]]![[druid.png]]
 Druids belong to ancient orders that call on the forces of nature. Harnessing the magic of animals, plants, and the four elements, Druids heal, transform into animals, and wield elemental destruction.
 
 Revering nature above all, individual Druids gain their magic from nature, a nature deity, or both, and they typically unite with other Druids to perform rites that mark the passage of the seasons and other natural cycles.
 
 Druids are concerned with the delicate ecological balance that sustains plant and animal life and with the need for people to live in harmony with nature. Druids often guard sacred sites or watch over regions of unspoiled nature, but when a significant danger arises, Druids take a more active role as adventurers who combat the threat.
-# Core Druid Traits
+## Core Druid Traits
 |   |   |
 |---|---|
 |Primary Ability|Wisdom|
@@ -23,14 +24,14 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 |Armor Training|Light armor and Shields|
 |Starting Equipment|_Choose A or B:_ (A) [[#Leather Armor]], [[Armor#Shield\|Shield]], [[#Sickle]], [[Adventuring Gear#Druidic Focus\|Druidic Focus]] ([[#Quarterstaff]]), [[Adventuring Gear#Explorer’s Pack\|Explorer’s Pack]], [[Tools#Herbalism Kit\|Herbalism Kit]], and 9 GP; or (B) 50 GP|
 
-# Becoming a Druid...
-## As a Level 1 Character
+## Becoming a Druid...
+### As a Level 1 Character
 - Gain all the traits in the Core Druid Traits table.
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table.
-## As a Multiclass Character
+### As a Multiclass Character
 - Gain the following traits from the Core Druid Traits table: Hit Point Die and training with Light armor and Shields.
 - Gain the Druid’s level 1 features, which are listed in the Druid Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
-# Druid Features Table
+## Druid Features Table
 ||   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Wild Shape|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
@@ -56,9 +57,9 @@ Druids are concerned with the delicate ecological balance that sustains plant an
 |19|+6|Epic Boon|4|4|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Archdruid|4|4|22|4|3|3|3|3|2|2|1|1|
 
-# Druid Class Features
+## Druid Class Features
 As a Druid, you gain the following class features when you reach the specified Druid levels. These features are listed in the Druid Features table.
-## Level 1: Spellcasting
+### Level 1: Spellcasting
 
 You have learned to cast spells through studying the mystical forces of nature. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the Druid spell list later in the class’s description.
 
@@ -81,16 +82,16 @@ You have learned to cast spells through studying the mystical forces of nature. 
 >**_Spellcasting Ability._** Wisdom is your spellcasting ability for your Druid spells.
 >
 >**_Spellcasting Focus._** You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.
-## Level 1: Druidic
+### Level 1: Druidic
 You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the [[#Speak with Animals]] spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message’s presence with a successful DC 15 Intelligence ([[#Investigation]]) check but can’t decipher it without magic.
-## Level 1: Primal Order
+### Level 1: Primal Order
 You have dedicated yourself to one of the following sacred roles of your choice.
 >**_Magician._** You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([[#Arcana]] or [[#Nature]]) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 >
 >**_Warden._** Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
-## Level 2: Wild Shape
+### Level 2: Wild Shape
 The power of nature allows you to assume the form of an animal. As a Bonus Action, you [[#shape-shift]] into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the [[Conditions#Incapacitated\|Incapacitated]] condition, or die. You can also leave the form early as a Bonus Action.
 
 >**_Number of Uses._** You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
@@ -120,34 +121,34 @@ The power of nature allows you to assume the form of an animal. As a Bonus Actio
 >**_No Spellcasting._** You can’t cast spells, but shape-shifting doesn’t break your [[#Concentration]] or otherwise interfere with a spell you’ve already cast.
 >
 >**_Objects._** Your ability to handle objects is determined by the form’s limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it’s practical for the new form to wear a piece of equipment based on the creature’s size and shape. Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you’re in that form.
-## Level 2: Wild Companion
+### Level 2: Wild Companion
 You can summon a nature spirit that assumes an animal form to aid you. As a [[Actions#Magic\|Magic]] action, you can expend a spell slot or a use of Wild Shape to cast the [[#Find Familiar]] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
-## Level 3: Druid Subclass
+### Level 3: Druid Subclass
 
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
-## Level 4: Ability Score Improvement
+### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
-## Level 5: Wild Resurgence
+### Level 5: Wild Resurgence
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
 In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can’t do so again until you finish a Long Rest.
-## Level 7: Elemental Fury
+### Level 7: Elemental Fury
 The might of the elements flows through you. You gain one of the following options of your choice.
 >**_Potent Spellcasting._** Add your Wisdom modifier to the damage you deal with any Druid cantrip.
 >
 >**_Primal Strike._** Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).
-## Level 15: Improved Elemental Fury
+### Level 15: Improved Elemental Fury
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 >**_Potent Spellcasting._** When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.
 >
 >**_Primal Strike._** The extra damage of your Primal Strike increases to 2d8.
-## Level 18: Beast Spells
+### Level 18: Beast Spells
 While using Wild Shape, you can cast spells in Beast form, except for any spell that has a Material component with a cost specified or that consumes its Material component.
-## Level 19: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
-## Level 20: Archdruid
+### Level 20: Archdruid
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 >**_Evergreen Wild Shape._** Whenever you roll Initiative and have no uses of Wild Shape left, you regain one expended use of it.

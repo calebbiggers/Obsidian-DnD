@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHeartsCard
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Deck of Several Things
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary*
 >

@@ -1,16 +1,16 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+prerequisites:
+  - Intelligence, Wisdom, or Charisma 13+
+  - Level 4+
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: General
-repeatable: false
-prerequisites:
-  - Level 4+
-  - Intelligence, Wisdom, or Charisma 13+
 ---
+# Ritual Caster
 >[!feat] Ritual Caster
 >_General Feat (Prerequisite: Level 4+; Intelligence, Wisdom, or Charisma 13+)_
 >
@@ -22,4 +22,4 @@ prerequisites:
 >
 >**_Quick Ritual._** With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn’t require a spell slot. Once you cast the spell in this way, you can’t use this benefit again until you finish a [[Damage & Healing#Long Rests\|Long Rest]].
 >![[bowl-candle-amulet.png]]
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

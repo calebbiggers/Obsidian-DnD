@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Resistance
 >[!uncommon-potion-callout] Potion of Resistance
 >_Potion, Uncommon_
 >

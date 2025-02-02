@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Immovable Rod
 >[!uncommon-rod-callout] Immovable Rod
 >![[immovable-rod.jpeg]]
 >

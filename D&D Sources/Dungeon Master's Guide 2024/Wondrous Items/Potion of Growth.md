@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Growth
 >[!uncommon-potion-callout] Potion of Growth
 >_Potion, Uncommon_
 >

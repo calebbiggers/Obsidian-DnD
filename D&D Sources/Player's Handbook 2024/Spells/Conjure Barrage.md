@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a Melee or Ranged weapon worth at least 1 CP
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Conjure Barrage
+
 >[!spell-callout] Conjure Barrage
 >_Level 3 Conjuration (Ranger)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each spell slot level above 3.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

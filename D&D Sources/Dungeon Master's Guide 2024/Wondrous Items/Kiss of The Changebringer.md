@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaGemPendant
 rarity: Legendary
 sources:
   - "[[Tal'Dorei Campaign Setting Reborn]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Kiss of The Changebringer
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

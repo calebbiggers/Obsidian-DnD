@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Gilded Playing Card Depicting A Knight Worth At Least 300 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Conjuration
 sources:
   - "[[Unearthed Arcana 85 - Wonders of The Multiverse]]"
-type: Spell
 ---
+
+# Summon Warrior Spirit (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >
@@ -38,8 +36,6 @@ type: Spell
 >You call forth a warrior spirit from the legendary [[Deck of Many Things 1]]. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Warrior Spirit stat block. When you cast the spell, choose a type of warrior: barbarian, fighter, or monk. The warrior resembles a humanoid armed appropriately to the chosen class, which determines certain traits in its stat block. The warrior disappears when it drops to 0 hit points or when the spell ends.
 >
 >The warrior is an ally to you and your companions. In combat, the warrior shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
->
->
 >
 >| Warrior Spirit |
 >| --- |
@@ -63,6 +59,5 @@ type: Spell
 >| ***Unarmed Strike (Monk Only).*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 + the spell’s level bludgeoning damage, and the target must succeed on a Strength saving throw against your spell save DC or be knocked prone. |
 >| Bonus Actions |
 >| ***Flurry of Blows (Monk Only).*** The monk makes one Unarmed Strike attack. |
->
->
+
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the creature assumes the higher level for that casting wherever it uses the spell’s level in its stat block.

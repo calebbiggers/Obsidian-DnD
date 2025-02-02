@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Action
 classes:
   - Bard
@@ -24,8 +20,10 @@ schools:
   - Enchantment
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Raulothim's Psychic Lance
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

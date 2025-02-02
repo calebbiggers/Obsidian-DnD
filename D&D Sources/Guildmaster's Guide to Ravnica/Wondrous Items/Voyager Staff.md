@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Voyager Staff
 >[!very-rare-staff-callout] Voyager Staff
 >*Staff, Very Rare (Requires Attunement By A Spellcaster)*
 >

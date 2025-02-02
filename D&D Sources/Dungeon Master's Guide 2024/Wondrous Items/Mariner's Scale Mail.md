@@ -1,16 +1,14 @@
 ---
 tags:
   - Item
-type: Armor
+icon: RaVest
 rarity: Uncommon
-icon: RaKnightHelmet
 sources:
   - "[[Homebrew]]"
-banner: "[[Homebrew-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 subtype: Scale Mail
+type: Armor
 ---
+# Mariner's Scale Mail
 
 >[!Uncommon-armor-callout] Mariner's Scale Mail
 >![[mariners-scale-mail.jpg]]

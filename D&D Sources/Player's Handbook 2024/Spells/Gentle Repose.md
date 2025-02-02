@@ -7,10 +7,10 @@ classes:
   - "[[Paladin]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - 2 Copper Pieces, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: 10 days
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: true
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Gentle Repose
+
 >[!spell-callout] Gentle Repose
 >_Level 2 Necromancy (Cleric, Paladin, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as [[Raise Dead]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

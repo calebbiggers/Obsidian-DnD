@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 600
 rarity: Rare
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 600
 type_details: 
 ---
+# Eagle Whistle
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare*
 >

@@ -12,6 +12,7 @@ type_details: Greatsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Blackrazor
 >[!artifact-weapon-callout] Blackrazor
 >![[blackrazor.png]]
 >

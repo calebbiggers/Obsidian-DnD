@@ -15,9 +15,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wish
+
 >[!spell-callout] Wish
 >_Level 9 Conjuration (Sorcerer, Wizard)_
 >
@@ -49,4 +52,4 @@ sources:
 >The stress of casting _Wish_ to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [[Damage & Healing#Long Rests\|Long Rest]], you take 1d10 Necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast _Wish_ ever again if you suffer this stress.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Elemental-Evil-Players-Companion-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Bard
@@ -11,8 +8,8 @@ classes:
   - Sorcerer
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,10 +20,13 @@ scales: true
 schools:
   - Evocation
 sources:
-  - "[[Xanathar's Guide to Everything]]"
   - "[[Elemental Evil Player's Companion]]"
+  - "[[Xanathar's Guide to Everything]]"
 type: Spell
 ---
+
+# Earth Tremor
+
 >[!spell-callout] Earth Tremor
 >_Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)_
 >

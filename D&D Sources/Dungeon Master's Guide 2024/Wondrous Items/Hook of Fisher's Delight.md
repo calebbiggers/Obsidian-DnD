@@ -1,17 +1,15 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Rare
 sources:
   - "[[Icewind Dale - Rime of the Frostmaiden]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Hook of Fisher's Delight
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare*
 >

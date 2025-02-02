@@ -1,9 +1,5 @@
 ---
-tags:
-  - Spell
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
@@ -22,6 +18,7 @@ sources:
   - "[[Guildmaster's Guide to Ravnica]]"
 type: Spell
 ---
+# Encode Thoughts
 >[!spell-callout] Encode Thoughts
 >_Enchantment Cantrip (Wizard)_
 >

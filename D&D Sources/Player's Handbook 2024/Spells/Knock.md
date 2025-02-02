@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Knock
+
 >[!spell-callout] Knock
 >_Level 2 Transmutation (Bard, Sorcerer, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >When you cast the spell, a loud knock, audible up to 300 feet away, emanates from the target.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -6,8 +6,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 round
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shield
+
 >[!spell-callout] Shield
 >_Level 1 Abjuration (Sorcerer, Wizard)_
 >
@@ -30,4 +33,4 @@ sources:
 >An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [[Magic Missile]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

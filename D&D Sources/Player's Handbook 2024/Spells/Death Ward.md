@@ -6,8 +6,8 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -16,9 +16,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Death Ward
+
 >[!spell-callout] Death Ward
 >_Level 4 Abjuration (Cleric, Paladin)_
 >
@@ -32,4 +35,4 @@ sources:
 >If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

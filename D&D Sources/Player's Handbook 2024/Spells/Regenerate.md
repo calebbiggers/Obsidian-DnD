@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - a prayer wheel
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Regenerate
+
 >[!spell-callout] Regenerate
 >_Level 7 Transmutation (Bard, Cleric, Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

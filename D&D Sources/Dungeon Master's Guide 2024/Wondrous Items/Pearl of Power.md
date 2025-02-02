@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pearl of Power
 >[!uncommon-wondrous-item-callout] Pearl of Power
 >![[pearl-of-power.png]]
 >

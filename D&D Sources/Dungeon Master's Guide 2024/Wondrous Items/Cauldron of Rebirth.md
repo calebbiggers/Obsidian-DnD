@@ -1,7 +1,5 @@
 ---
-tags:
-  - Item
-type: Wondrous Item
+tags: [Item]
 attunement: true
 attunement_details: a Druid or Warlock
 classes:
@@ -9,10 +7,12 @@ classes:
   - "[[Warlock]]"
 icon: LiComponent
 rarity: Very Rare
-type_details: None
 sources:
   - "[[Dungeon Master's Guide 2024]]"
+type: Wondrous Item
+type_details: None
 ---
+# Cauldron of Rebirth
 >[!very-rare-wondrous-item-callout] Cauldron of Rebirth
 >![[cauldron-of-rebirth.png]]
 >

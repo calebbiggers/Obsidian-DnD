@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a mushroom
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 300 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hallucinatory Terrain
+
 >[!spell-callout] Hallucinatory Terrain
 >_Level 4 Illusion (Bard, Druid, Warlock, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to notice the illusion. If the difference isn't obvious by touch, a creature examining the illusion can take the [[Actions#Study\|Study]] action to make an Intelligence ([[Proficiency#Skill List\|Investigation]]) check against your spell save DC to disbelieve it. If a creature discerns that the terrain is illusory, the creature sees a vague image superimposed on the real terrain.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

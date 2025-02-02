@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Baba Yaga's Dancing Broom
 >[!uncommon-wondrous-item-callout] Baba Yaga's Dancing Broom
 >![[baba-yagas-dancing-broom.png]]
 >

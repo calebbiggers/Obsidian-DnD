@@ -1,33 +1,31 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Minute
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (Hacking Tools)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
 level: 4
 range: Self
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
-  - Transmutation
   - (Technomagic)
+  - Transmutation
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# System Backdoor (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a magnifying glass
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sunbeam
+
 >[!spell-callout] Sunbeam
 >_Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >For the duration, a mote of brilliant radiance shines above you. It sheds [[Exploration#Bright Light\|Bright Light]] in a 30-foot radius and [[Exploration#Dim Light\|Dim Light]] for an additional 30 feet. This light is sunlight.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,12 +1,14 @@
 ---
 tags:
   - Item
-type: Potion
-rarity: Rare
 icon: LiFlaskRound
+rarity: Rare
 sources:
   - "[[The Griffon's Saddlebag]]"
+type: Potion
 ---
+
+# Potion of Dragon's Breath
 
 >[!Varies-Potion-callout] Potion of Dragon's Breath
 >![[potion-of-dragons-breath-image.png]]
@@ -20,9 +22,8 @@ sources:
 >
 > ---
 > <p style="text-align:center;"><i><p style="text-align:center;"><i>"Oof, excuse me. Something's caught in my throat."</i></p>
-> 
+>
 > ---
 > Source: [The Griffon's Saddlebag](https://www.thegriffonssaddlebag.com/)
 
 ![[griffons-saddlebag-banner.gif|banner]]
-

@@ -5,10 +5,10 @@ casting_time: 10 minutes or Ritual
 classes:
   - "[[Cleric]]"
 components:
-  - V
-  - S
   - M
   - ruby dust worth 1,000+ GP
+  - S
+  - V
 concentration: false
 duration: 1 day
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: true
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Forbiddance
+
 >[!spell-callout] Forbiddance
 >_Level 6 Abjuration (Cleric)_
 >
@@ -37,4 +40,4 @@ sources:
 >The spell's area can't overlap with the area of another _Forbiddance_ spell. If you cast _Forbiddance_ every day for 30 days in the same location, the spell lasts until it is dispelled, and the Material components are consumed on the last casting.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

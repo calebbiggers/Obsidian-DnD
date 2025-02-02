@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rope of Climbing
 >[!uncommon-wondrous-item-callout] Rope of Climbing
 >_Wondrous Item, Uncommon_
 >

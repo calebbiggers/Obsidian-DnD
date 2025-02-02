@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Princes-Of-The-Apocalypse-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: War Pick
 ---
+# Ironfang
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (War Pick), Legendary (Requires Attunement)*
 >

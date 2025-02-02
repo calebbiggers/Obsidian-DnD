@@ -6,10 +6,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Aberration
+
 >[!spell-callout] Summon Aberration
 >_Level 4 Conjuration (Warlock, Wizard)_
 >
@@ -82,4 +85,4 @@ sources:
 >**_Psychic Slam (Mind Flayer Only)._** _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 5 ft. _Hit:_1d8 + 3 + the spell's level Psychic damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

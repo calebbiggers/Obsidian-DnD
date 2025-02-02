@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 31000
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 31000
 type_details: 
 ---
+# Orb of The Veil
 >[!very-rare-wondrous-item-callout] Orb of The Veil
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

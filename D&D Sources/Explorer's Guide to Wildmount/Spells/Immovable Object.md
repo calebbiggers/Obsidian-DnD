@@ -1,16 +1,12 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (Gold Dust Worth At Least 25 Gp, Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: 1 Hour
 icon: LiWand2
@@ -24,6 +20,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Immovable Object
 >[!spell-callout] Immovable Object
 >_Level 2 Transmutation (Wizard)_
 >

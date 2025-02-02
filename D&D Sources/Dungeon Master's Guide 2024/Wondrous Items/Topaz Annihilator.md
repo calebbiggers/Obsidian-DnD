@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Firearm
 ---
+# Topaz Annihilator
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Firearm), Legendary (Requires Attunement)*
 >

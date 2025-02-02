@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dust of Dryness
 >[!uncommon-wondrous-item-callout] Dust of Dryness
 >_Wondrous Item, Uncommon_
 >

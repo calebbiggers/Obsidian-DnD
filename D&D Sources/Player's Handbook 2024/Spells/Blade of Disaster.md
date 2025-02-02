@@ -1,17 +1,14 @@
 ---
 tags:
   - Spell
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.3
 casting_time: 1 Bonus Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -23,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Tasha's Cauldron of Everything]]"
-type: Spell
 ---
+
+# Blade of Disaster
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

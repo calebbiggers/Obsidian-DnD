@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 250
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 250
 type_details: 
 ---
+# Brooch of Living Essence
 >[!uncommon-wondrous-item-callout] Brooch of Living Essence
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

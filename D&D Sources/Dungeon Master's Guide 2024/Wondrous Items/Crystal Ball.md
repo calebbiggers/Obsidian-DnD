@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Crystal Ball
 >[!legendary-wondrous-item-callout] Crystal Ball
 >_Wondrous Item, Legendary (Requires Attunement)_
 >

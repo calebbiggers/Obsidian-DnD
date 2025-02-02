@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 1000
 rarity: Rare
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-price: 1000
 type_details: 
 ---
+# Ventilating Lungs
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: 8 Hours
 icon: LiWand2
 level: 2
 range: Touch
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Abjuration
 sources:
   - "[[Unearthed Arcana 66 - Fighter, Rogue, And Wizard]]"
-type: Spell
 ---
+
+# Thought Shield (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

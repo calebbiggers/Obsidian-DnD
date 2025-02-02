@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Manual of Golems
 >[!varies-wondrous-item-callout] Manual of Golems
+>![[manual-of-golems.png]]
+>
+>- - -
 >_Wondrous Item, Varies_
 >
 >This tome contains information and incantations necessary to make a particular type of golem. The DM chooses the type or determines it randomly by rolling on the accompanying table. To decipher and use the manual, you must be a spellcaster with at least two level 5 spell slots. A creature that can't use a _Manual of Golems_ and attempts to read it takes 6d6 Psychic damage.
@@ -27,11 +31,5 @@ sources:
 >|6–17|[[Flesh Golem]]|60 days|50,000 GP|
 >|18|[[Iron Golem]]|120 days|100,000 GP|
 >|19–20|[[Stone Golem]]|90 days|80,000 GP|
->
->
->Manual of Golems (Clay, Flesh, Iron,  
->Stone), Manual of Bodily Health
->
-
 
 ![[dungeon-masters-guide-2024.avif|banner]]

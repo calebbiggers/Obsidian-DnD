@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pole of Collapsing
 >[!common-wondrous-item-callout] Pole of Collapsing
 >_Wondrous Item, Common_
 >

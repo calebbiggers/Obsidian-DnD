@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaBatteredAxe
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Battleaxe
 ---
+# Azuredge
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Battleaxe), Legendary (Requires Attunement)*
 >

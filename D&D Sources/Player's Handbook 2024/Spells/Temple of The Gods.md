@@ -1,16 +1,13 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Hour
 classes:
   - Cleric
 components:
-  - V
-  - S
   - M (A Holy Symbol Worth At Least 5 Gp)
+  - S
+  - V
 concentration: false
 duration: 24 Hours
 icon: LiWand2
@@ -22,8 +19,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Temple of The Gods
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >
@@ -44,7 +43,7 @@ type: Spell
 >
 >Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 >
->The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple’s interior. Nothing can physically pass through the temple’s exterior. It can’t be dispelled by dispel magic, and antimagic field has no effect on it. A disintegrate spell destroys the temple instantly.  
+>The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple’s interior. Nothing can physically pass through the temple’s exterior. It can’t be dispelled by dispel magic, and antimagic field has no effect on it. A disintegrate spell destroys the temple instantly.
 >Casting this spell on the same spot every day for a year makes this effect permanent.
 >
 >

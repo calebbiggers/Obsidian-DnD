@@ -1,10 +1,8 @@
 ---
-tags:
-  - Players-Handbook
-banner: "[[Players-Handbook-Banner.jpg]]"
-banner_lock: true
+tags: []
 ---
-![[players-handbook-banner-2024.png|banner]]
+# Armor
+![[players-handbook-2024-banner.png|banner]]
 The Armor tables list the game’s main armor. The tables includes the cost and weight of armor, as well as the following details:
 
 >**Category.** Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).
@@ -21,7 +19,7 @@ The Armor tables list the game’s main armor. The tables includes the cost and 
 >The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard’s uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
 >
 >Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is 1d4 × 10 percent of the market price of the item. 
-# Light Armor & Shields
+## Light Armor & Shields
 ![[light-armor-and-shields.png]]
 
 |Armor|Armor Class (AC)|Strength|Stealth|Weight|Cost|
@@ -31,7 +29,7 @@ The Armor tables list the game’s main armor. The tables includes the cost and 
 |[[#Leather Armor]]|11 + Dex modifier|—|—|10 lb.|10 GP|
 |[[#Studded Leather Armor]]|12 + Dex modifier|—|—|13 lb.|45 GP|
 |[[Armor#Shield\|Shield]]|+2|—|—|6 lb.|10 GP|
-# Medium Armor
+## Medium Armor
 ![[medium-armor.png]]
 
 |Armor|Armor Class (AC)|Strength|Stealth|Weight|Cost|
@@ -42,7 +40,7 @@ The Armor tables list the game’s main armor. The tables includes the cost and 
 |[[#Scale Mail]]|14 + Dex modifier (max 2)|—|[[D20 Tests#Advantage/Disadvantage\|Disadvantage]]|45 lb.|50 GP|
 |[[#Breastplate]]|14 + Dex modifier (max 2)|—|—|20 lb.|400 GP|
 |[[#Half Plate Armor]]|15 + Dex modifier (max 2)|—|[[D20 Tests#Advantage/Disadvantage\|Disadvantage]]|40 lb.|750 GP|
-# Heavy Armor
+## Heavy Armor
 ![[heavy-armor.png]]
 
 |Armor|Armor Class (AC)|Strength|Stealth|Weight|Cost|
@@ -55,11 +53,11 @@ The Armor tables list the game’s main armor. The tables includes the cost and 
 |_Shield ([[Actions#Utilize\|Utilize]] Action to Don or Doff)_|   |   |   |   |   |
 |[[Armor#Shield\|Shield]]|+2|—|—|6 lb.|10 GP|
 
-# Armor Training
+## Armor Training
 Anyone can don armor or hold a Shield, but only those with training can use them effectively, as explained below. A character’s class and other features determine the character’s armor training. A monster has training with any armor in its stat block.
-## Light, Medium, or Heavy Armor
+### Light, Medium, or Heavy Armor
 If you wear Light, Medium, or Heavy armor and lack training with it, you have [[D20 Tests#Advantage/Disadvantage|Disadvantage]] on any [[D20 Tests|D20 Test]] that involves Strength or Dexterity, and you can’t cast spells.
-## Shield
+### Shield
 You gain the Armor Class benefit of a Shield only if you have training with it.
-# One at a Time
+## One at a Time
 A creature can wear only one suit of armor at a time and wield only one Shield at a time.

@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Druid
@@ -11,9 +8,9 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Living Flea)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,8 +22,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Infestation
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

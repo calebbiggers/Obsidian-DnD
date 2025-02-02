@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pole of Angling
 >[!common-wondrous-item-callout] Pole of Angling
 >_Wondrous Item, Common_
 >

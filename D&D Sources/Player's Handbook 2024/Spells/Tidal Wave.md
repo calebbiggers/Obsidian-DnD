@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Druid
   - Wizard
 components:
-  - V
-  - S
   - M (A Drop Of Water)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Tidal Wave
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Security
 >[!varies-rod-callout] Rod of Security
 >_Rod, Varies_
 >

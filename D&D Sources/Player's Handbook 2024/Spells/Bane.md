@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Warlock]]"
 components:
-  - V
-  - S
-  - M
   - a drop of blood
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Bane
+
 >[!spell-callout] Bane
 >_Level 1 Enchantment (Bard, Cleric, Warlock)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

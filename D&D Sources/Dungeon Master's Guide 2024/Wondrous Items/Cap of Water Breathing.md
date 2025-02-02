@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cap of Water Breathing
 >[!uncommon-wondrous-item-callout] Cap of Water Breathing
 >_Wondrous Item, Uncommon_
 >

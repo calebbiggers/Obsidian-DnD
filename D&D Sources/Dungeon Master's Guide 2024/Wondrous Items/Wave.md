@@ -12,6 +12,7 @@ type_details: Trident
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wave
 >[!artifact-weapon-callout] Wave
 >_Weapon (Trident) , Artifact (Requires Attunement)_
 >

@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Unknown Rarity
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Blightstaff
 >[!unknown-rarity-staff-callout] `=this.file.name`
 >*Staff, Unknown Rarity*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rope of Entanglement
 >[!rare-wondrous-item-callout] Rope of Entanglement
 >_Wondrous Item, Rare_
 >

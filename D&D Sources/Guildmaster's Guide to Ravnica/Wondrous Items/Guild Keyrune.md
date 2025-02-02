@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Member Of The Relevant Guild
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaKey
 rarity: Rarity Varies
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Guild Keyrune
 >[!rarity-varies-wondrous-item-callout] Guild Keyrune
 >*Wondrous Item, Rarity Varies (Requires Attunement By A Member Of The Relevant Guild)*
 >

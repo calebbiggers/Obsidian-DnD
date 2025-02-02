@@ -14,6 +14,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Talisman of Pure Good
 >[!legendary-wondrous-item-callout] Talisman of Pure Good
 >_Wondrous Item, Legendary (Requires Attunement a Cleric or Paladin)_
 >

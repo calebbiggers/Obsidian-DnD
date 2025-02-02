@@ -6,14 +6,18 @@ attunement: False
 attunement_details: None
 classes:
 icon: LiComponent
-rarity: Varies
+rarity: Very Rare
 type: Wondrous Item
 type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
->[!varies-wondrous-item-callout] Efreeti Bottle
->_Wondrous Item, Varies_
+# Efreeti Bottle
+>[!very-rare-wondrous-item-callout] Efreeti Bottle
+>![[efreeti-bottle.jpg]]
+>
+>- - -
+>_Wondrous Item, Very Rare_
 >
 >When you take a [[Actions#Magic\|Magic]] action to remove the stopper of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [[Efreeti]] appears in an unoccupied space within 30 feet of you.
 >

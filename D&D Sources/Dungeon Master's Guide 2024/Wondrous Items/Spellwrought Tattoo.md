@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Rarity Varies
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: Tattoo
 ---
+# Spellwrought Tattoo
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item (Tattoo), Rarity Varies*
 >

@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Spellguard Shield
 >[!varies-armor-callout] Spellguard Shield
 >_Armor (Shield) , Varies (Requires Attunement)_
 >

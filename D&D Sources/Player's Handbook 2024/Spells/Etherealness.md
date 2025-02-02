@@ -9,8 +9,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Up to 8 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Etherealness
+
 >[!spell-callout] Etherealness
 >_Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)_
 >
@@ -41,4 +44,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target up to three willing creatures (including yourself) for each spell slot level above 7. The creatures must be within 10 feet of you when you cast the spell.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

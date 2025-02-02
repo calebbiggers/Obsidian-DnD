@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Withering
 >[!rare-staff-callout] Staff of Withering
 >_Staff, Rare (Requires Attunement)_
 >

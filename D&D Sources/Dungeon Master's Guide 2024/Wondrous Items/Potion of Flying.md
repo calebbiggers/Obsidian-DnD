@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Flying
 >[!varies-potion-callout] Potion of Flying
 >_Potion, Varies_
 >

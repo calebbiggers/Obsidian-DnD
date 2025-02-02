@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - S
   - M
+  - S
   - some makeup
 concentration: true
 duration: Concentration, up to 1 minute
@@ -19,9 +19,12 @@ range: 10 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Friends
+
 >[!spell-callout] Friends
 >_Enchantment Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was Charmed by you.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

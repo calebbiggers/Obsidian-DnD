@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiFlaskRound
+price: 67500
 rarity: Legendary
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 67500
 type_details: 
 ---
+# Spell Bottle
 >[!legendary-wondrous-item-callout] Spell Bottle
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

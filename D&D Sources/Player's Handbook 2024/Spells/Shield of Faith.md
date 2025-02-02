@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
-  - S
-  - M
   - a prayer scroll
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shield of Faith
+
 >[!spell-callout] Shield of Faith
 >_Level 1 Abjuration (Cleric, Paladin)_
 >
@@ -32,4 +35,4 @@ sources:
 >A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

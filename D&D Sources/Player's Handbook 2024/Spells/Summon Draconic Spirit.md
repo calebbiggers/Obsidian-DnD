@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.56
 casting_time: 1 Action
 classes:
   - Druid
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (An Object With The Image Of A Dragon Engraved On It, Worth At Least 500 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Conjuration
 sources:
   - "[[Fizban's Treasury of Dragons]]"
-type: Spell
 ---
+
+# Summon Draconic Spirit
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >
@@ -38,8 +36,6 @@ type: Spell
 >You call forth a draconic spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Draconic Spirit stat block. When you cast this spell, choose a family of dragon: chromatic, gem, or metallic. The creature resembles a dragon of the chosen family, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 >
 >The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.
->
->
 >
 >| Draconic Spirit |
 >| --- |
@@ -60,6 +56,5 @@ type: Spell
 >| ***Multiattack.*** The dragon makes a number of Rend attacks equal to half the spell’s level (rounded down), and it uses Breath Weapon. |
 >| **Rend.** *Melee Weapon Attack:* your spell attack modifier to hit, reach 10 ft., one target. *Hit:* 1d6 plus 4 + the spell's level piercing damage. |
 >| **Breath Weapon.** The dragon exhales destructive energy in a 30-foot cone. Each creature in that area must make a Dexterity saving throw against your spell save DC. A creature takes 2d6 damage of a type this dragon has resistance to (your choice) on a failed save, or half as much damage on a successful one. |
->
->
+
 ***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell’s level appears in the stat block.

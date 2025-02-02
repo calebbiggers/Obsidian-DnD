@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Sleeping-Dragons-Wake-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: Mace
 ---
+# Bonecounter
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Mace), Rare*
 >

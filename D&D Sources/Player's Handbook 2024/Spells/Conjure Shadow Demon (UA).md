@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Vial Of Blood From An Intelligent Humanoid Killed Within The Past 24 Hours)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
 level: 4
 range: 60 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Conjuration
 sources:
   - "[[Unearthed Arcana 11 - That Old Black Magic]]"
-type: Spell
 ---
+
+# Conjure Shadow Demon (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

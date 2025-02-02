@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 100
 rarity: Common
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 100
 type_details: Tattoo
 ---
+# Illuminator's Tattoo
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item (Tattoo), Common (Requires Attunement)*
 >

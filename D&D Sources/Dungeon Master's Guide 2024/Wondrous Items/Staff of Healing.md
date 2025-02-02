@@ -15,6 +15,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Healing
 >[!rare-staff-callout] Staff of Healing
 >_Staff, Rare (Requires Attunement a Bard, Cleric, or Druid)_
 >

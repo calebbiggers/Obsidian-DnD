@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Call-Of-The-Netherdeep-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Ring
 type_details: 
 ---
+# Ring of Red Fury
 >[!very-rare-ring-callout] `=this.file.name`
 >*Ring, Very Rare (Requires Attunement)*
 >

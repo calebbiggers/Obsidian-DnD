@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cape of the Mountebank
 >[!rare-wondrous-item-callout] Cape of the Mountebank
 >![[cape-of-the-mountebank.jpg]]
 >

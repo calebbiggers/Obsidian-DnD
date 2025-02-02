@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Unknown Rarity
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Circlet of Wisdom
 >[!unknown-rarity-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Unknown Rarity (Requires Attunement)*
 >

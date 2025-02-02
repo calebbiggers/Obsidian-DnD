@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl9
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Bard
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Caterpillar Cocoon)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Mass Polymorph
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Paladin]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 10 feet
 ritual: true
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Purify Food and Drink
+
 >[!spell-callout] Purify Food and Drink
 >_Level 1 Transmutation (Cleric, Druid, Paladin)_
 >
@@ -31,4 +34,4 @@ sources:
 >You remove poison and rot from nonmagical food and drink in a 5-foot-radius [[Spells#Sphere\|Sphere]] centered on a point within range.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

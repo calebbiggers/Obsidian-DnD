@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature With The Mark Of Warding
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaKey
+price: 50
 rarity: Common
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-price: 50
 type_details: 
 ---
+# Keycharm
 >[!common-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Common (Requires Attunement By A Creature With The Mark Of Warding)*
 >

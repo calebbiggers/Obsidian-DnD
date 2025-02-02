@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a copper wire
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Unlimited
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sending
+
 >[!spell-callout] Sending
 >_Level 3 Divination (Bard, Cleric, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >Upon receiving your message, a creature can block your ability to reach it again with this spell for 8 hours. If you try to send another message during that time, you learn that you are blocked, and the spell fails.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

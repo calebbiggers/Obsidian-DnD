@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Candlekeep-Mysteries-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: Quarterstaff
 ---
+# Staff of Fate
 >[!very-rare-staff-callout] `=this.file.name`
 >*Staff (Quarterstaff), Very Rare (Requires Attunement)*
 >

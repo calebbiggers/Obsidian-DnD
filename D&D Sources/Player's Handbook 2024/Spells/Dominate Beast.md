@@ -7,8 +7,8 @@ classes:
   - "[[Ranger]]"
   - "[[Sorcerer]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dominate Beast
+
 >[!spell-callout] Dominate Beast
 >_Level 4 Enchantment (Druid, Ranger, Sorcerer)_
 >
@@ -37,4 +40,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** Your [[Spells#Concentration\|Concentration]] can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

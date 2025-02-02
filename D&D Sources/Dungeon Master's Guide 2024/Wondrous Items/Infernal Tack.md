@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature Of Evil Alignment
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 7200
 rarity: Legendary
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Wondrous Item
-price: 7200
 type_details: 
 ---
+# Infernal Tack
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement By A Creature Of Evil Alignment)*
 >

@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 12500
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 12500
 type_details: 
 ---
+# Chronolometer
 >[!very-rare-wondrous-item-callout] Chronolometer
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

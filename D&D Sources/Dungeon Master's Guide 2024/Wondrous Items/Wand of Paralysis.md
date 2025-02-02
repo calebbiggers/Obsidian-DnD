@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Paralysis
 >[!rare-wand-callout] Wand of Paralysis
 >_Wand, Rare (Requires Attunement a Spellcaster)_
 >

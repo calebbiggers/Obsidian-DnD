@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 250
 rarity: Uncommon
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Wondrous Item
-price: 250
 type_details: 
 ---
+# Soul Coin
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

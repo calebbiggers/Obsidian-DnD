@@ -15,6 +15,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Power
 >[!varies-staff-callout] Staff of Power
 >_Staff, Varies (Requires Attunement a Sorcerer, Warlock, or Wizard)_
 >
@@ -29,7 +30,7 @@ sources:
 >|[[Globe of Invulnerability]]|6|
 >|[[Hold Monster]]|5|
 >|[[Levitate]]|2|
->|[[Lightning Bolt]] (level 5 version)|5|
+>|[[D&D Sources/Player's Handbook 2024/Spells/Lightning Bolt]] (level 5 version)|5|
 >|[[Magic Missile]]|1|
 >|[[Ray of Enfeeblement]]|1|
 >|[[Wall of Force]]|5|

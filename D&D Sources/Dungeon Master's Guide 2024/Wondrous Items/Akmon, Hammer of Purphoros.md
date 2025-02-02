@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaLargeHammer
 rarity: Artifact
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Warhammer
 ---
+# Akmon, Hammer of Purphoros
 >[!artifact-weapon-callout] `=this.file.name`
 >*Weapon (Warhammer), Artifact (Requires Attunement)*
 >

@@ -12,6 +12,7 @@ type_details: Scimitar
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Scimitar of Speed
 >[!varies-weapon-callout] Scimitar of Speed
 >_Weapon (Scimitar) , Varies (Requires Attunement)_
 >

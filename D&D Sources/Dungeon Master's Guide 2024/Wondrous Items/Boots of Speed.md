@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of Speed
 >[!rare-wondrous-item-callout] Boots of Speed
 >![[boots-of-speed.jpg]]
 >

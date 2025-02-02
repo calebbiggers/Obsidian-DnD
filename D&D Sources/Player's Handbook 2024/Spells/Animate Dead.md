@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a drop of blood, a piece of flesh, and a pinch of bone dust
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 10 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Animate Dead
+
 >[!spell-callout] Animate Dead
 >_Level 3 Necromancy (Cleric, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

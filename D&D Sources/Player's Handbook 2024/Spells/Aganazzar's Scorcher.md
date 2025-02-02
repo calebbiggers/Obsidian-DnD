@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Red Dragon’S Scale)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Evocation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Aganazzar's Scorcher
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

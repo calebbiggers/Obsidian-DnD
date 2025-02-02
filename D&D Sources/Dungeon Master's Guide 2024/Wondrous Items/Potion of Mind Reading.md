@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Mind Reading
 >[!rare-potion-callout] Potion of Mind Reading
 >_Potion, Rare_
 >

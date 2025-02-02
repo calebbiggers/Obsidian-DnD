@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of the Adder
 >[!uncommon-staff-callout] Staff of the Adder
 >_Staff, Uncommon (Requires Attunement)_
 >

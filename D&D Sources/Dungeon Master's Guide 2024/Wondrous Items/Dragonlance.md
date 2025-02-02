@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Legendary
 sources:
-  - "[[Dragonlance - Shadow of the Dragon Queen]]"
   - "[[ Fizban's Treasury of Dragons]]"
+  - "[[Dragonlance - Shadow of the Dragon Queen]]"
 type: Weapon
 type_details: Lance Or Pike
 ---
+# Dragonlance
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Lance Or Pike), Legendary (Requires Attunement)*
 >

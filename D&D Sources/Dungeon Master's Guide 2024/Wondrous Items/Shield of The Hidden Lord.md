@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Shield of The Hidden Lord
 >[!legendary-armor-callout] `=this.file.name`
 >*Armor (Shield), Legendary (Requires Attunement)*
 >

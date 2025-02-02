@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rival Coin
 >[!common-wondrous-item-callout] Rival Coin
 >_Wondrous Item, Common_
 >

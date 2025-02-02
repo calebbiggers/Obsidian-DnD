@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
+price: 600
 rarity: Very Rare
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Weapon
-price: 600
 type_details: Arrow
 ---
+# Arrow of Slaying
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Arrow), Very Rare*
 >

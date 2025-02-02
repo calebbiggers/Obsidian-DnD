@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Thunder and Lightning
 >[!varies-staff-callout] Staff of Thunder and Lightning
 >_Staff, Varies (Requires Attunement)_
 >

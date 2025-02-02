@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Enemy Detection
 >[!rare-wand-callout] Wand of Enemy Detection
 >_Wand, Rare (Requires Attunement)_
 >

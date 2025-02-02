@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Headband of Intellect
 >[!uncommon-wondrous-item-callout] Headband of Intellect
+>![[headband-of-intellect.jpg]]
+>
+>- - -
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >
 >Your Intelligence is 19 while you wear this headband. It has no effect on you if your Intelligence is 19 or higher without it.

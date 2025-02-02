@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Spellcaster
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand
 rarity: Rarity Varies
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Wand
-type_details:
+type_details: 
 ---
+# Wand of The War Mage
 >[!rarity-varies-wand-callout] `=this.file.name`
 >*Wand, Rarity Varies (Requires Attunement By A Spellcaster)*
 >

@@ -9,8 +9,8 @@ classes:
   - "[[Paladin]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Cure Wounds
+
 >[!spell-callout] Cure Wounds
 >_Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 >
@@ -35,4 +38,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The healing increases by 2d8 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - jade dust worth 10+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: true
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Magic Mouth
+
 >[!spell-callout] Magic Mouth
 >_Level 2 Illusion (Bard, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >The trigger can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

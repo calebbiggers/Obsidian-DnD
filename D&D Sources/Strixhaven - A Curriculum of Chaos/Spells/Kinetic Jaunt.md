@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Bonus Action
 classes:
   - Artificer
@@ -25,6 +22,9 @@ sources:
   - "[[Strixhaven - A Curriculum of Chaos]]"
 type: Spell
 ---
+
+# Kinetic Jaunt
+
 >[!spell-callout] Kinetic Jaunt
 >_Level 2 Transmutation (Artificer, Bard, Sorcerer, Wizard)_
 >

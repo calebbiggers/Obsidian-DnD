@@ -1,20 +1,20 @@
 ---
 tags:
   - Item
-type: Ring
+attunement: true
+icon: LiTorus
 rarity: Rare
-icon: LiComponent
 sources:
   - "[[The Griffon's Saddlebag]]"
-banner: "[[griffons-saddlebag-banner.gif]]"
-banner_lock: true
-banner_y: 0
-attunement: true
+type: Ring
 ---
+
+# Ring of Anchoring
+
 ![[griffons-saddlebag-banner.gif|banner]]
 >[!Rare-Ring-callout] Ring of Anchoring
 > ![[ring-of-anchoring.png]]
-> 
+>
 > ___
 >*Ring, Rare (Requires Attunement)*
 >

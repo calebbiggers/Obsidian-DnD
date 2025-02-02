@@ -1,17 +1,17 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+repeatable: true
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: Origin
-repeatable: true
 ---
+# Skilled
 >[!feat] Skilled
 >_Origin Feat_
 >
 >You gain proficiency in any combination of three skills or tools of your choice.
 >
 >**_Repeatable._** You can take this feat more than once.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

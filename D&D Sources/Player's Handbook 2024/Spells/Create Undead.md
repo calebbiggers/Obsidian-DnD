@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - one 150+ GP black onyx stone for each corpse
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 10 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Create Undead
+
 >[!spell-callout] Create Undead
 >_Level 6 Necromancy (Cleric, Warlock, Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** If you use a level 7 spell slot, you can animate or reassert control over four [[Ghouls]]. If you use a level 8 spell slot, you can animate or reassert control over five [[Ghouls]] or two [[Ghasts]] or [[Wights]]. If you use a level 9 spell slot, you can animate or reassert control over six [[Ghouls]], three [[Ghasts]] or [[Wights]], or two [[Mummies]]. See the _Monster Manual_ for these stat blocks.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

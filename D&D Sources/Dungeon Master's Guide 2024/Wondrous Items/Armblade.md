@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Warforged
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Common
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any One-Handed Melee Weapon
 ---
+# Armblade
 >[!common-weapon-callout] `=this.file.name`
 >*Weapon (Any One-Handed Melee Weapon), Common (Requires Attunement By A Warforged)*
 >

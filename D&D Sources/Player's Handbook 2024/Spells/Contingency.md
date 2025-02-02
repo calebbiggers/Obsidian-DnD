@@ -5,10 +5,10 @@ casting_time: 10 minutes
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a gem-encrusted statuette of yourself worth 1,500+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: 10 days
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Contingency
+
 >[!spell-callout] Contingency
 >_Level 6 Abjuration (Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The contingent spell takes effect only on you, even if it can normally target others. You can use only one _Contingency_ spell at a time. If you cast this spell again, the effect of another _Contingency_ spell on you ends. Also, _Contingency_ ends on you if its material component is ever not on your person.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

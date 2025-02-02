@@ -14,9 +14,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dissonant Whispers
+
 >[!spell-callout] Dissonant Whispers
 >_Level 1 Enchantment (Bard)_
 >
@@ -30,4 +33,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

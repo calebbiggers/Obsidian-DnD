@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: True
+attunement: true
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Varies
-type: Armor
 type_details: Any Light, Medium, or Heavy
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Enspelled Armor
 >[!varies-armor-callout] Enspelled Armor
 >_Armor (Any Light, Medium, or Heavy) , Varies (Requires Attunement)_
 >

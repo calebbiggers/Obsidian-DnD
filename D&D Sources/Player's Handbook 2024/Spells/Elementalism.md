@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Elementalism
+
 >[!spell-callout] Elementalism
 >_Transmutation Cantrip (Druid, Sorcerer, Wizard)_
 >
@@ -41,4 +44,4 @@ sources:
 >**_Sculpt Element._** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot [[Spells#Cube\|Cube]] to assume a crude shape (such as that of a creature) for 1 hour.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

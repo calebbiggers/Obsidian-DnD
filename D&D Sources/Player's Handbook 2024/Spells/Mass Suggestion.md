@@ -7,9 +7,9 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - M
   - a snake's tongue
+  - M
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mass Suggestion
+
 >[!spell-callout] Mass Suggestion
 >_Level 6 Enchantment (Bard, Sorcerer, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

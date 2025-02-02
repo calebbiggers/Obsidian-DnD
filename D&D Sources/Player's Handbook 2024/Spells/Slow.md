@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a drop of molasses
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 120 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Slow
+
 >[!spell-callout] Slow
 >_Level 3 Transmutation (Bard, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

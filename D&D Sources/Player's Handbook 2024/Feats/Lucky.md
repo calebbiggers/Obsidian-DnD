@@ -1,13 +1,13 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: Origin
-repeatable: false
 ---
+# Lucky
 >[!feat] Lucky
 >_Origin Feat_
 >
@@ -18,4 +18,4 @@ repeatable: false
 >**_Advantage._** When you roll a d20 for a [[D20 Test]], you can spend 1 Luck Point to give yourself [[D20 Tests#Advantage/Disadvantage\|Advantage]] on the roll.
 >
 >**_Disadvantage._** When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on that roll.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

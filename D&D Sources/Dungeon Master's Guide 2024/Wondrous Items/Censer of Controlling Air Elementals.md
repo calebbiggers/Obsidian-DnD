@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Censer of Controlling Air Elementals
 >[!rare-wondrous-item-callout] Censer of Controlling Air Elementals
 >![[censer-of-controlling-air-elementals.jpg]]
 >

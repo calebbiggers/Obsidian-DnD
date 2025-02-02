@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Scroll of Titan Summoning
 >[!legendary-scroll-callout] Scroll of Titan Summoning
 >_Scroll, Legendary_
 >

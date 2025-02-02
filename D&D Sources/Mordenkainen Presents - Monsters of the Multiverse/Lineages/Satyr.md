@@ -1,15 +1,17 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Fey
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 35
+icon: RaSheep
 ---
+# Satyr
 ![[satyr.png|float-right|300]]Originating in the Feywild—a realm of pure emotion— satyrs thrive on the energy of merriment. They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they’re usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane’s splendor to other worlds.
-# Satyr Traits
+## Satyr Traits
 **Creature Type:** Fey
 **Size:** Medium (about 4–5 feet tall)
 **Speed:** 35 feet

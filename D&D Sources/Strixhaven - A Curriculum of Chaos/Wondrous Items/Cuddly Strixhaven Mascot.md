@@ -2,9 +2,7 @@
 tags:
   - Item
 attunement: False
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
 rarity: Common
 sources:
@@ -12,6 +10,9 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+
+# Cuddly Strixhaven Mascot
+
 >[!common-wondrous-item-callout] Cuddly Strixhaven Mascot
 >*Wondrous Item, Common*
 >

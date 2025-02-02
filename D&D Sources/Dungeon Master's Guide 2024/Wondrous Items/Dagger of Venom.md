@@ -12,6 +12,7 @@ type_details: Dagger
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dagger of Venom
 >[!rare-weapon-callout] Dagger of Venom
 >![[dagger-of-venom.jpg]]
 >

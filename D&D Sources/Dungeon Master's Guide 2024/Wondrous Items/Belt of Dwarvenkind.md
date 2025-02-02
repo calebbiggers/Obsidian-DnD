@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Belt of Dwarvenkind
 >[!rare-wondrous-item-callout] Belt of Dwarvenkind
 >![[belt-of-dwarvenkind.jpg]]
 >

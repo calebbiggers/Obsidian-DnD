@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Pyrotechnics
 >[!common-wand-callout] Wand of Pyrotechnics
 >_Wand, Common_
 >

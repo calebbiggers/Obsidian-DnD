@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Quaal's Feather Token
 >[!varies-wondrous-item-callout] Quaal's Feather Token
 >_Wondrous Item, Varies_
 >

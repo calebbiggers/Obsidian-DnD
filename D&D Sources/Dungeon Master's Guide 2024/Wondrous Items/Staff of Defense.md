@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Lost-Mine-Of-Phandelver-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaCrystalWand
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Staff of Defense
 >[!rare-staff-callout] `=this.file.name`
 >*Staff, Rare (Requires Attunement)*
 >

@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a crystal bead
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: true
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Leomund’s Tiny Hut
+
 >[!spell-callout] Leomund’s Tiny Hut
 >_Level 3 Evocation (Bard, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >The spell ends early if you leave the Emanation or if you cast it again.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

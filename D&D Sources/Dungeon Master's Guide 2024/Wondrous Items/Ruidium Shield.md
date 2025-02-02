@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Critical-Role-Call-Of-The-Netherdeep-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Shield
 type_details: 
 ---
+# Ruidium Shield
 >[!very-rare-shield-callout] `=this.file.name`
 >*Shield, Very Rare (Requires Attunement)*
 >

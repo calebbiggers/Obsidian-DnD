@@ -5,10 +5,10 @@ casting_time: 1 minute or Ritual
 classes:
   - "[[Cleric]]"
 components:
-  - V
-  - S
-  - M
   - incense
+  - M
+  - S
+  - V
 concentration: false
 duration: 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Commune
+
 >[!spell-callout] Commune
 >_Level 5 Divination (Cleric)_
 >
@@ -35,4 +38,4 @@ sources:
 >If you cast the spell more than once before finishing a [[Damage & Healing#Long Rests\|Long Rest]], there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

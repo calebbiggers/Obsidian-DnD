@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Spell Scroll
 >[!varies-scroll-callout] Spell Scroll
 >_Scroll, Varies_
 >

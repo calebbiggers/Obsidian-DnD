@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a mix of vinegar and honey
+  - M
+  - S
+  - V
 concentration: false
 duration: 10 days
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Antipathy-Sympathy
+
 >[!spell-callout] Antipathy/Sympathy
 >_Level 8 Enchantment (Bard, Druid, Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >**_Ending the Effect._** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

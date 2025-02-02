@@ -1,19 +1,15 @@
 ---
 tags:
   - Spell
-  - lvl5
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Artificer
   - Druid
   - Wizard
 components:
-  - V
-  - S
   - M (Clay And Water)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,8 +21,10 @@ schools:
   - Transmutation
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Transmute Rock
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

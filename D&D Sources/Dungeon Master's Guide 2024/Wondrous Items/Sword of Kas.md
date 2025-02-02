@@ -12,6 +12,7 @@ type_details: Longsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Kas
 >[!artifact-weapon-callout] Sword of Kas
 >_Weapon (Longsword) , Artifact (Requires Attunement)_
 >

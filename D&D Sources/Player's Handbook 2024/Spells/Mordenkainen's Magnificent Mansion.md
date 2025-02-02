@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a miniature door worth 15+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 300 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mordenkainen's Magnificent Mansion
+
 >[!spell-callout] Mordenkainen's Magnificent Mansion
 >![[mordenkainens-magnificent-mansion.png]]
 >
@@ -43,4 +46,4 @@ sources:
 >When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Belt of Giant Strength
 >[!varies-wondrous-item-callout] Belt of Giant Strength
 >_Wondrous Item, Varies (Requires Attunement)_
 >

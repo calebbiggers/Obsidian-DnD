@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Water Walking
 >[!uncommon-ring-callout] Ring of Water Walking
 >_Ring, Uncommon_
 >

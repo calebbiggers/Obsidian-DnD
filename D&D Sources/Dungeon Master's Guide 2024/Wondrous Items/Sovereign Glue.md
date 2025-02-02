@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sovereign Glue
 >[!legendary-wondrous-item-callout] Sovereign Glue
 >_Wondrous Item, Legendary_
 >

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Dungeon-Masters-Guide
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_y: 0.3
-banner_lock: true
+tags: []
 ---
 # Diseases
+## Diseases
 
 A plague ravages the kingdom, setting the adventurers on a quest to find a cure. An adventurer emerges from an ancient tomb, unopened for centuries, and soon finds herself suffering from a wasting illness. A warlock offends some dark power and contracts a strange affliction that spreads whenever he casts spells.
 
@@ -13,11 +10,11 @@ A simple outbreak might amount to little more than a small drain on party resour
 
 A disease that does more than infect a few party members is primarily a plot device. The rules help describe the effects of the disease and how it can be cured, but the specifics of how a disease works aren't bound by a common set of rules. Diseases can affect any creature, and a given illness might or might not pass from one race or kind of creature to another. A plague might affect only constructs or undead, or sweep through a halfling neighborhood but leave other races untouched. What matters is the story you want to tell.
 
-## Sample Diseases
+### Sample Diseases
 
 The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.
 
-### Cackle Fever
+#### Cackle Fever
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
 
@@ -29,7 +26,7 @@ Any humanoid creature that starts its turn within 10 feet of an infected creatur
 
 At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by 1d6. When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of indefinite madness, as described later in this chapter.
 
-### Sewer Plague
+#### Sewer Plague
 
 Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.
 
@@ -39,7 +36,7 @@ It takes 1d4 days for sewer plague's symptoms to manifest in an infected creatur
 
 At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of exhaustion. On a successful save, the character's exhaustion level decreases by one level. If a successful saving throw reduces the infected creature's level of exhaustion below 1, the creature recovers from the disease.
 
-### Sight Rot
+#### Sight Rot
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 

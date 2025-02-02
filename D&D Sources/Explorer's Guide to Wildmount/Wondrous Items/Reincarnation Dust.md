@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 3500
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 3500
 type_details: 
 ---
+# Reincarnation Dust
 >[!very-rare-wondrous-item-callout] Reincarnation Dust
 >*Wondrous Item, Very Rare*
 >

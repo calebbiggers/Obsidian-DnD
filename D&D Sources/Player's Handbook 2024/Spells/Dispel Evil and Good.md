@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Paladin]]"
 components:
-  - V
-  - S
   - M
   - powdered silver and iron
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Dispel Evil and Good
+
 >[!spell-callout] Dispel Evil and Good
 >![[dispel-evil-and-good.png]]
 >
@@ -39,4 +42,4 @@ sources:
 >**_Dismissal._** As a [[Actions#Magic\|Magic]] action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

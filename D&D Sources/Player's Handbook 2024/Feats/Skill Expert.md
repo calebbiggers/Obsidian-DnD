@@ -1,15 +1,15 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: General
-repeatable: false
 prerequisites:
   - Level 4+
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: General
 ---
+# Skill Expert
 >[!feat] Skill Expert
 >_General Feat (Prerequisite: Level 4+)_
 >
@@ -20,4 +20,4 @@ prerequisites:
 >**_Skill Proficiency._** You gain proficiency in one skill of your choice.
 >
 >**_Expertise._** Choose one skill in which you have proficiency but lack [[Expertise]]. You gain Expertise with that skill.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

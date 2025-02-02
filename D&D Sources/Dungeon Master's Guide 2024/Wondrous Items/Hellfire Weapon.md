@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
+price: 500
 rarity: Uncommon
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Weapon
-price: 500
 type_details: Any
 ---
+# Hellfire Weapon
 >[!uncommon-weapon-callout] `=this.file.name`
 >*Weapon (Any), Uncommon*
 >

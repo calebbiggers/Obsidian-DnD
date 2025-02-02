@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Minute
 classes:
   - Bard
@@ -12,21 +8,23 @@ classes:
   - Druid
   - Wizard
 components:
-  - V
   - S
-concentration: True
+  - V
+concentration: true
 duration: Concentration, Up To 8 Hours
 icon: LiWand2
 level: 1
 range: 5 Feet
-ritual: True
-scales: False
+ritual: true
+scales: false
 schools:
   - Divination
 sources:
   - "[[Unearthed Arcana 36 - Starter Spells]]"
-type: Spell
 ---
+
+# Guiding Hand (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

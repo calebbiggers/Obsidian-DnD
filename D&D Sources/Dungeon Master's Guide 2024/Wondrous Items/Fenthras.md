@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: TiBow
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Longbow
 ---
+# Fenthras
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Longbow), Legendary (Requires Attunement)*
 >

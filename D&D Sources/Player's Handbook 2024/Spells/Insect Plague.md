@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Sorcerer]]"
 components:
-  - V
-  - S
-  - M
   - a locust
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 300 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Insect Plague
+
 >[!spell-callout] Insect Plague
 >_Level 5 Conjuration (Cleric, Druid, Sorcerer)_
 >
@@ -37,4 +40,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 5.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

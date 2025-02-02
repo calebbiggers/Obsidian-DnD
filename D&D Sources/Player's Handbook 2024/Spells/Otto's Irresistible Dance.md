@@ -15,9 +15,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Otto's Irresistible Dance
+
 >[!spell-callout] Otto's Irresistible Dance
 >_Level 6 Enchantment (Bard, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >On a failed save, the target has the [[Conditions#Charmed\|Charmed]] condition for the duration. While Charmed, the target dances comically, must use all its movement to dance in place, and has [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on Dexterity saving throws and attack rolls, and other creatures have [[D20 Tests#Advantage/Disadvantage\|Advantage]] on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

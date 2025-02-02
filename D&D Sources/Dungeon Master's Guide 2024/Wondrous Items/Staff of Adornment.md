@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Adornment
 >[!common-staff-callout] Staff of Adornment
 >_Staff, Common_
 >

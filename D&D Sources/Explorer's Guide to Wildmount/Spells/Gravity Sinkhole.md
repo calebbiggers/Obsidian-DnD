@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A Black Marble)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Gravity Sinkhole
 >[!spell-callout] Gravity Sinkhole
 >_Level 4 Evocation (Wizard)_
 >

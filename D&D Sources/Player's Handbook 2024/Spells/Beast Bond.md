@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Druid
   - Ranger
 components:
-  - V
-  - S
   - M (A Bit Of Fur Wrapped In Cloth)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 10 Minutes
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Divination
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Beast Bond
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

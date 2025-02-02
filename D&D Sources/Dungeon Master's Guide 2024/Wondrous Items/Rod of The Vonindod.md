@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Storm-Kings-Thunder-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand2
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Rod
 type_details: 
 ---
+# Rod of The Vonindod
 >[!rare-rod-callout] `=this.file.name`
 >*Rod, Rare (Requires Attunement)*
 >

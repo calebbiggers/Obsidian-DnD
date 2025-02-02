@@ -1,11 +1,8 @@
 ---
-tags:
-  - Dungeon-Masters-Guide
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_y: 0.3
-banner_lock: true
+tags: []
 ---
 # Poisons
+## Poisons
 
 Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
 
@@ -39,7 +36,7 @@ Poisons come in the following four types.
 | Wyvern poison      | Injury   | 1,200 gp   |
 |                    |          |            |
 
-## Sample Poisons
+### Sample Poisons
 
 Each type of poison has its own debilitating effects.
 

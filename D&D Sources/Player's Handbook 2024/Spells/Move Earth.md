@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a miniature shovel
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 2 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 120 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Move Earth
+
 >[!spell-callout] Move Earth
 >_Level 6 Transmutation (Druid, Sorcerer, Wizard)_
 >
@@ -39,4 +42,4 @@ sources:
 >Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

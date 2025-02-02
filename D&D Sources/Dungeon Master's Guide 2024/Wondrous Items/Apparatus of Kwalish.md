@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Apparatus of Kwalish
 >[!legendary-wondrous-item-callout] Apparatus of Kwalish
 >![[apparatus-of-kwalish.jpg]]
 >

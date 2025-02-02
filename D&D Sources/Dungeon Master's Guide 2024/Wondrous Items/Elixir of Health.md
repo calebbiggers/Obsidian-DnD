@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Elixir of Health
 >[!rare-potion-callout] Elixir of Health
 >_Potion, Rare_
 >

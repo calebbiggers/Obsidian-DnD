@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Eberron-Rising-From-The-Last-War-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 150
 rarity: Uncommon
 sources:
   - "[[Eberron - Rising from the Last War]]"
 type: Wondrous Item
-price: 150
 type_details: 
 ---
+# Glamerweave
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

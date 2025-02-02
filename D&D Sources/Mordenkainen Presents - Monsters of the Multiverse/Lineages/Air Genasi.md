@@ -1,19 +1,21 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
-  - Small
   - Medium
+  - Small
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 35
+icon: LiWind
 ---
+# Air Genasi
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[air-genasi.png|float-right|200]]Air genasi are descended from djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.
 
 Air genasi’s skin tones include many shades of blue, along with the full range of human skin tones, with bluish or ashen casts. Sometimes their skin is marked by lines that seem like cracks with bluish-white energy spilling out. An air genasi’s hair might blow in a phantom wind or be made entirely of clouds or vapor.
 
-# Air Genasi Traits
+## Air Genasi Traits
 **Creature Type:** Humanoid  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 35 feet

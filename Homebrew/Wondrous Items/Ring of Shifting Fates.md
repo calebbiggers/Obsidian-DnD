@@ -1,11 +1,14 @@
 ---
-tags: [Item]
-type: Ring
-rarity: Rare
+tags:
+  - Item
 icon: LiComponent
+rarity: Rare
 sources:
   - "[[Homebrew]]"
+type: Ring
 ---
+
+# Ring of Shifting Fates
 
 >[!Rare-Ring-callout] Ring Of Shifting Fates
 >![[ring-of-shifting-fates.png]]
@@ -19,7 +22,7 @@ sources:
 >
 >- - -
 > <p style="text-align:center;"><i><p style="text-align:center;"><i>"Turn the band to shift your fate, but tread with care, the cost is great.”</i></p>
-> 
+>
 >- - -
 > Source: [The Dungeon Lab](https://www.patreon.com/DungeonLab)
 

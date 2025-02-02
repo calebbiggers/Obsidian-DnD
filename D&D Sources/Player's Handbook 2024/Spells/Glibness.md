@@ -15,9 +15,12 @@ range: Self
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Glibness
+
 >[!spell-callout] Glibness
 >_Level 8 Enchantment (Bard, Warlock)_
 >
@@ -29,4 +32,4 @@ sources:
 >Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

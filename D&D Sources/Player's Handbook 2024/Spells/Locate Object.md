@@ -10,10 +10,10 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a forked twig
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -22,9 +22,12 @@ range: Self
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Locate Object
+
 >[!spell-callout] Locate Object
 >_Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ersatz Eye
 >[!common-wondrous-item-callout] Ersatz Eye
 >_Wondrous Item, Common_
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Gloves of Swimming and Climbing
 >[!uncommon-wondrous-item-callout] Gloves of Swimming and Climbing
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pot of Awakening
 >[!common-wondrous-item-callout] Pot of Awakening
 >_Wondrous Item, Common_
 >

@@ -1,18 +1,24 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Player's Handbook]]"
 creature_type: Humanoid
 sizes:
-  - Small
   - Medium
+  - Small
+sources:
+  - "[[Player's Handbook]]"
 speed: 30
+icon: RaAngelWings
 ---
-![[players-handbook-banner-2024.png|banner]]![[aasimar.png]]Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.
+
+# Aasimar
+
+![[players-handbook-2024-banner.png|banner]]![[aasimar.png]]Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.
 
 Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their celestial heritage, such as metallic freckles, luminous eyes, a halo, or the skin color of an angel (silver, opalescent green, or coppery red). These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
-# Aasimar Traits
+
+## Aasimar Traits
+
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet

@@ -1,16 +1,16 @@
 ---
-tags:
-  - Item
-type: Wondrous Item
+tags: [Item]
 attunement: true
 attunement_details: None
 classes: 
 icon: LiComponent
 rarity: Very Rare
-type_details: None
 sources:
   - "[[Dungeon Master's Guide 2024]]"
+type: Wondrous Item
+type_details: None
 ---
+# Candle of Invocation
 >[!very-rare-wondrous-item-callout] Candle of Invocation
 >![[candle-of-invocation.jpg]]
 >

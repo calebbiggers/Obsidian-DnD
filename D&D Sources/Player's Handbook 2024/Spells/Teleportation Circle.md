@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
+  - M
+  - rare inks worth 50+ GP
   - V
   - which the spell consumes)
-  - rare inks worth 50+ GP
-  - M
 concentration: false
 duration: 1 round
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 10 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Teleportation Circle
+
 >[!spell-callout] Teleportation Circle
 >_Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,16 +1,16 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+prerequisites:
+  - Dexterity 13+
+  - Level 4+
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: General
-repeatable: false
-prerequisites:
-  - Level 4+
-  - Dexterity 13+
 ---
+# Crossbow Expert
 >[!feat] Crossbow Expert
 >_General Feat (Prerequisite: Level 4+, Dexterity 13+)_
 >
@@ -23,4 +23,4 @@ prerequisites:
 >**_Firing in Melee._** Being within 5 feet of an enemy doesn’t impose [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on your attack rolls with crossbows.
 >
 >**_Dual Wielding._** When you make the extra attack of the [[Weapons#Light\|Light]] property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the Light property and you aren’t already adding that modifier to the damage.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

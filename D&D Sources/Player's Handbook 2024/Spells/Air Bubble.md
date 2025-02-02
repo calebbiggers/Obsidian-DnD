@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Spelljammer-Adventures-In-Space-Astral-Adventurers-Guide-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Action
 classes:
   - Artificer
@@ -25,8 +21,10 @@ schools:
   - Conjuration
 sources:
   - "[[Spelljammer - Adventures in Space]]"
-type: Spell
 ---
+
+# Air Bubble
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

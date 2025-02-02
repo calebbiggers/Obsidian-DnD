@@ -15,9 +15,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Otto’s Irresistible Dance
+
 >[!spell-callout] Otto’s Irresistible Dance
 >_Level 6 Enchantment (Bard, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >## Spells (P)
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

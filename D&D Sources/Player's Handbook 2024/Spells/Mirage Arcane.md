@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 10 days
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Sight
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mirage Arcane
+
 >[!spell-callout] Mirage Arcane
 >_Level 7 Illusion (Bard, Druid, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >Creatures with [[Exploration#Truesight\|Truesight]] can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -5,13 +5,14 @@ type: Armor
 attunement: False
 attunement_details: None
 classes:
-icon: LiShield
+icon: RaVest
 rarity: Common
 type: Armor
 type_details: Any Light, Medium, or Heavy
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Armor of Gleaming
 >[!common-armor-callout] Armor of Gleaming
 >_Armor (Any Light, Medium, or Heavy) , Common_
 >

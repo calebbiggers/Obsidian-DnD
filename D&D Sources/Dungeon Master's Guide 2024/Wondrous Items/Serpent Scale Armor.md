@@ -1,17 +1,16 @@
 ---
 tags:
   - Item
-attunement: False
-banner: "[[Candlekeep-Mysteries-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: false
+classes: 
+icon: RaVest
 rarity: Uncommon
 sources:
   - "[[Candlekeep Mysteries]]"
 type: Armor
 type_details: Scale Mail
 ---
+# Serpent Scale Armor
 >[!uncommon-armor-callout] `=this.file.name`
 >*Armor (Scale Mail), Uncommon*
 >

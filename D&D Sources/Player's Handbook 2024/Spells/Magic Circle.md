@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
+  - S
   - salt and powdered silver worth 100+ GP, which the spell consumes
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 10 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Magic Circle
+
 >[!spell-callout] Magic Circle
 >_Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)_
 >
@@ -44,4 +47,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The duration increases by 1 hour for each spell slot level above 3.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

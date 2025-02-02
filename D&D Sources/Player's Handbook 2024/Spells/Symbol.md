@@ -8,10 +8,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - powdered diamond worth 1,000+ GP, which the spell consumes
+  - S
+  - V
 concentration: false
 duration: Until dispelled or triggered
 icon: LiWand2
@@ -20,9 +20,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Symbol
+
 >[!spell-callout] Symbol
 >_Level 7 Abjuration (Bard, Cleric, Druid, Wizard)_
 >
@@ -56,4 +59,4 @@ sources:
 >**_Stunning._** Each target must succeed on a Wisdom saving throw or have the [[Conditions#Stunned\|Stunned]] condition for 1 minute.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -3,17 +3,18 @@ tags:
   - Item
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiGlasses
+price: 350
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 350
 type_details: 
 ---
+
+# Goggles of Object Reading
+
 >[!uncommon wondrous-item] Goggles Of Object Reading
 >![[goggles-of-object-reading.png]]
 >

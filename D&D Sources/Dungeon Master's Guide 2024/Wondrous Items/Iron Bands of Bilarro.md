@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Iron Bands of Bilarro
 >[!rare-wondrous-item-callout] Iron Bands of Bilarro
 >![[iron-bands-of-binding.jpeg]]
 >

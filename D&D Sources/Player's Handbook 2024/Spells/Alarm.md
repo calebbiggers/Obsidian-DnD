@@ -6,10 +6,10 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bell and silver wire
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: true
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Alarm
+
 >[!spell-callout] Alarm
 >_Level 1 Abjuration (Ranger, Wizard)_
 >
@@ -36,4 +39,4 @@ sources:
 >**Mental Alarm.** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you're asleep.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

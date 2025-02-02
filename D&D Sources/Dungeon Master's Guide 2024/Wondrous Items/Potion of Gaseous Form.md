@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Gaseous Form
 >[!rare-potion-callout] Potion of Gaseous Form
 >_Potion, Rare_
 >

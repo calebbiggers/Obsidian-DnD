@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Nolzur's Marvelous Pigments
 >[!varies-wondrous-item-callout] Nolzur's Marvelous Pigments
 >_Wondrous Item, Varies_
 >

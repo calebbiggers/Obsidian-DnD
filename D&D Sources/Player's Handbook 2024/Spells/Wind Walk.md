@@ -5,10 +5,10 @@ casting_time: 1 minute
 classes:
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - a candle
+  - M
+  - S
+  - V
 concentration: false
 duration: 8 hours
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wind Walk
+
 >[!spell-callout] Wind Walk
 >_Level 6 Transmutation (Druid)_
 >
@@ -33,4 +36,4 @@ sources:
 >If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

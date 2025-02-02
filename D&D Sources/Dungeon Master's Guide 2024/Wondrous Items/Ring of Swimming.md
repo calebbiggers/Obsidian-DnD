@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Ring
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiComponent
+classes: 
+icon: LiTorus
 rarity: Uncommon
-type: Ring
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Swimming
 >[!uncommon-ring-callout] Ring of Swimming
 >![[ring-of-swimming.png]]
 >

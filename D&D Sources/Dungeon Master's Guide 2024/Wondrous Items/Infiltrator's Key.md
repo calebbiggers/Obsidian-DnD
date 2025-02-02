@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaKey
 rarity: Legendary
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Infiltrator's Key
 >[!legendary-wondrous-item-callout] Infiltrator's Key
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

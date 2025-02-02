@@ -17,9 +17,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Power Word Stun
+
 >[!spell-callout] Power Word Stun
 >_Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >The Stunned target makes a Constitution saving throw at the end of each of its turns, ending the condition on itself on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -7,8 +7,8 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Speak with Plants
+
 >[!spell-callout] Speak with Plants
 >_Level 3 Transmutation (Bard, Druid, Ranger)_
 >
@@ -37,4 +40,4 @@ sources:
 >If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

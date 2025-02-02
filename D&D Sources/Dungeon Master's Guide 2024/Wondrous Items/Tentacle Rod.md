@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tentacle Rod
 >[!rare-rod-callout] Tentacle Rod
 >_Rod, Rare (Requires Attunement)_
 >

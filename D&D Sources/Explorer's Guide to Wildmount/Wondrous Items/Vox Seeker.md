@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 100
 rarity: Common
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 100
 type_details: 
 ---
+# Vox Seeker
 >[!common-wondrous-item-callout] Vox Seeker
 >*Wondrous Item, Common*
 >

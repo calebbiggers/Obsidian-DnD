@@ -6,10 +6,10 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a pearl worth 100+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: true
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Identify
+
 >[!spell-callout] Identify
 >_Level 1 Divination (Bard, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

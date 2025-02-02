@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Charlatan's Die
 >[!common-wondrous-item-callout] Charlatan's Die
 >![[charlatans-die.png]]
 >

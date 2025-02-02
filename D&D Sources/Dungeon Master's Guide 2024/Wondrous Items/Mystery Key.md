@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Mystery Key
 >[!common-wondrous-item-callout] Mystery Key
 >_Wondrous Item, Common_
 >

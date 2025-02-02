@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Periapt of Wound Closure
 >[!uncommon-wondrous-item-callout] Periapt of Wound Closure
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

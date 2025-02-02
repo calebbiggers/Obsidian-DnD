@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bit of fleece
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 120 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Major Image
+
 >[!spell-callout] Major Image
 >_Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The spell lasts until dispelled, without requiring [[Spells#Concentration\|Concentration]], if cast with a level 4+ spell slot.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

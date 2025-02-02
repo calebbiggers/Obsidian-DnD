@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Ranger]]"
 components:
-  - V
-  - S
-  - M
   - a morsel of food
+  - M
+  - S
+  - V
 concentration: false
 duration: 24 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: true
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Animal Messenger
+
 >[!spell-callout] Animal Messenger
 >_Level 2 Enchantment (Bard, Druid, Ranger)_
 >
@@ -37,4 +40,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The spell's duration increases by 48 hours for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

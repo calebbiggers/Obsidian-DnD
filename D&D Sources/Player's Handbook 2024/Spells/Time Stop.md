@@ -15,9 +15,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Time Stop
+
 >[!spell-callout] Time Stop
 >_Level 9 Transmutation (Sorcerer, Wizard)_
 >
@@ -31,4 +34,4 @@ sources:
 >This spell ends if one of the actions you use during this period, or any effects that you create during it, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

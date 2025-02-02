@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Dagger
 ---
+# Rakdos Riteknife
 >[!legendary-weapon-callout] Rakdos Riteknife
 >*Weapon (Dagger), Legendary (Requires Attunement)*
 >

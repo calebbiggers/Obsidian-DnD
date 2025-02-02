@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
 rarity: Very Rare
@@ -12,8 +9,8 @@ sources:
   - "[[Tal'Dorei Campaign Setting Reborn]]"
 type: Weapon
 type_details: Hand Crossbow
-banner_y: 0
 ---
+# Tinkertop Bolt Blaster 1000
 >[!very-rare-weapon-callout] `=this.file.name`
 >*Weapon (Hand Crossbow), Very Rare (Requires Attunement)*
 >

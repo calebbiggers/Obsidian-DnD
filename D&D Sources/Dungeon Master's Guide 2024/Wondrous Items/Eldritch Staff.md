@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaCrystalWand
 rarity: Very Rare
@@ -13,6 +10,7 @@ sources:
 type: Staff
 type_details: 
 ---
+# Eldritch Staff
 >[!very-rare-staff-callout] `=this.file.name`
 >*Staff, Very Rare (Requires Attunement)*
 >

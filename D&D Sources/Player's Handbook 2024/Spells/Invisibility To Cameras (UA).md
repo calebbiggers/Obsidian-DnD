@@ -1,33 +1,31 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Scrap Of Black Paper)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 3
 range: 10 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
-  - Illusion
   - (Technomagic)
+  - Illusion
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Invisibility To Cameras (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

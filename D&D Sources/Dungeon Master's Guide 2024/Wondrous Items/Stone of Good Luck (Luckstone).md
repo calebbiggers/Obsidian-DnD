@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Stone of Good Luck (Luckstone)
 >[!uncommon-wondrous-item-callout] Stone of Good Luck (Luckstone)
 >_Wondrous Item, Uncommon (Requires Attunement)_
 >

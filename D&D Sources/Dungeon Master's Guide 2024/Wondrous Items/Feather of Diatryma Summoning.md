@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 600
 rarity: Rare
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Wondrous Item
-price: 600
 type_details: 
 ---
+# Feather of Diatryma Summoning
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

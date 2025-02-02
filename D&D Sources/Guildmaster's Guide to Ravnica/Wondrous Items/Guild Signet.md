@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
-attunement_details:
-banner: "[[Guildmasters-Guide-To-Ravnica-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: LiComponent
+attunement: true
+attunement_details: 
+classes: 
+icon: LiTorus
 rarity: Uncommon
 sources:
   - "[[Guildmaster's Guide to Ravnica]]"
 type: Ring
 type_details:
 ---
+# Guild Signet
 >[!uncommon-ring-callout] Guild Signet
 >*Ring, Uncommon (Requires Attunement)*
 >

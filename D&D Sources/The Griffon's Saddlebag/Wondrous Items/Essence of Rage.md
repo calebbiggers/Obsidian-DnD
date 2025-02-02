@@ -1,12 +1,14 @@
 ---
 tags:
   - Item
-type: Potion
-rarity: Rare
 icon: LiFlaskRound
+rarity: Rare
 sources:
   - "[[The Griffon's Saddlebag]]"
+type: Potion
 ---
+
+# Essence of Rage
 
 >[!Rare-Potion-callout] Essence of Rage
 > ![[essence-of-rage-image.png]]
@@ -23,7 +25,7 @@ sources:
 >
 > ---
 > <p style="text-align:center;"><i><p style="text-align:center;"><i>You should never bottle up your emotions. Especially your anger.</i></p>
-> 
+>
 > ---
 > Source: [The Griffon's Saddlebag](https://www.thegriffonssaddlebag.com/)
 

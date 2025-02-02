@@ -1,16 +1,12 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - S
-  - M (A Coin
   - 2 Gold Coins, Which Is Consumed As Tax For Using The Spell)
+  - M (A Coin
+  - S
 concentration: false
 duration: 1 Minute
 icon: LiWand2
@@ -24,6 +20,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Jim's Glowing Coin
 >[!spell-callout] Jim's Glowing Coin
 >_Level 2 Enchantment (Wizard)_
 >

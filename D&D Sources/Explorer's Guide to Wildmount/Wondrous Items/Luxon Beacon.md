@@ -1,9 +1,6 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
 rarity: Legendary
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Luxon Beacon
 >[!legendary-wondrous-item-callout] Luxon Beacon
 >*Wondrous Item, Legendary*
 >

@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Platinum-Plated Dragon Scale, Worth At Least 500 Gp)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 6
 range: 60 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Abjuration
 sources:
   - "[[Unearthed Arcana 78 - Draconic Options]]"
-type: Spell
 ---
+
+# Fizban's Platinum Shield (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -1,14 +1,15 @@
 ---
-tags:
-  - Rules
+tags: []
 aliases:
   - D20 Test
-banner: "[[Players-Handbook-Banner.jpg]]"
-banner_lock: true
 ---
+
+# The Six Abilities
+
 All creatures—characters and monsters—have six abilities that measure physical and mental characteristics, as shown on the Ability Descriptions table.
 
-# Ability Descriptions
+## Ability Descriptions
+
 |Ability|Score Measures...|
 |---|---|
 |Strength|Physical might|
@@ -18,7 +19,8 @@ All creatures—characters and monsters—have six abilities that measure physic
 |Wisdom|Perceptiveness and mental fortitude|
 |Charisma|Confidence, poise, and charm|
 
-# Ability Scores
+## Ability Scores
+
 Each ability has a score from 1 to 20, although some monsters have a score as high as 30. The score represents the magnitude of an ability. The Ability Scores table summarizes what the scores mean.
 
 |Score|Meaning|
@@ -31,11 +33,12 @@ Each ability has a score from 1 to 20, although some monsters have a score as hi
 |21–29|This represents an extraordinary capability.|
 |30|This is the highest a score can go.|
 
-# Ability Modifiers
+## Ability Modifiers
 
 Each ability has a modifier that you apply whenever you make a [[D20 Tests|D20 Test]] with that ability. An ability modifier is derived from its score, as shown in the Ability Modifiers table.
 
 |Score|Modifier|
+
 | ---   | --- |
 | ----- | --- |
 | 1     | −5  |
@@ -54,6 +57,7 @@ Each ability has a modifier that you apply whenever you make a [[D20 Tests|D20 T
 | 26–27 | +8  |
 | 28–29 | +9  |
 | 30    | +10 |
-|       |     |
+|       |
+|
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

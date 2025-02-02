@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl4
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Bard
@@ -13,19 +9,21 @@ classes:
   - Wizard
 components:
   - V
-concentration: False
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 4
 range: 120 Feet
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Enchantment
 sources:
   - "[[Unearthed Arcana 78 - Draconic Options]]"
-type: Spell
 ---
+
+# Raulothim's Psychic Lance (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

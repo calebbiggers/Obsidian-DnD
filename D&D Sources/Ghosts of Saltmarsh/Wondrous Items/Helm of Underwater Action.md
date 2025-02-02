@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Ghosts-Of-Saltmarsh-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHelmet
+price: 500
 rarity: Uncommon
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
-price: 500
 type_details: 
 ---
+# Helm of Underwater Action
 >[!uncommon-wondrous-item-callout] Helm of Underwater Action
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

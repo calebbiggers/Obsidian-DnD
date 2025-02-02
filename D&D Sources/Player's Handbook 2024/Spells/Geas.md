@@ -18,9 +18,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Geas
+
 >[!spell-callout] Geas
 >_Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

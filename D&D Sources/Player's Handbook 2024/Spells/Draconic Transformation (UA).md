@@ -1,32 +1,30 @@
 ---
 tags:
   - Spell
-  - lvl7
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Bonus Action
 classes:
   - Druid
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Statuette Of A Dragon,
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 7
 range: Self
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 78 - Draconic Options]]"
-type: Spell
 ---
+
+# Draconic Transformation (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >
@@ -35,7 +33,7 @@ type: Spell
 >**Components:** `=this.components`
 >**Duration:** `=this.duration`
 >
->worth at least 500 gp)  
+>worth at least 500 gp)
 >With a roar, you draw on the magic of dragons to transform yourself, taking on various draconic features. You gain the following benefits until the spell ends:
 >
 >* You have blindsight with a range of 30 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature, unless the creature successfully hides from you.

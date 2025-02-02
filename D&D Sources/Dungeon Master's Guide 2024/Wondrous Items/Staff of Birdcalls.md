@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Birdcalls
 >[!common-staff-callout] Staff of Birdcalls
 >_Staff, Common_
 >

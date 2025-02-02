@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Sorcerer
@@ -23,8 +19,10 @@ schools:
   - Illusion
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Mental Prison
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

@@ -1,33 +1,31 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Shell Casing)
-concentration: True
+  - S
+  - V
+concentration: true
 duration: Concentration, Up To 10 Minutes
 icon: LiWand2
 level: 3
 range: Touch
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
-  - Abjuration
   - (Technomagic)
+  - Abjuration
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Protection From Ballistics (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

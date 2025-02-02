@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Telekinesis
 >[!varies-ring-callout] Ring of Telekinesis
 >_Ring, Varies (Requires Attunement)_
 >

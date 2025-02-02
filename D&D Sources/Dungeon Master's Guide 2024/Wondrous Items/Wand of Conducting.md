@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Conducting
 >[!common-wand-callout] Wand of Conducting
 >_Wand, Common_
 >

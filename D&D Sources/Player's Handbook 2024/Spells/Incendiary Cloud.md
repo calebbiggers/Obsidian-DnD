@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 150 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Incendiary Cloud
+
 >[!spell-callout] Incendiary Cloud
 >_Level 8 Conjuration (Druid, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

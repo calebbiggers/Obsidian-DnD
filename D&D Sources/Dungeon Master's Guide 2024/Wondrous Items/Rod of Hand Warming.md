@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Critical-Role-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiWand2
 rarity: Unknown Rarity
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Rod
 type_details: 
 ---
+# Rod of Hand Warming
 >[!unknown-rarity-rod-callout] `=this.file.name`
 >*Rod, Unknown Rarity*
 >

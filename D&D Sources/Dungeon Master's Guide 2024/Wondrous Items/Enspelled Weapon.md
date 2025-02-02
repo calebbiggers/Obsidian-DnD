@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Enspelled Weapon
 >[!varies-weapon-callout] Enspelled Weapon
 >_Weapon (Any Simple or Martial) , Varies (Requires Attunement)_
 >

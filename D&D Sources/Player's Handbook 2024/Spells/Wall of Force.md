@@ -5,10 +5,10 @@ casting_time: Action
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a shard of glass
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Wall of Force
+
 >[!spell-callout] Wall of Force
 >_Level 5 Evocation (Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[Dispel Magic]]. A [[Disintegrate]] spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

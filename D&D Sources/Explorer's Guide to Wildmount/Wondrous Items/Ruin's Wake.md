@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaSpearHead
 rarity: Artifact
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Spear
 ---
+# Ruin's Wake
 >[!artifact-weapon-callout] Ruin's Wake
 >*Weapon (Spear), Artifact (Requires Attunement)*
 >

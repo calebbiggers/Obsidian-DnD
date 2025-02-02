@@ -1,30 +1,28 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - S
   - M (A Vial Of Meltwater)
-concentration: False
+  - S
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 2
 range: Self (15-Foot Cone)
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Evocation
 sources:
   - "[[Unearthed Arcana 78 - Draconic Options]]"
-type: Spell
 ---
+
+# Icingdeath's Frost (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

@@ -1,15 +1,11 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Minute
 classes:
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 8 Hours
 icon: LiWand2
@@ -23,6 +19,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Gift of Alacrity
 >[!spell-callout] Gift of Alacrity
 >_Level 1 Divination (Wizard)_
 >

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Mind Flayer
-banner: "[[Volos-Guide-To-Monsters-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Whip
 ---
+# Mind Lash
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Whip), Rare (Requires Attunement By A Mind Flayer)*
 >

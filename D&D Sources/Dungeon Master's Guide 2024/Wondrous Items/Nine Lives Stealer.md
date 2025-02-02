@@ -12,6 +12,7 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Nine Lives Stealer
 >[!varies-weapon-callout] Nine Lives Stealer
 >_Weapon (Any Simple or Martial) , Varies (Requires Attunement)_
 >

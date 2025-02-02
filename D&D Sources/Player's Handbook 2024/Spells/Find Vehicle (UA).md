@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 10 Minutes
 classes:
   - Paladin
@@ -12,22 +8,24 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: 8 Hours
 icon: LiWand2
 level: 2
 range: 30 Feet
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
-  - Conjuration
   - (Technomagic)
+  - Conjuration
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# Find Vehicle (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`nd-Level `=this.schools`*
 >

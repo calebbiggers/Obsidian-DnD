@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 3500
 rarity: Uncommon
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Wondrous Item
-price: 3500
 type_details: 
 ---
+# Infernal Puzzle Box
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

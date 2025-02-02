@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bead of Nourishment
 >[!common-wondrous-item-callout] Bead of Nourishment
 >_Wondrous Item, Common_
 >

@@ -1,16 +1,16 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+prerequisites:
+  - Intelligence or Wisdom 13+
+  - Level 4+
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: General
-repeatable: false
-prerequisites:
-  - Level 4+
-  - Intelligence or Wisdom 13+
 ---
+# Observant
 >[!feat] Observant
 >_General Feat (Prerequisite: Level 4+, Intelligence or Wisdom 13+)_
 >
@@ -21,4 +21,4 @@ prerequisites:
 >**_Keen Observer._** Choose one of the following skills: [[Proficiency#Skill List\|Insight]], [[Proficiency#Skill List\|Investigation]], or [[Proficiency#Skill List\|Perception]]. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [[Expertise]] in it.
 >
 >**_Quick Search._** You can take the [[Actions#Search\|Search]] action as a Bonus Action.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: 
-banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
 rarity: Rare
 sources:
   - "[[Mythic Odysseys of Theros]]"
 type: Armor
 type_details: Breastplate, Half Plate, Or Plate
 ---
+# Molten Bronze Skin
 >[!rare-armor-callout] `=this.file.name`
 >*Armor (Breastplate, Half Plate, Or Plate), Rare (Requires Attunement)*
 >

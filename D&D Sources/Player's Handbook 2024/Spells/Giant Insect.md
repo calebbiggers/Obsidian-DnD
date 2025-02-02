@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Giant Insect
+
 >[!spell-callout] Giant Insect
 >_Level 4 Conjuration (Druid)_
 >
@@ -77,4 +80,4 @@ sources:
 >**_Venomous Spew (Centipede Only)._** _Constitution Saving Throw:_ Your spell save DC, one creature the insect can see within 10 feet. _Failure:_ The target has the [[Conditions#Poisoned\|Poisoned]] condition until the start of the insect's next turn.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

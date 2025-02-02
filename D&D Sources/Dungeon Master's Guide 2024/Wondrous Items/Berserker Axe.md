@@ -12,6 +12,7 @@ type_details: Battleaxe, Greataxe, or Halberd
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Berserker Axe
 >[!rare-weapon-callout] Berserker Axe
 >![[berserker-axe.jpg]]
 >

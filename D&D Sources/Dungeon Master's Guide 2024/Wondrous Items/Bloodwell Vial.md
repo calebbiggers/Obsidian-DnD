@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Sorcerer
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
 classes:
   - Sorcerer
 icon: RaVial
+price: -1
 rarity: Rarity Varies
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
 type_details: 
-price: -1
 ---
+# Bloodwell Vial
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rarity Varies (Requires Attunement By A Sorcerer)*
 >

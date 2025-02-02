@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Fizbans-Treasury-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Very Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Sapphire Buckler
 >[!very-rare-armor-callout] `=this.file.name`
 >*Armor (Shield), Very Rare (Requires Attunement)*
 >

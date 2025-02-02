@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of Striking
 >[!varies-staff-callout] Staff of Striking
 >_Staff, Varies (Requires Attunement)_
 >

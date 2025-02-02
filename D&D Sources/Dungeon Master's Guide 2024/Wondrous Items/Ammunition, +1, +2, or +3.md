@@ -12,6 +12,7 @@ type_details: Any Ammunition
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ammunition, +1, +2, or +3
 >[!varies-weapon-callout] Ammunition, +1, +2, or +3
 >_Weapon (Any Ammunition) , Varies_
 >

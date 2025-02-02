@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 10 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Prestidigitation
+
 >[!spell-callout] Prestidigitation
 >_Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -44,4 +47,4 @@ sources:
 >**_Minor Creation._** You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

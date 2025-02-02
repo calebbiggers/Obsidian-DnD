@@ -1,15 +1,15 @@
 ---
-tags:
-  - Feat
-aliases: 
-sources:
-  - "[[Player's Handbook]]"
+tags: [Feat]
+aliases: []
 classes: 
-type: Epic Boon
-repeatable: false
 prerequisites:
   - Level 19+
+repeatable: false
+sources:
+  - "[[Player's Handbook]]"
+type: Epic Boon
 ---
+# Boon of Truesight
 >[!feat] Boon of Spell Recall
 >_Epic Boon Feat (Prerequisite: Level 19+)_
 >
@@ -18,4 +18,4 @@ prerequisites:
 >**_Ability Score Increase._** Increase one ability score of your choice by 1, to a maximum of 30.
 >
 >**_Truesight._** You have [[Exploration#Truesight\|Truesight]] with a range of 60 feet.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

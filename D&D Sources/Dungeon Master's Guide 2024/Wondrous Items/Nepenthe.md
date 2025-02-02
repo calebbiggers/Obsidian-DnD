@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Paladin
-banner: "[[Van-Richtens-Guide-To-Ravenloft-Banner.jpg]]"
-banner_lock: True
 classes:
   - Paladin
 icon: LiSwords
@@ -14,6 +11,7 @@ sources:
 type: Weapon
 type_details: Longsword
 ---
+# Nepenthe
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Longsword), Legendary (Requires Attunement By A Paladin)*
 >

@@ -12,6 +12,7 @@ type_details: Any Ammunition or Melee Weapon
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Adamantine Weapon
 >[!uncommon-weapon-callout] Adamantine Weapon
 >_Weapon (Any Ammunition or Melee Weapon) , Uncommon_
 >

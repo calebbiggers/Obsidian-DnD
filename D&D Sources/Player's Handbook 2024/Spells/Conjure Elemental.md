@@ -6,8 +6,8 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Conjure Elemental
+
 >[!spell-callout] Conjure Elemental
 >_Level 5 Conjuration (Druid, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 2d8 for each spell slot level above 5.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

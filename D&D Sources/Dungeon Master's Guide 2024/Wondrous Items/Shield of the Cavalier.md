@@ -12,6 +12,7 @@ type_details: Shield
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Shield of the Cavalier
 >[!varies-armor-callout] Shield of the Cavalier
 >_Armor (Shield) , Varies (Requires Attunement)_
 >

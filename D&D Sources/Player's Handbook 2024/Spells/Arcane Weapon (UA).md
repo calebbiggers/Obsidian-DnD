@@ -1,29 +1,27 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Bonus Action
 classes:
   - Artificer
 components:
-  - V
   - S
-concentration: True
+  - V
+concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
 level: 1
 range: Self
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 60 - The Artificer Returns]]"
-type: Spell
 ---
+
+# Arcane Weapon (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

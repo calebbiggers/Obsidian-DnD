@@ -2,8 +2,6 @@
 tags:
   - Item
 attunement: False
-banner: 
-banner_lock: True
 classes:
 icon: LiComponent
 rarity: Rare
@@ -11,6 +9,7 @@ sources:
 type - Wondrous Item
 type_details: 
 ---
+# Loadstone
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare*
 >

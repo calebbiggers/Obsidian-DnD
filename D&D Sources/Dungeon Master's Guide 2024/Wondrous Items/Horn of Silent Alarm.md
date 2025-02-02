@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Horn of Silent Alarm
 >[!common-wondrous-item-callout] Horn of Silent Alarm
 >![[horn-of-silent-alarm.webp]]
 >

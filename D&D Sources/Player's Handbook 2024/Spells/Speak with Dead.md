@@ -7,10 +7,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - burning incense
+  - M
+  - S
+  - V
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 10 feet
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Speak with Dead
+
 >[!spell-callout] Speak with Dead
 >_Level 3 Necromancy (Bard, Cleric, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Specific Individual
-banner: "[[Volos-Guide-To-Monsters-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Any Sword
 ---
+# Mind Blade
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Any Sword), Rare (Requires Attunement By A Specific Individual)*
 >

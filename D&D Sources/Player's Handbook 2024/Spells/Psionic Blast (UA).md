@@ -1,10 +1,6 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
@@ -12,19 +8,21 @@ classes:
   - Wizard
 components:
   - V
-concentration: False
+concentration: false
 duration: Instantaneous
 icon: LiWand2
 level: 3
 range: Self (30-Foot Cone)
-ritual: False
-scales: True
+ritual: false
+scales: true
 schools:
   - Evocation
 sources:
   - "[[Unearthed Arcana 66 - Fighter, Rogue, And Wizard]]"
-type: Spell
 ---
+
+# Psionic Blast (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >

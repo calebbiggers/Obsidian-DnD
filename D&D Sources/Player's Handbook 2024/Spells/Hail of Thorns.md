@@ -14,9 +14,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Hail of Thorns
+
 >[!spell-callout] Hail of Thorns
 >_Level 1 Conjuration (Ranger)_
 >
@@ -30,4 +33,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 1.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

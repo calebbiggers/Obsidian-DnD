@@ -12,6 +12,7 @@ type_details: Longsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sun Blade
 >[!rare-weapon-callout] Sun Blade
 >_Weapon (Longsword) , Rare (Requires Attunement)_
 >

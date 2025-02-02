@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Bard
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: True
+  - V
+concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
 level: 1
 range: Self
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Divination
 sources:
   - "[[Unearthed Arcana 36 - Starter Spells]]"
-type: Spell
 ---
+
+# Sense Emotion (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

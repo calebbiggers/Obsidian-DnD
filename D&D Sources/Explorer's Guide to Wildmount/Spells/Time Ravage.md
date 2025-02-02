@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl9
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
-  - M
   - An Hourglass Filled With Diamond Dust Worth At Least 5,000 Gp, Which The Spell Consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -26,6 +22,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Time Ravage
 >[!spell-callout] Time Ravage
 >_Level 9 Necromancy (Wizard)_
 >

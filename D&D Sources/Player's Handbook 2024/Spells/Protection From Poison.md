@@ -8,8 +8,8 @@ classes:
   - "[[Paladin]]"
   - "[[Ranger]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Protection From Poison
+
 >[!spell-callout] Protection from Poison
 >_Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)_
 >
@@ -32,4 +35,4 @@ sources:
 >You touch a creature and end the [[Conditions#Poisoned\|Poisoned]] condition on it. For the duration, the target has [[D20 Tests#Advantage/Disadvantage\|Advantage]] on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

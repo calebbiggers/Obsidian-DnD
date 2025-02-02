@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tyranny-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: 
 ---
+# Dragontooth Dagger
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon, Rare*
 >

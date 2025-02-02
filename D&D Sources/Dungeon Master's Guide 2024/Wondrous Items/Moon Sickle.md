@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Druid Or Ranger
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
 classes:
   - Druid
   - Ranger
@@ -15,6 +12,7 @@ sources:
 type: Weapon
 type_details: Sickle
 ---
+# Moon Sickle
 >[!rarity-varies-weapon-callout] `=this.file.name`
 >*Weapon (Sickle), Rarity Varies (Requires Attunement By A Druid Or Ranger)*
 >

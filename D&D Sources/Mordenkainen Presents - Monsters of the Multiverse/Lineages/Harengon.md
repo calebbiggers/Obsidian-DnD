@@ -1,17 +1,19 @@
 ---
 tags:
   - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 creature_type: Humanoid
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 30
+icon: LiRabbit
 ---
+# Harengon
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[harengon.png|float-right|300]]Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
-# Harengon Traits
+## Harengon Traits
 **Creature Type:** Humanoid
 **Size:** Medium (about 4–6 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
 **Speed:** 30 feet

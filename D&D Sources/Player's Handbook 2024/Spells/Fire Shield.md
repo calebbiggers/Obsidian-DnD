@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bit of phosphorus or a firefly
+  - M
+  - S
+  - V
 concentration: false
 duration: 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Fire Shield
+
 >[!spell-callout] Fire Shield
 >_Level 4 Evocation (Druid, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >In addition, whenever a creature within 5 feet of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes 2d8 Fire damage from a warm shield or 2d8 Cold damage from a chill shield.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Storm-Kings-Thunder-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiFlaskRound
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Potion
 type_details: 
 ---
+# Potion of Giant Size
 >[!legendary-potion-callout] `=this.file.name`
 >*Potion, Legendary*
 >

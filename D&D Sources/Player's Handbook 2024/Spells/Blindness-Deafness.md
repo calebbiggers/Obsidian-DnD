@@ -17,9 +17,12 @@ range: 120 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Blindness-Deafness
+
 >[!spell-callout] Blindness/Deafness
 >_Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

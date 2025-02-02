@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Volos-Guide-To-Monsters-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiShield
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Armor
 type_details: Shield
 ---
+# Shield of Far Sight
 >[!rare-armor-callout] `=this.file.name`
 >*Armor (Shield), Rare*
 >

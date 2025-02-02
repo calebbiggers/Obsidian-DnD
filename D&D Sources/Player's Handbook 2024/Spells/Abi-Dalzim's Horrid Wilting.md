@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl8
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Bit Of Sponge)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Necromancy
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Abi-Dalzim's Horrid Wilting
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

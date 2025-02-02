@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl2
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
 casting_time: 1 Minute
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A White Pearl Worth At Least 100 Gp, Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: 1 Hour
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Fortune's Favor
 >[!spell-callout] Fortune's Favor
 >_Level 2 Divination (Wizard)_
 >

@@ -12,6 +12,7 @@ type_details: Studded Leather Armor
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Glamoured Studded Leather
 >[!rare-armor-callout] Glamoured Studded Leather
 >_Armor (Studded Leather Armor) , Rare_
 >

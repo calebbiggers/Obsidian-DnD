@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - iron filings
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Antimagic Field
+
 >[!spell-callout] Antimagic Field
 >_Level 8 Abjuration (Cleric, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >[[Dispel Magic]] has no effect on the aura, and the auras created by different _Antimagic Field_ spells don't nullify each other.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

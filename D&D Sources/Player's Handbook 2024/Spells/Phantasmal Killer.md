@@ -6,8 +6,8 @@ classes:
   - "[[Bard]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 120 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Phantasmal Killer
+
 >[!spell-callout] Phantasmal Killer
 >_Level 4 Illusion (Bard, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d10 for each spell slot level above 4.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

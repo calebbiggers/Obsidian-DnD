@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rod of Rulership
 >[!rare-rod-callout] Rod of Rulership
 >_Rod, Rare (Requires Attunement)_
 >

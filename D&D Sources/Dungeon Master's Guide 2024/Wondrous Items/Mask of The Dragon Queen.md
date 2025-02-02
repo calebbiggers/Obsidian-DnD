@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
-attunement_details:
-banner: "[[Tyranny-Of-Dragons-Banner.jpg]]"
-banner_lock: True
-classes:
+attunement_details: 
+classes: 
 icon: LiComponent
 rarity: Unique
 sources:
   - "[[Tyranny of Dragons]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Mask of The Dragon Queen
 >[!unique-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Unique (Requires Attunement)*
 >

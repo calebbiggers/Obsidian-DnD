@@ -1,12 +1,19 @@
 ---
 tags:
   - Subclass
+classes:
+  - "[[Rogue]]"
 sources:
   - "[[Player's Handbook 2024]]"
-classes: "[[Rogue]]"
+icon: LiWand
 ---
-![[players-handbook-banner-2024.png|banner]]![[arcane-trickster.png|float-right|270]]Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
-# Level 3: Spellcasting
+
+# Arcane Trickster
+
+![[players-handbook-2024-banner.png|banner]]![[arcane-trickster.png|float-right|270]]Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
+
+## Level 3: Spellcasting
+
 You have learned to cast spells. The information below details how you use those rules as an Arcane Trickster.
 
 **_Cantrips._** You know three cantrips: [[Mage Hand]] and two other cantrips of your choice from the [[#Wizard spell list]] (see that class’s section for its list). [[Mind Sliver]] and [[Minor Illusion]] are recommended.
@@ -19,6 +26,7 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 |             |                 | —Spell Slots per Spell Level— |     |     |     |
 | ----------- | --------------- |:----------------------------- | --- | --- | --- |
+
 | Rogue Level | Prepared Spells | 1                             | 2   | 3   | 4   |
 | ---         | ---             | ---                           | --- | --- | --- |
 | 3           | 3               | 2                             | —   | —   | —   |
@@ -38,7 +46,8 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 | 17          | 11              | 4                             | 3   | 3   | —   |
 | 18          | 11              | 4                             | 3   | 3   | —   |
 | 19          | 12              | 4                             | 3   | 3   | 1   |
-| 20          | 13              | 4                             | 3   | 3   | 1   |
+| 20          | 13              | 4                             | 3   | 3   | 1
+|
 
 **_Prepared Spells of Level 1+._** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [[Charm Person]], [[Disguise Self]], and [[Fog Cloud]] are recommended.
 
@@ -50,13 +59,20 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 **_Spellcasting Focus._** You can use an [[Adventuring Gear#Arcane Focus\|Arcane Focus]] as a Spellcasting Focus for your Wizard spells.
 
-# Level 3: Mage Hand Legerdemain
+## Level 3: Mage Hand Legerdemain
+
 When you cast [[Mage Hand]], you can cast it as a Bonus Action, and you can make the spectral hand [[Conditions#Invisible\|Invisible]]. You can control the hand as a Bonus Action, and through it, you can make Dexterity ([[#Sleight of Hand]]) checks.
-# Level 9: Magical Ambush
+
+## Level 9: Magical Ambush
+
 If you have the [[Conditions#Invisible\|Invisible]] condition when you cast a spell on a creature, it has [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] on any saving throw it makes against the spell on the same turn.
-# Level 13: Versatile Trickster
+
+## Level 13: Versatile Trickster
+
 You gain the ability to distract targets with your [[Mage Hand]]. When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
-# Level 17: Spell Thief
+
+## Level 17: Spell Thief
+
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 
 Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a Reaction to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell’s effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn’t need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can’t cast it until the 8 hours have passed.

@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiShield
+price: -1
 rarity: Rarity Varies
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Armor
 type_details: Shield
-price: -1
 ---
+# Shield, +1, +2, +3
 >[!rarity-varies-armor-callout] `=this.file.name`
 >*Armor (Shield), Rarity Varies*
 >

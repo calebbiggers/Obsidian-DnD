@@ -1,25 +1,22 @@
 ---
-tags:
-  - Dungeon-Masters-Guide
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_y: 0.3
-banner_lock: true
+tags: []
 ---
 # Traps
+## Traps
 
 Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
 
 A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as *glyph of warding* and *symbol* that function as traps.
 
-## Traps in Play
+### Traps in Play
 
 When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
 
-### Triggering a Trap
+#### Triggering a Trap
 
 Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the *glyph of warding* spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
-### Detecting and Disabling a Trap
+#### Detecting and Disabling a Trap
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
@@ -35,7 +32,7 @@ Foiling traps can be a little more complicated. Consider a trapped treasure ches
 
 Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
 
-### Trap Effects
+#### Trap Effects
 
 The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
 
@@ -62,7 +59,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | 17th-20th       | 10d10   | 18d10     | 24d10  |
 |                 |         |           |        |
 
-### Complex Traps
+#### Complex Traps
 
 Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
 
@@ -70,11 +67,11 @@ When a complex trap activates, it rolls initiative. The trap's description inclu
 
 For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
 
-## Sample Traps
+### Sample Traps
 
 The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
-### Collapsing Roof
+#### Collapsing Roof
 
 *Mechanical trap*
 
@@ -88,7 +85,7 @@ The ceiling above the trip wire is in bad repair, and anyone who can see it can 
 
 When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain.
 
-### Falling Net
+#### Falling Net
 
 *Mechanical trap*
 
@@ -100,7 +97,7 @@ When the trap is triggered, the net is released, covering a 10-foot square area.
 
 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot square section of it, freeing any creature trapped in that section.
 
-### Fire-Breathing Statue
+#### Fire-Breathing Statue
 
 *Magic trap*
 
@@ -112,7 +109,7 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 
 Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful *dispel magic* (DC 13) cast on the statue destroys the trap.
 
-### Pits
+#### Pits
 
 *Mechanical trap*
 
@@ -136,7 +133,7 @@ A successful DC 20 Strength check is necessary to pry the cover open. The cover 
 
 ***Spiked Pit***. This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-### Poison Darts
+#### Poison Darts
 
 *Mechanical trap*
 
@@ -148,7 +145,7 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 
 bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don't hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one.
 
-### Poison Needle
+#### Poison Needle
 
 *Mechanical trap*
 
@@ -158,7 +155,7 @@ When the trap is triggered, the needle extends 3 inches straight out from the lo
 
 A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves' tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap.
 
-### Rolling Sphere
+#### Rolling Sphere
 
 *Mechanical trap*
 
@@ -172,7 +169,7 @@ The sphere stops when it hits a wall or similar barrier. It can't go around corn
 
 As an action, a creature within 5 feet of the sphere can attempt to slow it down with a DC 20 Strength check. On a successful check, the sphere's speed is reduced by 15 feet. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
 
-### Sphere of Annihilation
+#### Sphere of Annihilation
 
 *Magic trap*
 

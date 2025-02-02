@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Artifact
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Shortbow
 ---
+# Ephixis, Bow of Nyela
 >[!artifact-weapon-callout] `=this.file.name`
 >*Weapon (Shortbow), Artifact (Requires Attunement)*
 >

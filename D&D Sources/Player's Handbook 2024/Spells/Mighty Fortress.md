@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl8
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Minute
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A Diamond Worth At Least 500 Gp, Which The Spell Consumes)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +19,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Mighty Fortress
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

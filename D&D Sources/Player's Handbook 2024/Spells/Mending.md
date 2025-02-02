@@ -9,10 +9,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
+  - S
   - two lodestones
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -21,9 +21,12 @@ range: Touch
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mending
+
 >[!spell-callout] Mending
 >_Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >This spell can physically repair a magic item, but it can't restore magic to such an object.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,18 +1,14 @@
 ---
 tags:
   - Spell
-  - lvl3
-banner: "[[Xanathars-Guide-To-Everything-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.5
 casting_time: 1 Action
 classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Vial Of Blood From A Humanoid Killed Within The Past 24 Hours)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Hour
 icon: LiWand2
@@ -24,8 +20,10 @@ schools:
   - Conjuration
 sources:
   - "[[Xanathar's Guide to Everything]]"
-type: Spell
 ---
+
+# Summon Lesser Demons
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`rd-Level `=this.schools`*
 >
@@ -35,8 +33,6 @@ type: Spell
 >**Duration:** `=this.duration`
 >
 >You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
->
->
 >
 >| d6 | Demons Summoned |
 >| --- | --- |

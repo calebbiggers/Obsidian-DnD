@@ -1,31 +1,29 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
-concentration: False
+  - V
+concentration: false
 duration: 1 Minute
 icon: LiWand2
 level: 6
 range: 60 Feet
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Enchantment
 sources:
   - "[[Unearthed Arcana 66 - Fighter, Rogue, And Wizard]]"
-type: Spell
 ---
+
+# Psychic Crush (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`th-Level `=this.schools`*
 >

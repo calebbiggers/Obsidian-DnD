@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a shaving of licorice root
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Haste
+
 >[!spell-callout] Haste
 >_Level 3 Transmutation (Sorcerer, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >When the spell ends, the target is [[Conditions#Incapacitated\|Incapacitated]] and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

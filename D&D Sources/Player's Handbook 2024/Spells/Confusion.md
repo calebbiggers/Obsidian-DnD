@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
+  - S
   - three nut shells
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 90 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Confusion
+
 >[!spell-callout] Confusion
 >_Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)_
 >
@@ -45,4 +48,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The Sphere's radius increases by 5 feet for each spell slot level above 4.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

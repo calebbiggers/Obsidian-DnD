@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Alchemy Jug
 >[!uncommon-wondrous-item-callout] Alchemy Jug
 >![[alchemy-jug.jpeg]]
 >

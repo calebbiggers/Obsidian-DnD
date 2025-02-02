@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Talisman of Ultimate Evil
 >[!legendary-wondrous-item-callout] Talisman of Ultimate Evil
 >_Wondrous Item, Legendary (Requires Attunement)_
 >

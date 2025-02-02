@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Wizard
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
 classes:
   - Wizard
 icon: LiBookMarked
@@ -12,8 +9,9 @@ rarity: Rarity Varies
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Arcane Grimoire
 >[!rarity-varies-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rarity Varies (Requires Attunement By A Wizard)*
 >

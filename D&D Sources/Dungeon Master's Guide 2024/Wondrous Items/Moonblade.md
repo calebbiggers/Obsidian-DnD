@@ -12,7 +12,11 @@ type_details: Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Moonblade
 >[!legendary-weapon-callout] Moonblade
+>![[moonblade.jpg]]
+>
+> - - -
 >_Weapon (Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Legendary (Requires Attunement a Creature of the Weapon's Choice)_
 >
 >Of all the magic items created by elves, one of the most prized and jealously guarded is a _Moonblade_. In ancient times, nearly all elven noble houses claimed one such weapon. Over the centuries, some of these weapons have faded from the world, their magic lost as family lines have become extinct. Others have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
@@ -28,9 +32,6 @@ sources:
 >The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder's hand when it wants to communicate something it has sensed. It can communicate through visions or dreams when the wielder is either in a trance or asleep.
 >
 >**_Personality._** A _Moonblade_ has a personality similar to that of its creator. Once a _Moonblade_ has decided on an owner, it believes that only that person should wield it, even if the bearer's alignment differs from that of the weapon's or the bearer's goals later clash with the weapon's goals.
->
->
->Moonblade (Longsword)
 >
 >#### Moonblade Properties
 >|1d100|Property|

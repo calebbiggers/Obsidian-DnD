@@ -1,15 +1,16 @@
 ---
 tags:
   - Item
-type: Potion
+icon: LiFlaskRound
+price: 30
 rarity: Uncommon
 sources:
   - "[[Homebrew]]"
-banner: "[[Homebrew-Banner.jpg]]"
-banner_lock: true
-icon: LiFlaskRound
-price: 30
+type: Potion
 ---
+
+# Potion of Sleep
+
 ![[Homebrew-Banner.jpg|banner]]
 >[!uncommon-potion-callout] Potion of Sleep
 >*Potion, Uncommon*

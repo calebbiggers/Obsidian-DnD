@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Tome of Leadership and Influence
 >[!varies-wondrous-item-callout] Tome of Leadership and Influence
 >_Wondrous Item, Varies_
 >

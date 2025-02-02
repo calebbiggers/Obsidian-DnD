@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Ring
-attunement: True
+attunement: true
 attunement_details: None
-classes:
-icon: LiComponent
+classes: 
+icon: LiTorus
 rarity: Uncommon
-type: Ring
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Mind Shielding
 >[!uncommon-ring-callout] Ring of Mind Shielding
 >![[ring-of-mind-shielding.jpeg]]'
 >

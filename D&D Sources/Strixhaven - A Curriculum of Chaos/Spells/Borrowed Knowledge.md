@@ -1,9 +1,6 @@
 ---
 tags:
   - Spell
-banner: "[[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
 casting_time: 1 Action
 classes:
   - Bard
@@ -11,9 +8,9 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Book Worth At Least 25 Gp)
+  - S
+  - V
 concentration: false
 duration: 1 Hour
 icon: LiWand2
@@ -27,6 +24,9 @@ sources:
   - "[[Strixhaven - A Curriculum of Chaos]]"
 type: Spell
 ---
+
+# Borrowed Knowledge
+
 >[!spell-callout] Borrowed Knowledge
 >_Level 2 Divination (Bard, Cleric, Warlock, Wizard)_
 >

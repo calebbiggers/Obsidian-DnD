@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 8000
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 8000
 type_details: 
 ---
+# Timepiece of Travel
 >[!very-rare-wondrous-item-callout] Timepiece of Travel
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

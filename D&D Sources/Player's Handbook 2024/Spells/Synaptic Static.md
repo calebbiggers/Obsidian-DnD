@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 120 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Synaptic Static
+
 >[!spell-callout] Synaptic Static
 >_Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -34,4 +37,4 @@ sources:
 >On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [[Spells#Concentration\|Concentration]]. The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

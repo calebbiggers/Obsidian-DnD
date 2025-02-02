@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Wand of Magic Detection
 >[!uncommon-wand-callout] Wand of Magic Detection
 >![[wand-of-magic-detection.jpg]]
 >

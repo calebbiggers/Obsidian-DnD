@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 60 feet
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Mass Heal
+
 >[!spell-callout] Mass Heal
 >_Level 9 Abjuration (Cleric)_
 >
@@ -29,4 +32,4 @@ sources:
 >A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the [[Conditions#Blinded\|Blinded]], [[Conditions#Deafened\|Deafened]], and [[Conditions#Poisoned\|Poisoned]] conditions removed from them.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sphere of Annihilation
 >[!legendary-wondrous-item-callout] Sphere of Annihilation
 >_Wondrous Item, Legendary_
 >

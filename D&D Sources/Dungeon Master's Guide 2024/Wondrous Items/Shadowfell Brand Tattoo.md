@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 5000
 rarity: Rare
 sources:
   - "[[Tasha's Cauldron of Everything]]"
 type: Wondrous Item
-price: 5000
 type_details: Tattoo
 ---
+# Shadowfell Brand Tattoo
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item (Tattoo), Rare (Requires Attunement)*
 >

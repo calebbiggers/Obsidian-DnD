@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Robe of Eyes
 >[!rare-wondrous-item-callout] Robe of Eyes
 >_Wondrous Item, Rare (Requires Attunement)_
 >

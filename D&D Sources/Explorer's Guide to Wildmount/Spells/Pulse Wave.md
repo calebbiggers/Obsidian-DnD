@@ -1,15 +1,11 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,12 +14,13 @@ range: Self (30-Foot Cone)
 ritual: false
 scales: true
 schools:
-  - Evocation
   - (Dunamancy)
+  - Evocation
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Pulse Wave
 >[!spell-callout] Pulse Wave
 >_Level 3 Evocation (Wizard)_
 >

@@ -13,7 +13,11 @@ type_details: Any Simple or Martial
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Holy Avenger
 >[!legendary-weapon-callout] Holy Avenger
+>![[holy-avenger.jpg]]
+>
+>- - -
 >_Weapon (Any Simple or Martial) , Legendary (Requires Attunement a Paladin)_
 >
 >You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra 2d10 Radiant damage.

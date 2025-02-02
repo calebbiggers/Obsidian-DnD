@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Blade Ward
+
 >[!spell-callout] Blade Ward
 >_Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

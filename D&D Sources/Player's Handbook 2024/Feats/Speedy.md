@@ -1,16 +1,16 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+prerequisites:
+  - Dexterity or Constitution 13+
+  - Level 4+
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: General
-repeatable: false
-prerequisites:
-  - Level 4+
-  - Dexterity or Constitution 13+
 ---
+# Speedy
 >[!feat] Speedy
 >_General Feat (Prerequisite: Level 4+, Dexterity or Constitution 13+)_
 >
@@ -23,4 +23,4 @@ prerequisites:
 >**_Dash over Difficult Terrain._** When you take the [[Actions#Dash\|Dash]] action on your turn, [[Combat#Difficult Terrain\|Difficult Terrain]] doesn’t cost you extra movement for the rest of that turn.
 >
 >**_Agile Movement._** [[Combat#Opportunity Attacks\|Opportunity Attacks]] have [[D20 Tests#Advantage/Disadvantage\|Disadvantage]] against you.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

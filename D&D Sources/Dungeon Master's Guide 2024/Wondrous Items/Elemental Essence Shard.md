@@ -3,8 +3,6 @@ tags:
   - Item
 attunement: true
 attunement_details: By A Sorcerer
-banner: "[[Tashas-Cauldron-Of-Everything-Banner.jpg]]"
-banner_lock: true
 classes:
   - Sorcerer
 icon: RaCrystals
@@ -18,6 +16,7 @@ price: 5600
 price: 4200
 type_details:
 ---
+# Elemental Essence Shard
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By A Sorcerer)*
 >

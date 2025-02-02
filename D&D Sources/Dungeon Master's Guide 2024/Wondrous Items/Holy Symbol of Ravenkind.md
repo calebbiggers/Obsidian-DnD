@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Cleric Or Paladin Of Good Alignment
-banner: "[[Curse-Of-Strahd-Banner.jpg]]"
-banner_lock: True
 classes:
   - Cleric
   - Paladin
@@ -15,6 +12,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Holy Symbol of Ravenkind
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement By A Cleric Or Paladin Of Good Alignment)*
 >

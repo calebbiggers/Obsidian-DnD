@@ -7,10 +7,10 @@ classes:
   - "[[Druid]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - burning incense
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 8 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Control Weather
+
 >[!spell-callout] Control Weather
 >![[control-weather.png]]
 >
@@ -40,6 +43,7 @@ sources:
 >When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
 >
 >#### Precipitation
+>
 >|Stage|Condition|
 >|---|---|
 >|1|Clear|
@@ -49,6 +53,7 @@ sources:
 >|5|Torrential rain, driving hail, or blizzard|
 >
 >#### Temperature
+>
 >|Stage|Condition|
 >|---|---|
 >|1|Heat wave|
@@ -59,6 +64,7 @@ sources:
 >|6|Freezing|
 >
 >#### Wind
+>
 >|Stage|Condition|
 >|---|---|
 >|1|Calm|
@@ -67,5 +73,4 @@ sources:
 >|4|Gale|
 >|5|Storm|
 
-
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,11 +1,10 @@
 ---
-tags:
-  - Session-Notes
+tags: [Session-Notes]
 Date: 2025-01-09
 icon: LiPencilLine
 ---
-# To Do
+## To Do
 
-# Scenes
+## Scenes
 
-# Post Mortem
+## Post Mortem

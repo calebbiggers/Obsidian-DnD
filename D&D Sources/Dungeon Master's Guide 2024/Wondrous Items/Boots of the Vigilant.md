@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaBootStomp
 rarity: Uncommon
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Boots of the Vigilant
 >[!uncommon-wondrous-item-callout] Boots Of The Vigilant
 >![[boots-of-the-vigilant.png|center]]
 >

@@ -5,10 +5,10 @@ casting_time: 1 hour
 classes:
   - "[[Druid]]"
 components:
-  - V
-  - S
   - M
   - rare oils worth 1,000+ GP, which the spell consumes
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Reincarnate
+
 >[!spell-callout] Reincarnate
 >_Level 5 Necromancy (Druid)_
 >
@@ -46,4 +49,4 @@ sources:
 >The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

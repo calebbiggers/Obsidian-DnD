@@ -12,6 +12,7 @@ type_details: Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Sword of Vengeance
 >[!uncommon-weapon-callout] Sword of Vengeance
 >_Weapon (Glaive, Greatsword, Longsword, Rapier, Scimitar, or Shortsword) , Uncommon (Requires Attunement)_
 >

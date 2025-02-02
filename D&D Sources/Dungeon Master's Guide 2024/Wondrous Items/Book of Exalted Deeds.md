@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Book of Exalted Deeds
 >[!artifact-wondrous-item-callout] Book of Exalted Deeds
 >![[book-of-exalted-deeds.jpg]]
 >

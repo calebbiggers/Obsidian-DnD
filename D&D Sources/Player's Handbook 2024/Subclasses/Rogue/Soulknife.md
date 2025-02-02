@@ -1,14 +1,23 @@
 ---
 tags:
   - Subclass
+classes:
+  - "[[Rogue]]"
 sources:
   - "[[Player's Handbook 2024]]"
-classes: "[[Rogue]]"
+icon: LiGhost
 ---
-![[players-handbook-banner-2024.png|banner]]![[soulknife.png|float-right|300]]A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
-# Level 3: Psionic Power
+
+# Soulknife
+
+![[players-handbook-2024-banner.png|banner]]![[soulknife.png|float-right|300]]A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
+
+## Level 3: Psionic Power
+
 You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.
-## Soulknife Energy Dice
+
+### Soulknife Energy Dice
+
 | Rogue Level | Die Size | Number |
 |:----------- | -------- | ------ |
 | 3           | D6       | 4      |
@@ -28,7 +37,8 @@ You regain one of your expended Psionic Energy Dice when you finish a [[Damage &
 
 The first time you use this power after each [[Damage & Healing#Long Rests|Long Rest]], you don’t expend the Psionic Energy Die. All other times you use the power, you expend the die.
 
-# Level 3: Psychic Blades
+## Level 3: Psychic Blades
+
 You can manifest shimmering blades of psychic energy. Whenever you take the [[Actions#Attack\|Attack]] action or make an [[Combat#Opportunity Attacks|Opportunity Attack]], you can manifest a Psychic Blade in your free hand and make the attack with that blade. The magic blade has the following traits:
 
 >**Weapon Category:** Simple Melee
@@ -42,16 +52,21 @@ The blade vanishes immediately after it hits or misses its target, and it leaves
 
 After you attack with the blade on your turn, you can make a melee or ranged attack with a second psychic blade as a Bonus Action on the same turn if your other hand is free to create it. The damage die of this bonus attack is 1d4 instead of 1d6.
 
-# Level 9: Soul Blades
+## Level 9: Soul Blades
+
 You can now use the following powers with your Psychic Blades.
 >**_Homing Strikes._** If you make an attack roll with your Psychic Blade and miss the target, you can roll one Psionic Energy Die and add the number rolled to the attack roll. If this causes the attack to hit, the die is expended.
 >
 >**_Psychic Teleportation._** As a Bonus Action, you manifest a Psychic Blade, expend one Psionic Energy Die and roll it, and throw the blade at an unoccupied space you can see up to a number of feet away equal to 10 times the number rolled. You then teleport to that space, and the blade vanishes.
-# Level 13: Psychic Veil
+
+## Level 13: Psychic Veil
+
 You can weave a veil of psychic static to mask yourself. As a [[Actions#Magic\|Magic]] action, you gain the [[Conditions#Invisible\|Invisible]] condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
 Once you use this feature, you can’t do so again until you finish a [[Damage & Healing#Long Rests|Long Rest]] unless you expend a Psionic Energy Die (no action required) to restore your use of it.
-# Level 17: Rend Mind
+
+## Level 17: Rend Mind
+
 You can sweep your Psychic Blades through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the [[Conditions#Stunned\|Stunned]] condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can’t do so again until you finish a [[Damage & Healing#Long Rests|Long Rest]] unless you expend three Psionic Energy Dice (no action required) to restore your use of it.

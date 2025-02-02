@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Armor
-attunement: False
+attunement: false
 attunement_details: None
-classes:
-icon: LiShield
+classes: 
+icon: RaVest
 rarity: Common
-type: Armor
 type_details: Any Light, Medium, or Heavy
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cast-Off Armor
 >[!common-armor-callout] Cast-Off Armor
 >_Armor (Any Light, Medium, or Heavy) , Common_
 >

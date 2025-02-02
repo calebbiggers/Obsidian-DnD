@@ -8,8 +8,8 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Self
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Eyebite
+
 >[!spell-callout] Eyebite
 >_Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Sickened._** The target has the [[Conditions#Poisoned\|Poisoned]] condition.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

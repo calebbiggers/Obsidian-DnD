@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiSwords
+price: 1500
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 1500
 type_details: Any
 ---
+# Weapon of Certain Death
 >[!rare-weapon-callout] Weapon of Certain Death
 >*Weapon (Any), Rare*
 >

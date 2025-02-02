@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Circlet of Blasting
 >[!uncommon-wondrous-item-callout] Circlet of Blasting
 >![[circlet-of-blasting.jpg]]
 >

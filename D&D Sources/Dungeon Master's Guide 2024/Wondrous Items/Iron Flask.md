@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Iron Flask
 >[!legendary-wondrous-item-callout] Iron Flask
+>![[iron-flask.jpg]]
+>
+>- - -
 >_Wondrous Item, Legendary_
 >
 >While holding this brass-stoppered iron flask, you can take a [[Actions#Magic\|Magic]] action to target a creature that you can see within 60 feet of yourself. If the flask is empty and the target is native to a plane of existence other than the one you're on, the target must succeed on a DC 17 Wisdom saving throw or be trapped in the flask. If the target has been trapped by the flask before, it has Advantage on the save. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn't age and doesn't need to breathe, eat, or drink.

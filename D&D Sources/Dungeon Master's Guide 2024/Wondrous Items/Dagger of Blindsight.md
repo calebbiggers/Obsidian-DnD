@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dungeon-Of-The-Mad-Mage-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Dagger
 ---
+# Dagger of Blindsight
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Dagger), Rare (Requires Attunement)*
 >

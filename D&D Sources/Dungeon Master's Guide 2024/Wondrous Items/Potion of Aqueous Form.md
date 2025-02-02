@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Mythic-Odysseys-Of-Theros-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiFlaskRound
 rarity: Rare
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Potion
 type_details: 
 ---
+# Potion of Aqueous Form
 >[!rare-potion-callout] `=this.file.name`
 >*Potion, Rare*
 >

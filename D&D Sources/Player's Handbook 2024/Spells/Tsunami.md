@@ -5,8 +5,8 @@ casting_time: 1 minute
 classes:
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 6 rounds
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 1 mile
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Tsunami
+
 >[!spell-callout] Tsunami
 >_Level 8 Conjuration (Druid)_
 >
@@ -35,4 +38,4 @@ sources:
 >A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([[Proficiency#Skill List\|Athletics ]]) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

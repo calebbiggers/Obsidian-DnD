@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Druid]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 30 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Druidcraft
+
 >[!spell-callout] Druidcraft
 >![[druidcraft.png]]
 >
@@ -40,4 +43,4 @@ sources:
 >**_Fire Play._** You light or snuff out a candle, a torch, or a campfire.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

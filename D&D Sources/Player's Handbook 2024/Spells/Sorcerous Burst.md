@@ -4,7 +4,7 @@ tags:
 casting_time: Action
 classes:
   - "[[Sorcerer]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -13,9 +13,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Sorcerous Burst
+
 >[!spell-callout] Sorcerous Burst
 >_Evocation Cantrip (Sorcerer)_
 >
@@ -32,4 +35,4 @@ sources:
 >**_Cantrip Upgrade._** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

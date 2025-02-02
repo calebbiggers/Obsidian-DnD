@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Speed
 >[!varies-potion-callout] Potion of Speed
 >_Potion, Varies_
 >

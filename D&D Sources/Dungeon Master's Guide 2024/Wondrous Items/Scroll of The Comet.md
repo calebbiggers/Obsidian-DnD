@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiScrollText
 rarity: Legendary
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Scroll
 type_details: 
 ---
+# Scroll of The Comet
 >[!legendary-scroll-callout] `=this.file.name`
 >*Scroll, Legendary*
 >

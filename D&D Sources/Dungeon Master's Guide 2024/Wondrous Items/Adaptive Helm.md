@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Legends-Of-Runeterra-Dark-Tides-Of-Bilgewater-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHelmet
 rarity: Uncommon
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Wondrous Item
 type_details: 
 ---
+# Adaptive Helm
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

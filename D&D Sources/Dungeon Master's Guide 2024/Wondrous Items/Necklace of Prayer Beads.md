@@ -15,6 +15,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Necklace of Prayer Beads
 >[!rare-wondrous-item-callout] Necklace of Prayer Beads
 >_Wondrous Item, Rare (Requires Attunement a Cleric, Druid, or Paladin)_
 >

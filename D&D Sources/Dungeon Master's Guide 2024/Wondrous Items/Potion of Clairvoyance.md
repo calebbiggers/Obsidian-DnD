@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Clairvoyance
 >[!rare-potion-callout] Potion of Clairvoyance
 >_Potion, Rare_
 >

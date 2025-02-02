@@ -8,9 +8,9 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - M
   - a drop of honey
+  - M
+  - V
 concentration: true
 duration: Concentration, up to 8 hours
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 30 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Suggestion
+
 >[!spell-callout] Suggestion
 >_Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >The target must succeed on a Wisdom saving throw or have the [[Conditions#Charmed\|Charmed]] condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

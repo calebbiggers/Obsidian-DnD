@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Candle of the Deep
 >[!common-wondrous-item-callout] Candle of the Deep
 >_Wondrous Item, Common_
 >

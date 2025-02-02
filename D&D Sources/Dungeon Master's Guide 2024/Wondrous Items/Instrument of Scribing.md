@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Instrument of Scribing
 >[!common-wondrous-item-callout] Instrument of Scribing
 >_Wondrous Item, Common_
 >

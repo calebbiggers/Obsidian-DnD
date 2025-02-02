@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaCannonShot
+price: 6500
 rarity: Very Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 6500
 type_details: 
 ---
+# Arcane Cannon
 >[!very-rare-wondrous-item-callout] Arcane Cannon
 >*Wondrous Item, Very Rare*
 >

@@ -1,10 +1,7 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Infernal-Machine-Rebuild-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiFlaskRound
 rarity: Uncommon
 sources:
@@ -12,6 +9,7 @@ sources:
 type: Potion
 type_details: 
 ---
+# Thessaltoxin Antidote
 >[!uncommon-potion-callout] `=this.file.name`
 >*Potion, Uncommon*
 >

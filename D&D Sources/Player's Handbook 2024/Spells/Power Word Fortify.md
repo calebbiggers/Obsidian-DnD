@@ -5,7 +5,7 @@ casting_time: Action
 classes:
   - "[[Bard]]"
   - "[[Cleric]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -14,9 +14,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Power Word Fortify
+
 >[!spell-callout] Power Word Fortify
 >_Level 7 Enchantment (Bard, Cleric)_
 >
@@ -29,4 +32,4 @@ sources:
 >You fortify up to six creatures you can see within range. The spell bestows 120 [[Damage & Healing#Temporary Hit Points\|Temporary Hit Points]], which you divide among the spell's recipients.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

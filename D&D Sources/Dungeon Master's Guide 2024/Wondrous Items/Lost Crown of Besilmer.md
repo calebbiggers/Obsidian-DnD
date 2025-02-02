@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Princes-Of-The-Apocalypse-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaHelmet
 rarity: Legendary
 sources:
   - "[[Princes of the Apocalypse]]"
 type: Wondrous Item
-type_details:
+type_details: 
 ---
+# Lost Crown of Besilmer
 >[!legendary-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

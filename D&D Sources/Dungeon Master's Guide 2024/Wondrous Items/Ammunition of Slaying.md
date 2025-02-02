@@ -7,11 +7,11 @@ attunement_details: None
 classes:
 icon: LiSwords
 rarity: Varies
-type: Weapon
 type_details: Any Ammunition
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ammunition of Slaying
 >[!varies-weapon-callout] Ammunition of Slaying
 >_Weapon (Any Ammunition) , Varies_
 >

@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: PaPlainDagger
+price: 1400
 rarity: Rare
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Weapon
-price: 1400
 type_details: Dagger
 ---
+# Needle of Mending
 >[!rare-weapon-callout] Needle of Mending
 >*Weapon (Dagger), Rare (Requires Attunement)*
 >

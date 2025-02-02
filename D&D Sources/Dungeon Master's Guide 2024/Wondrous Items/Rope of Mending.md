@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Rope of Mending
 >[!common-wondrous-item-callout] Rope of Mending
 >_Wondrous Item, Common_
 >

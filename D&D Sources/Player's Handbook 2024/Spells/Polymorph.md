@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a caterpillar cocoon
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 60 feet
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Polymorph
+
 >[!spell-callout] Polymorph
 >_Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

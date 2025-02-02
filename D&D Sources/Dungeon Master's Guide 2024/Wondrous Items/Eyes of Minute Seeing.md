@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Eyes of Minute Seeing
 >[!uncommon-wondrous-item-callout] Eyes of Minute Seeing
 >_Wondrous Item, Uncommon_
 >

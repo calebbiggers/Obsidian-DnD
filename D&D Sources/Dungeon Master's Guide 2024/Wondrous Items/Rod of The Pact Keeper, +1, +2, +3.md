@@ -1,20 +1,18 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: By A Warlock
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes:
   - Warlock
 icon: LiWand2
+price: -1
 rarity: Rarity Varies
 sources:
   - "[[Dungeon Master's Guide]]"
 type: Rod
-type_details:
-price: -1
+type_details: 
 ---
+# Rod of The Pact Keeper, +1, +2, +3
 >[!rarity-varies-rod-callout] `=this.file.name`
 >*Rod, Rarity Varies (Requires Attunement By A Warlock)*
 >

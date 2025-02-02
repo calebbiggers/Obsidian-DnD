@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a paintbrush
+  - M
+  - S
+  - V
 concentration: false
 duration: Special
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 30 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Creation
+
 >[!spell-callout] Creation
 >_Level 5 Illusion (Sorcerer, Wizard)_
 >
@@ -34,6 +37,7 @@ sources:
 >The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
 >
 >#### Materials
+>
 >|Material|Duration|
 >|---|---|
 >|Vegetable matter|24 hours|
@@ -45,4 +49,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The Cube increases by 5 feet for each spell slot level above 5.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

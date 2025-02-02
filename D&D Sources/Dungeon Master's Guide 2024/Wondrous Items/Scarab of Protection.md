@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Scarab of Protection
 >[!legendary-wondrous-item-callout] Scarab of Protection
 >_Wondrous Item, Legendary (Requires Attunement)_
 >

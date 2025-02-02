@@ -1,17 +1,14 @@
 ---
 tags:
   - Spell
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Wizard
 components:
-  - V
-  - S
   - M (A Bit Of Rotten Food)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -23,8 +20,10 @@ schools:
   - Evocation
 sources:
   - "[[Unearthed Arcana 70 - Spells And Magic Tattoos]]"
-type: Spell
 ---
+
+# Acid Stream (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

@@ -6,8 +6,8 @@ classes:
   - "[[Bard]]"
   - "[[Cleric]]"
 components:
-  - V
   - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 60 feet
 ritual: false
 schools:
   - Enchantment
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Calm Emotions
+
 >[!spell-callout] Calm Emotions
 >_Level 2 Enchantment (Bard, Cleric)_
 >
@@ -33,4 +36,4 @@ sources:
 >- The creature becomes [[Social Interaction#Indifferent\|Indifferent]] about creatures of your choice that it's [[Social Interaction#Hostile\|Hostile]] toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

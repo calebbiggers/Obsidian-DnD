@@ -15,6 +15,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of the Magi
 >[!legendary-staff-callout] Staff of the Magi
 >_Staff, Legendary (Requires Attunement a Sorcerer, Warlock, or Wizard)_
 >
@@ -41,7 +42,7 @@ sources:
 >|[[Invisibility]]|2|
 >|[[Knock]]|2|
 >|[[Weapons#Light\|Light]]|0|
->|[[Lightning Bolt]] (level 7 version)|7|
+>|[[D&D Sources/Player's Handbook 2024/Spells/Lightning Bolt]] (level 7 version)|7|
 >|[[Mage Hand]]|0|
 >|[[Passwall]]|5|
 >|[[Plane Shift]]|7|

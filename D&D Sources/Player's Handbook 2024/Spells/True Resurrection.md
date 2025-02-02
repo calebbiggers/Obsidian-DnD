@@ -6,10 +6,10 @@ classes:
   - "[[Cleric]]"
   - "[[Druid]]"
 components:
-  - V
-  - S
-  - M
   - diamonds worth 25,000+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -18,9 +18,12 @@ range: Touch
 ritual: false
 schools:
   - Necromancy
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# True Resurrection
+
 >[!spell-callout] True Resurrection
 >_Level 9 Necromancy (Cleric, Druid)_
 >
@@ -36,4 +39,4 @@ sources:
 >The spell can provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

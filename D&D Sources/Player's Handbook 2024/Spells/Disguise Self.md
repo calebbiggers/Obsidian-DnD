@@ -7,8 +7,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 hour
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Self
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Disguise Self
+
 >[!spell-callout] Disguise Self
 >_Level 1 Illusion (Bard, Sorcerer, Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >To discern that you are disguised, a creature must take the [[Actions#Study\|Study]] action to inspect your appearance and succeed on an Intelligence ([[Proficiency#Skill List\|Investigation]]) check against your spell save DC.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

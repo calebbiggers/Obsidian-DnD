@@ -16,9 +16,12 @@ range: Self
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Misty Step
+
 >[!spell-callout] Misty Step
 >_Level 2 Conjuration (Sorcerer, Warlock, Wizard)_
 >
@@ -30,4 +33,4 @@ sources:
 >Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

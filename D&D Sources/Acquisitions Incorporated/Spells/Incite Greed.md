@@ -1,9 +1,5 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Action
 classes:
   - Cleric
@@ -11,9 +7,9 @@ classes:
   - Warlock
   - Wizard
 components:
-  - V
-  - S
   - M (A Gem Worth At Least 50 Gp)
+  - S
+  - V
 concentration: true
 duration: Concentration, Up To 1 Minute
 icon: LiWand2
@@ -27,6 +23,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Incite Greed
 >[!spell-callout] Incite Greed
 >_Level 3 Enchantment (Cleric, Sorcerer, Warlock, Wizard)_
 >

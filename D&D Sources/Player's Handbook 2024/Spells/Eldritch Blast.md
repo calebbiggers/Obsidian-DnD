@@ -5,8 +5,8 @@ casting_time: Action
 classes:
   - "[[Warlock]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -15,9 +15,12 @@ range: 120 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Eldritch Blast
+
 >[!spell-callout] Eldritch Blast
 >_Evocation Cantrip (Warlock)_
 >
@@ -31,4 +34,4 @@ sources:
 >**_Cantrip Upgrade._** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

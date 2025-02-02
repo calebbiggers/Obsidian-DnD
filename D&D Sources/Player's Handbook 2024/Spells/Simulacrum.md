@@ -5,10 +5,10 @@ casting_time: 12 hours
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - powdered ruby worth 1,500+ GP, which the spell consumes
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Simulacrum
+
 >[!spell-callout] Simulacrum
 >_Level 7 Illusion (Wizard)_
 >
@@ -37,4 +40,4 @@ sources:
 >The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

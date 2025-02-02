@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Talking Doll
 >[!common-wondrous-item-callout] Talking Doll
 >_Wondrous Item, Common (Requires Attunement)_
 >

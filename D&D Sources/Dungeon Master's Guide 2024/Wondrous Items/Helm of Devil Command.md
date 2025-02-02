@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Creature That Can Speak Infernal
-banner: "[[Baldurs-Gate-Descent-Into-Avernus-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: RaHelmet
+price: 21500
 rarity: Very Rare
 sources:
   - "[[Baldur's Gate - Descent into Avernus]]"
 type: Wondrous Item
-price: 21500
 type_details: 
 ---
+# Helm of Devil Command
 >[!very-rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Very Rare (Requires Attunement By A Creature That Can Speak Infernal)*
 >

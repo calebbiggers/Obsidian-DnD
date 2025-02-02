@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: PaPlainDagger
+price: 1000
 rarity: Rare
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Wondrous Item
-price: 1000
 type_details: 
 ---
+# Bracer of Flying Daggers
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

@@ -12,7 +12,11 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Eye and Hand of Vecna
 >[!artifact-wondrous-item-callout] Eye and Hand of Vecna
+>![[eye-and-hand-of-vecna.png]]
+>
+>- - -
 >_Wondrous Item, Artifact (Requires Attunement)_
 >
 >[[Vecna]] was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.
@@ -20,9 +24,6 @@ sources:
 >A treacherous lieutenant named [[Kas]] brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.
 >
 >The _Eye of Vecna_ and the _Hand of Vecna_ are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
->
->
->Eye and Hand of Vecna
 >
 >**_Random Properties of the Eye and Hand._** The [[Eye of Vecna]] and the [[Hand of Vecna]] each have the following random properties (see “[[Artifacts]]” in this chapter):
 >

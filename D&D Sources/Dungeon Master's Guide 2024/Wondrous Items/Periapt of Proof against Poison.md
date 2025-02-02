@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Periapt of Proof against Poison
 >[!rare-wondrous-item-callout] Periapt of Proof against Poison
 >_Wondrous Item, Rare (Requires Attunement)_
 >

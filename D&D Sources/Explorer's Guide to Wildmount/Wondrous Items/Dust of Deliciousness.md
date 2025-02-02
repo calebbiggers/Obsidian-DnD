@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: TiMoneybag
+price: 150
 rarity: Uncommon
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 150
 type_details: 
 ---
+# Dust of Deliciousness
 >[!uncommon-wondrous-item-callout] Dust of Deliciousness
 >*Wondrous Item, Uncommon*
 >

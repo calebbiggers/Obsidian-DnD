@@ -1,16 +1,12 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Icewind-Dale-Rime-Of-The-Frostmaiden-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -22,8 +18,10 @@ schools:
   - Evocation
 sources:
   - "[[Icewind Dale - Rime of the Frostmaiden]]"
-type: Spell
 ---
+
+# Frost Fingers
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

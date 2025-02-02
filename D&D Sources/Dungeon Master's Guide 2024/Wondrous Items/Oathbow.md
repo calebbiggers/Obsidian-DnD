@@ -12,6 +12,7 @@ type_details: Longbow or Shortbow
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Oathbow
 >[!varies-weapon-callout] Oathbow
 >_Weapon (Longbow or Shortbow) , Varies (Requires Attunement)_
 >

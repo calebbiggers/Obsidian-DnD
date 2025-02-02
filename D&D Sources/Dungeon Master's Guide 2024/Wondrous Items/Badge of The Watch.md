@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By Someone Designated By The Open Lord Of Waterdeep
-banner: "[[Waterdeep-Dragon-Heist-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 3250
 rarity: Rare
 sources:
   - "[[Waterdeep - Dragon Heist]]"
 type: Wondrous Item
-price: 3250
 type_details: 
 ---
+# Badge of The Watch
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement By Someone Designated By The Open Lord Of Waterdeep)*
 >

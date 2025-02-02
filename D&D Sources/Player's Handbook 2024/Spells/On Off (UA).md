@@ -1,17 +1,14 @@
 ---
 tags:
   - Spell
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Sorcerer
   - Warlock
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: False
 duration: Instantaneous
 icon: LiWand2
@@ -23,8 +20,10 @@ schools:
   - Transmutation
 sources:
   - "[[Unearthed Arcana 7 - Modern Magic]]"
-type: Spell
 ---
+
+# On Off (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.schools` Cantrip*
 >

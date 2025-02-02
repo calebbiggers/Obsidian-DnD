@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Boots of Levitation
 >[!rare-wondrous-item-callout] Boots of Levitation
 >_Wondrous Item, Rare (Requires Attunement)_
 >

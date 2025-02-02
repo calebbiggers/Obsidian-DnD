@@ -4,7 +4,7 @@ tags:
 casting_time: Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
 classes:
   - "[[Paladin]]"
-components:
+components: 
 concentration: true
 duration: Concentration, up to1 minute
 icon: LiWand2
@@ -13,9 +13,12 @@ range: Self
 ritual: false
 schools:
   - Transmutation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Shining Smite
+
 >[!spell-callout] Shining Smite
 >_Level 2 Transmutation (Paladin)_
 >
@@ -30,4 +33,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each spell slot level above 2.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

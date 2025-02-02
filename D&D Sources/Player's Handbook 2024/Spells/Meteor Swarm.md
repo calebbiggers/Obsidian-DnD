@@ -6,8 +6,8 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -16,9 +16,12 @@ range: 1 mile
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Meteor Swarm
+
 >[!spell-callout] Meteor Swarm
 >_Level 9 Evocation (Sorcerer, Wizard)_
 >
@@ -32,4 +35,4 @@ sources:
 >A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [[Exploration#Burning\|Burning]] if it's flammable.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

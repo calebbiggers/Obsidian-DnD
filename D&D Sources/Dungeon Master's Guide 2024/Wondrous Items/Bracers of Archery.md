@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Bracers of Archery
 >[!uncommon-wondrous-item-callout] Bracers of Archery
 >![[bracers-of-archery.jpg]]
 >

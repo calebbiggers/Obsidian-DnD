@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: False
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 350
 rarity: Uncommon
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 350
 type_details: 
 ---
+# Night Caller
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon*
 >

@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
-attunement_details:
-banner: "[[Lost-Laboratory-Of-Kwalish-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+attunement: true
+attunement_details: 
+classes: 
+icon: RaVest
 rarity: Very Rare
 sources:
   - "[[Lost Laboratory of Kwalish]]"
 type: Armor
 type_details: Leather
 ---
+# Heward's Hireling Armor
 >[!very-rare-armor-callout] `=this.file.name`
 >*Armor (Leather), Very Rare (Requires Attunement)*
 >

@@ -1,18 +1,14 @@
 ---
-tags:
-  - Spell
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.4
+tags: [Spell]
 casting_time: 1 Reaction, Which You Take When You Speak To Another Creature
 classes:
   - Bard
   - Wizard
 components:
-  - V
-  - S
-  - M
   - 2 Gold Coins, Which Is Consumed As Tax For Using The Spell
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -26,6 +22,7 @@ sources:
   - "[[Acquisitions Incorporated]]"
 type: Spell
 ---
+# Gift of Gab
 >[!spell-callout] Gift of Gab
 >_Level 2 Enchantment (Bard, Wizard)_
 >

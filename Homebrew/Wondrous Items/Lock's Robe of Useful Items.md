@@ -2,17 +2,18 @@
 tags:
   - Item
 attunement: false
-banner: "[[Dungeon-Masters-Guide-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 400
 rarity: Uncommon
 sources:
   - "[[Dungeon Master's Guide 2024]]"
 type: Wondrous Item
-price: 400
-type_details:
+type_details: 
 ---
+
+# Lock's Robe of Useful Items
+
 >[!uncommon-wondrous-item-callout] Robe Of Useful Items
 >![[robe-of-useful-items.jpg]]
 >
@@ -28,7 +29,7 @@ type_details:
 >* [[Adventuring Gear#Lantern, Bullseye|Bullseye Lantern]] (filled and lit)
 >* [[Adventuring Gear#Mirror|Steel Mirror]]
 >* [[Adventuring Gear#Pole|10-foot Pole]]
->* [[Adventuring Gear#Rope|Hempen Rope]] (50 feet, coiled) 
+>* [[Adventuring Gear#Rope|Hempen Rope]] (50 feet, coiled)
 >* [[Adventuring Gear#Sack|Sack]]
 >
 >In addition the robe has the following:

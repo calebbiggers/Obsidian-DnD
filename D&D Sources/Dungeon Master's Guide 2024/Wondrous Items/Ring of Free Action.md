@@ -2,16 +2,16 @@
 tags:
   - Item
 type: Ring
-attunement: True
+attunement: true
 attunement_details: None
-classes:
-icon: LiComponent
+classes: 
+icon: LiTorus
 rarity: Rare
-type: Ring
 type_details: None
-sources: 
+sources:
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Ring of Free Action
 >[!rare-ring-callout] Ring of Free Action
 >_Ring, Rare (Requires Attunement)_
 >

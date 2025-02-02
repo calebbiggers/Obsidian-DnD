@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: By A Non-Good Character
-banner: "[[Taldorei-Campaign-Setting-Reborn-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Legendary
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Flail
 ---
+# Agony
 >[!legendary-weapon-callout] `=this.file.name`
 >*Weapon (Flail), Legendary (Requires Attunement By A Non-Good Character)*
 >

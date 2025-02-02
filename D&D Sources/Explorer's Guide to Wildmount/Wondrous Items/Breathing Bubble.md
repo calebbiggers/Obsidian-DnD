@@ -1,18 +1,16 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 50
 rarity: Common
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 50
 type_details: 
 ---
+# Breathing Bubble
 >[!common-wondrous-item-callout] Breathing Bubble
 >*Wondrous Item, Common*
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Scroll of Protection
 >[!rare-scroll-callout] Scroll of Protection
 >_Scroll, Rare_
 >

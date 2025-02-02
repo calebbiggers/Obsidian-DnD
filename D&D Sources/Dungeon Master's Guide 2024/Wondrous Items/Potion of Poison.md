@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Potion of Poison
 >[!uncommon-potion-callout] Potion of Poison
 >_Potion, Uncommon_
 >

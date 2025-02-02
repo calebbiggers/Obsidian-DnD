@@ -8,10 +8,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 1 mile
 ritual: false
 schools:
   - Divination
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Clairvoyance
+
 >[!spell-callout] Clairvoyance
 >_Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)_
 >
@@ -38,4 +41,4 @@ sources:
 >A creature that sees the sensor (such as a creature benefiting from [[See Invisibility]] or [[Exploration#Truesight\|Truesight]]) sees a luminous orb about the size of your fist.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

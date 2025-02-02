@@ -1,13 +1,13 @@
 ---
-tags:
-  - Feat
-aliases: 
+tags: [Feat]
+aliases: []
+classes: 
+repeatable: false
 sources:
   - "[[Player's Handbook]]"
-classes: 
 type: Origin
-repeatable: false
 ---
+# Tavern Brawler
 >[!feat] Lucky
 >_Origin Feat_
 >
@@ -20,4 +20,4 @@ repeatable: false
 >**_Improvised Weaponry._** You have proficiency with improvised weapons.
 >
 >**_Push._** When you hit a creature with an [[Combat#Unarmed Strikes\|Unarmed Strike]] as part of the [[Actions#Attack\|Attack]] action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

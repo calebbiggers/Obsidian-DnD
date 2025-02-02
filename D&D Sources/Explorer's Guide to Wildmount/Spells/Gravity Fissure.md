@@ -1,17 +1,13 @@
 ---
 tags:
   - Spell
-  - lvl6
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
 casting_time: 1 Action
 classes:
   - Wizard
 components:
-  - V
-  - S
   - M (A Fistful Of Iron Filings)
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -25,6 +21,7 @@ sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Gravity Fissure
 >[!spell-callout] Gravity Fissure
 >_Level 6 Evocation (Wizard)_
 >

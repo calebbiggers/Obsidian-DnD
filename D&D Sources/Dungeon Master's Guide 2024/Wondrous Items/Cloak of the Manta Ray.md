@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Cloak of the Manta Ray
 >[!uncommon-wondrous-item-callout] Cloak of the Manta Ray
 >![[cloak-of-the-manta-ray.jpeg]]
 >

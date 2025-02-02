@@ -5,10 +5,10 @@ casting_time: 1 minute or Ritual
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a sapphire worth 1,000+ GP
+  - M
+  - S
+  - V
 concentration: false
 duration: Until dispelled
 icon: LiWand2
@@ -17,9 +17,12 @@ range: Touch
 ritual: true
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Drawmij's Instant Summons
+
 >[!spell-callout] Drawmij's Instant Summons
 >_Level 6 Conjuration (Wizard)_
 >
@@ -35,4 +38,4 @@ sources:
 >If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

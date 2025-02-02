@@ -1,25 +1,11 @@
 ---
-tags:
-  - Letter
-aliases: 
-status: 
+tags: [Letter]
+aliases: []
 from: 
-to: 
-banner: "[[Letter-Banner.jpg]]"
-banner_y: 0.1
-banner_lock: true
 icon: LiMail
+status: 
+to: 
 ---
-> [!infobox-wiki] `=this.file.name`
-> ##### Info
->  |
->  | --- | --- |
-> **Sent To** | `=this.to` |
-> **From** | `=this.from` |
-> **Status** | `=this.status` |
+>[!letter]
 
-# `=this.file.name`
-## DM Notes
-_(Notes for anything to do with the letter being sent to the recipient.)_
-
->[!quote] Letter Contents:
+![[Letter-Banner.jpg|banner]]

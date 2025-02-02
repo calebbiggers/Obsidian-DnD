@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 6000
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 6000
 type_details: 
 ---
+# Dimensional Loop
 >[!very-rare-wondrous-item-callout] Dimensional Loop
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

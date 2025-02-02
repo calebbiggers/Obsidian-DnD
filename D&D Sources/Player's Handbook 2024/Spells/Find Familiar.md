@@ -5,10 +5,10 @@ casting_time: 1 hour or Ritual
 classes:
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - burning incense worth 10+ GP, which the spell consumes
+  - M
+  - S
+  - V
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 10 feet
 ritual: true
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Find Familiar
+
 >[!spell-callout] Find Familiar
 >![[familiars.png]]
 >_Level 1 Conjuration (Wizard)_
@@ -29,7 +32,7 @@ sources:
 >**Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
 >**Duration:** Instantaneous
 >
->You gain the service of a familiar, a spirit that takes an animal form you choose: [[Bat]], [[Cat]], [[Frog]], [[Hawk]], [[Lizard]], [[Octopus]], [[Owl]], [[Rat]], [[Raven]], [[Spider]], [[Weasel]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see [[appendix B]]), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
+>You gain the service of a familiar, a spirit that takes an animal form you choose: [[Bat]], [[Cat]], [[Frog]], [[Hawk]], [[Lizard]], [[Octopus]], [[Owl]], [[Rat]], [[Raven]], [[Spider]], [[Weasel]], or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 >
 >**_Telepathic Connection._** While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 >
@@ -42,4 +45,4 @@ sources:
 >**_One Familiar Only._** You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

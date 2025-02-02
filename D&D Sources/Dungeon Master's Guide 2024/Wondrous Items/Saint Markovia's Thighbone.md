@@ -1,11 +1,8 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Curse-Of-Strahd-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiSwords
 rarity: Rare
 sources:
@@ -13,6 +10,7 @@ sources:
 type: Weapon
 type_details: Mace
 ---
+# Saint Markovia's Thighbone
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Mace), Rare (Requires Attunement)*
 >

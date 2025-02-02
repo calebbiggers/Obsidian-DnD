@@ -16,9 +16,12 @@ range: Self
 ritual: false
 schools:
   - Abjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Aura of Vitality
+
 >[!spell-callout] Aura of Vitality
 >_Level 3 Abjuration (Cleric, Druid, Paladin)_
 >
@@ -30,4 +33,4 @@ sources:
 >An aura radiates from you in a 30-foot [[Spells#Emanation\|Emanation]] for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore 2d6 Hit Points to one creature in it.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

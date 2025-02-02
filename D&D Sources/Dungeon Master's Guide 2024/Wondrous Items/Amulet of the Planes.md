@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Amulet of the Planes
 >[!varies-wondrous-item-callout] Amulet of the Planes
 >![[amulet-of-the-planes.jpg]]
 >

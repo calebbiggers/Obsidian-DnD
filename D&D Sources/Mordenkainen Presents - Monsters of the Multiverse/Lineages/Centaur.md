@@ -1,15 +1,15 @@
 ---
-tags:
-  - Lineage
-sources:
-  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
+tags: [Lineage]
 creature_type: Fey
 sizes:
   - Medium
+sources:
+  - "[[Mordenkainen Presents - Monsters of the Multiverse]]"
 speed: 40
 ---
+# Centaur
 ![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[centaur.png|float-right|300]]Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
-# Centaur Traits
+## Centaur Traits
 **Creature Type:** Fey
 **Size:** Medium (about 6–8 feet tall)
 **Speed:** 40 feet

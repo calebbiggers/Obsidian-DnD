@@ -7,10 +7,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
   - M
   - ruby dust worth 1,500+ GP, which the spell consumes
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 100 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Forcecage
+
 >[!spell-callout] Forcecage
 >_Level 7 Evocation (Bard, Warlock, Wizard)_
 >
@@ -41,4 +44,4 @@ sources:
 >This spell can't be dispelled by [[Dispel Magic]].
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

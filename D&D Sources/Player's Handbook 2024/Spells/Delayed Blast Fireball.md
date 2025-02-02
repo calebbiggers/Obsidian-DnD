@@ -6,10 +6,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a ball of bat guano and sulfur
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 minute
 icon: LiWand2
@@ -18,9 +18,12 @@ range: 150 feet
 ritual: false
 schools:
   - Evocation
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Delayed Blast Fireball
+
 >[!spell-callout] Delayed Blast Fireball
 >_Level 7 Evocation (Sorcerer, Wizard)_
 >
@@ -40,4 +43,4 @@ sources:
 >**_Using a Higher-Level Spell Slot._** The base damage increases by 1d6 for each spell slot level above 7.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

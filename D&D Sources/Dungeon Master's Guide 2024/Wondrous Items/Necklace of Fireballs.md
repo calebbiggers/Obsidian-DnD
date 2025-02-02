@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Necklace of Fireballs
 >[!rare-wondrous-item-callout] Necklace of Fireballs
 >_Wondrous Item, Rare_
 >

@@ -13,6 +13,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Staff of the Woodlands
 >[!rare-staff-callout] Staff of the Woodlands
 >_Staff, Rare (Requires Attunement a Druid)_
 >

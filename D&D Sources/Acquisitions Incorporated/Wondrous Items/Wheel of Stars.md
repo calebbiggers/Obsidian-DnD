@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Acquisitions-Incorporated-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 6500
 rarity: Very Rare
 sources:
   - "[[Acquisitions Incorporated]]"
 type: Wondrous Item
-price: 6500
 type_details: 
 ---
+# Wheel of Stars
 >[!very-rare-wondrous-item-callout] Wheel of Stars
 >*Wondrous Item, Very Rare (Requires Attunement)*
 >

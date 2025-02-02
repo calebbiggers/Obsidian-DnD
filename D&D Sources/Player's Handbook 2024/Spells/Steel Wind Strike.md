@@ -6,9 +6,9 @@ classes:
   - "[[Ranger]]"
   - "[[Wizard]]"
 components:
-  - S
-  - M
   - a Melee weapon worth 1+ SP
+  - M
+  - S
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -17,9 +17,12 @@ range: 30 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Steel Wind Strike
+
 >[!spell-callout] Steel Wind Strike
 >_Level 5 Conjuration (Ranger, Wizard)_
 >
@@ -33,4 +36,4 @@ sources:
 >You then teleport to an unoccupied space you can see within 5 feet of one of the targets.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -1,21 +1,18 @@
 ---
-tags:
-  - Item
-aliases:
-  - Luckstone
+tags: [Item]
+aliases: [Luckstone]
 attunement: true
 attunement_details: 
-banner: "[[Tales-From-The-Yawning-Portal-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 400
 rarity: Uncommon
 sources:
   - "[[Tales from the Yawning Portal]]"
 type: Wondrous Item
-price: 400
-type_details:
+type_details: 
 ---
+# Stone of Ill Luck
 >[!uncommon-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Uncommon (Requires Attunement)*
 >

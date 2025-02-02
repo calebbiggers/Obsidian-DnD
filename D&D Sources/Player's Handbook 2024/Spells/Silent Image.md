@@ -7,10 +7,10 @@ classes:
   - "[[Sorcerer]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a bit of fleece
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 10 minutes
 icon: LiWand2
@@ -19,9 +19,12 @@ range: 60 feet
 ritual: false
 schools:
   - Illusion
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Silent Image
+
 >[!spell-callout] Silent Image
 >_Level 1 Illusion (Bard, Sorcerer, Wizard)_
 >![[silent-image.png|float-right|200]]
@@ -37,4 +40,4 @@ sources:
 >Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a [[Actions#Study\|Study]] action to examine the image can determine that it is an illusion with a successful Intelligence ([[Proficiency#Skill List\|Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Dread Helm
 >[!common-wondrous-item-callout] Dread Helm
 >![[dread-helm.png]]
 >

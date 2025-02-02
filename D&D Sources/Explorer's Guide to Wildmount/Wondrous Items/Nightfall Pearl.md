@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: true
 attunement_details: 
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: LiComponent
+price: 45900
 rarity: Legendary
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Wondrous Item
-price: 45900
 type_details: 
 ---
+# Nightfall Pearl
 >[!legendary-wondrous-item-callout] Nightfall Pearl
 >*Wondrous Item, Legendary (Requires Attunement)*
 >

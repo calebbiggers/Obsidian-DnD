@@ -1,28 +1,26 @@
 ---
 tags:
   - Spell
-  - lvl1
-banner: "[[Unearthed-Arcana-Banner.jpg]]"
-banner_lock: True
-banner_y: 0.0
 casting_time: 1 Action
 classes:
   - Bard
 components:
   - V
-concentration: True
+concentration: true
 duration: Concentration, Up To 10 Minutes
 icon: LiWand2
 level: 1
 range: Self (30-Foot Radius)
-ritual: False
-scales: False
+ritual: false
+scales: false
 schools:
   - Illusion
 sources:
   - "[[Unearthed Arcana 36 - Starter Spells]]"
-type: Spell
 ---
+
+# Unearthly Chorus (UA)
+
 >[!spell-callout] `=this.file.name`
 >*`=this.level`st-Level `=this.schools`*
 >

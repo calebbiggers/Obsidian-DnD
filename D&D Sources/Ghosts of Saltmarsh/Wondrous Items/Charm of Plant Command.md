@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Ghosts-Of-Saltmarsh-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 1500
 rarity: Rare
 sources:
   - "[[Ghosts of Saltmarsh]]"
 type: Wondrous Item
-price: 1500
 type_details: 
 ---
+# Charm of Plant Command
 >[!rare-wondrous-item-callout] Charm of Plant Command
 >*Wondrous Item, Rare (Requires Attunement)*
 >

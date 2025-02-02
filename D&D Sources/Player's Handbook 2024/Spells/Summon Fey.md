@@ -8,10 +8,10 @@ classes:
   - "[[Warlock]]"
   - "[[Wizard]]"
 components:
-  - V
-  - S
-  - M
   - a gilded flower worth 300+ GP
+  - M
+  - S
+  - V
 concentration: true
 duration: Concentration, up to 1 hour
 icon: LiWand2
@@ -20,9 +20,12 @@ range: 90 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Summon Fey
+
 >[!spell-callout] Summon Fey
 >![[summon-fey.png]]
 >
@@ -87,4 +90,4 @@ sources:
 >**Tricksy.** The spirit fills a 10-foot [[Spells#Cube\|Cube]] within 5 feet of it with magical [[Exploration#Darkness\|Darkness]], which lasts until the end of its next turn.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]

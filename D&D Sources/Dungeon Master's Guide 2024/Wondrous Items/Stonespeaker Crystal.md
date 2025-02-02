@@ -1,19 +1,17 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: True
 attunement_details: 
-banner: "[[Out-Of-The-Abyss-Banner.jpg]]"
-banner_lock: True
-classes:
+classes: 
 icon: LiComponent
+price: 4600
 rarity: Rare
 sources:
   - "[[Out of the Abyss]]"
 type: Wondrous Item
-price: 4600
 type_details: 
 ---
+# Stonespeaker Crystal
 >[!rare-wondrous-item-callout] `=this.file.name`
 >*Wondrous Item, Rare (Requires Attunement)*
 >

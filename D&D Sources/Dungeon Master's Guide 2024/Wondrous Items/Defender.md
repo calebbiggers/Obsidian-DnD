@@ -12,6 +12,7 @@ type_details: Any Melee Weapon
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Defender
 >[!legendary-weapon-callout] Defender
 >![[defender.jpg]]
 >

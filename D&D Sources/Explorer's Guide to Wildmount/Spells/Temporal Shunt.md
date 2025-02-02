@@ -1,15 +1,11 @@
 ---
-tags:
-  - Spell
-banner: "[[Explorers-Guide-To-Wildemount-Banner.jpg]]"
-banner_lock: true
-banner_y: 0.45
+tags: [Spell]
 casting_time: 1 Reaction, Taken When A Creature You See Makes An Attack Roll Or Starts To Cast A Spell
 classes:
   - Wizard
 components:
-  - V
   - S
+  - V
 concentration: false
 duration: 1 Round
 icon: LiWand2
@@ -18,12 +14,13 @@ range: 120 Feet
 ritual: false
 scales: true
 schools:
-  - Transmutation
   - (Dunamancy - Chronurgy)
+  - Transmutation
 sources:
   - "[[Explorer's Guide to Wildemount]]"
 type: Spell
 ---
+# Temporal Shunt
 >[!spell-callout] Temporal Shunt
 >_Level 5 Transmutation (Wizard)_
 >

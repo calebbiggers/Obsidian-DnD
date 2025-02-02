@@ -1,16 +1,13 @@
 ---
-tags:
-  - Item
-type: Wondrous Item
-rarity: Uncommon
+tags: [Item]
+attunement: true
 icon: LiComponent
+rarity: Uncommon
 sources:
   - "[[Ghosts of Saltmarsh]]"
-banner: "[[Homebrew-Banner.jpg]]"
-banner_lock: true
-banner_y: 0
-attunement: true
+type: Wondrous Item
 ---
+# Luckstone
 ![[Ghosts-Of-Saltmarsh-Banner.jpg|banner]]
 >[!Uncommon-Wondrous-Item-callout] Luckstone
 >![[luckstone.jpg]]

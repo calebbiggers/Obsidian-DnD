@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Orb of Time
 >[!common-wondrous-item-callout] Orb of Time
 >_Wondrous Item, Common_
 >

@@ -12,6 +12,7 @@ type_details: None
 sources: 
   - "[[Dungeon Master's Guide 2024]]"
 ---
+# Pipes of Haunting
 >[!uncommon-wondrous-item-callout] Pipes of Haunting
 >_Wondrous Item, Uncommon_
 >

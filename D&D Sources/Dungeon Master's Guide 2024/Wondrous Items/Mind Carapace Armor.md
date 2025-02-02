@@ -1,18 +1,17 @@
 ---
 tags:
   - Item
-attunement: True
+attunement: true
 attunement_details: By A Specific Individual
-banner: "[[Volos-Guide-To-Monsters-Banner.jpg]]"
-banner_lock: True
-classes:
-icon: RaKnightHelmet
+classes: 
+icon: RaVest
 rarity: Uncommon
 sources:
   - "[[Volo's Guide to Monsters]]"
 type: Armor
 type_details: Any Heavy Armor
 ---
+# Mind Carapace Armor
 >[!uncommon-armor-callout] `=this.file.name`
 >*Armor (Any Heavy Armor), Uncommon (Requires Attunement By A Specific Individual)*
 >

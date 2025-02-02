@@ -1,9 +1,6 @@
 ---
-tags:
-  - Item
+tags: [Item]
 attunement: false
-banner: "[[The-Wild-Beyond-The-Witchlight-Banner.jpg]]"
-banner_lock: true
 classes: 
 icon: RaAxe
 rarity: Rare
@@ -12,6 +9,7 @@ sources:
 type: Weapon
 type_details: Greataxe
 ---
+# Woodcutter's Axe
 >[!rare-weapon-callout] `=this.file.name`
 >*Weapon (Greataxe), Rare*
 >

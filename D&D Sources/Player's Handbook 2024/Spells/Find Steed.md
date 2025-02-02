@@ -4,7 +4,7 @@ tags:
 casting_time: Action
 classes:
   - "[[Paladin]]"
-components:
+components: 
 concentration: false
 duration: Instantaneous
 icon: LiWand2
@@ -13,9 +13,12 @@ range: 30 feet
 ritual: false
 schools:
   - Conjuration
-sources: 
+sources:
   - "[[Player's Handbook 2024]]"
 ---
+
+# Find Steed
+
 >[!spell-callout] Find Steed
 >_Level 2 Conjuration (Paladin)_
 >
@@ -80,4 +83,4 @@ sources:
 >**_Healing Touch (Celestial Only; Recharges after a [[Damage & Healing#Long Rests\|Long Rest]])._** One creature within 5 feet of the steed regains a number of Hit Points equal to 2d8 plus the spell's level.
 
 
-![[players-handbook-banner-2024.png|banner]]
+![[players-handbook-2024-banner.png|banner]]
