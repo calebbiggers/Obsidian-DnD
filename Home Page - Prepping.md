@@ -9,7 +9,7 @@ icon: LiHome
 ## To Do List
 
 ```tasks
-( not done ) AND NOT ( path includes z_Templates )
+( not done ) AND NOT ( path includes z_Templates ) AND NOT ( path includes Sources )
 Short
 ```
 

@@ -24,7 +24,7 @@ sources:
 # Tiny Servant
 
 >[!spell-callout] `=this.file.name`
->*`=this.level`rd-Level `=this.schools`*
+>![[tiny-servant.png|float-right|relative|ws-med]]*`=this.level`rd-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`
 >**Range:** `=this.range`
@@ -52,5 +52,5 @@ sources:
 >| **Challenge:** — |
 >| Actions |
 >| ***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage. |
-
-***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
+>
+>***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.

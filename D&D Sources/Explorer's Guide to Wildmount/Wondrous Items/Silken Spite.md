@@ -43,4 +43,4 @@ type_details: Rapier
 >* Magical darkness doesn't impede your darkvision.
 >* While holding the weapon in dim light or darkness, you can use a bonus action to teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. This property can't be used again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

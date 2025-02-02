@@ -7,7 +7,6 @@ icon: LiBookMarked
 # Acquisitions Incorporated
 
 ## Items
-
 ```dataview
 LIST
 FROM #Item 

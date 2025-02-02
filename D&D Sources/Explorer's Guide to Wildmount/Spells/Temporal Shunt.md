@@ -33,4 +33,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot._** You can target one additional creature for each slot level above 5. All targets must be within 30 feet of each other.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

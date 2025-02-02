@@ -24,6 +24,7 @@ sources:
 # Danse Macabre
 
 >[!spell-callout] `=this.file.name`
+>![[dense-macabre.png]]
 >*`=this.level`th-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

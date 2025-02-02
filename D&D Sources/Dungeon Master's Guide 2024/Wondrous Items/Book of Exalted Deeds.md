@@ -45,4 +45,4 @@ sources:
 >**_Destroying the Book._** The _Book of Exalted Deeds_ can't be destroyed. However, drowning the book in the [[River Styx]] removes all writing and imagery from its pages and renders the book powerless for 1d100 years.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

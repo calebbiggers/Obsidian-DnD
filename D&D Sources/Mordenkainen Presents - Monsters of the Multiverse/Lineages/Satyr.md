@@ -26,4 +26,4 @@ As a Satyr, you have these special traits.
 >**_Reveler._** As an embodiment of revelry, you have proficiency in the [Performance] and [Persuasion] skills, and you have proficiency with one musical instrument of your choice.
 
 
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

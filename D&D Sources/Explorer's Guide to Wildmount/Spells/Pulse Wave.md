@@ -35,4 +35,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

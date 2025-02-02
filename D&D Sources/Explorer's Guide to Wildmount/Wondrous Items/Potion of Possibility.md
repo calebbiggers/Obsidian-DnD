@@ -22,4 +22,4 @@ type_details:
 >
 >While you have one or more Fragments of Possibility from this potion, you can't gain another Fragment of Possibility from any source.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

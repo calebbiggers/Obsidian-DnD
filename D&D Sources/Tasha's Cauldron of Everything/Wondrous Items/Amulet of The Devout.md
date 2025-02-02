@@ -31,4 +31,4 @@ type_details:
 >|+2|Rare|
 >|+3|Very Rare|
 
-![[Tashas-Cauldron-Of-Everything-Banner.jpg|banner]]
+![[tashas-cauldron-of-everything-banner.jpg|banner]]

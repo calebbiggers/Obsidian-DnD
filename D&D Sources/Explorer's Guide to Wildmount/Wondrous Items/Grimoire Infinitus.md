@@ -31,4 +31,4 @@ type_details:
 >* You can now use your Arcane Recovery feature twice between long rests, rather than once.
 >* When you prepare wizard spells using the grimoire as your spellbook, the number of spells you can prepare increases by 1 again.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

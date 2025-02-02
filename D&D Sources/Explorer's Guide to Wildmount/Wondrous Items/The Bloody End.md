@@ -43,4 +43,4 @@ type_details: Morningstar
 >* The saving throw DC for spells cast from the morningstar, as well as for creatures to avoid being frightened by it, increases to 17.
 >* When you use your reaction to deal psychic damage to a creature that hits you with a melee attack, the amount of psychic damage increases to 2d6.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

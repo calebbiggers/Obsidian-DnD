@@ -25,4 +25,4 @@ type_details: Greatsword, Longsword, Rapier, Scimitar, or Shortsword
 >
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

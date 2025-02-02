@@ -36,4 +36,4 @@ As a Shadar-Kai, you have these special traits.
 >**_Trance._** You don’t need to sleep, and magic can’t put you to sleep. You can finish a [[Damage & Healing#Long Rests\|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

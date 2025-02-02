@@ -29,4 +29,4 @@ type_details:
 >* You automatically detect illusions you can see and automatically succeed on saving throws against them. In addition, you see a bright aura around any creature that isn't in its true form.
 >* As an action, you can cast the [[Antimagic Field]] spell from the visor. This property can't be used again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

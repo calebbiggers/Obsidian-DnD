@@ -25,6 +25,7 @@ sources:
 # Summon Celestial
 
 >[!spell-callout] Summon Celestial
+>![[summon-celestial.png]]
 >_Level 5 Conjuration (Cleric, Paladin)_
 >
 >**Casting Time:** Action

@@ -31,4 +31,4 @@ type_details:
 >* As a bonus action, you can touch the key to a floor, wall, or ceiling that is no more than 5 feet thick and cause a magical opening to appear in the surface. When you create the opening, you choose its length and width, up to 10 feet for each dimension. The opening lasts until the key passes through it to the other side, at which point it disappears (if a creature is in the opening when the doorway closes, the creature is safely shunted to the nearest unoccupied space). The key can't be used to create another opening until the next dawn.
 >* While holding the key, you can use an action to cast one of the following spells from it: [[Dimension Door]], [[Gaseous Form]], or [[Mislead]]. Once a spell has been cast using the key, it can't be used to cast that spell again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

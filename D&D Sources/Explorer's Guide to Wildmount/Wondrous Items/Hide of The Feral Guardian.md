@@ -35,4 +35,4 @@ type_details: Studded Leather
 >* While you are transformed by an effect that replaces any of your game statistics with those of another creature, your bonus to melee attack and damage rolls increases by 1 (to +3).
 >* When you cast the [[Polymorph]] spell using this armor, you can transform into a **guardian wolf**.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

@@ -32,4 +32,4 @@ sources:
 >|18|[[Iron Golem]]|120 days|100,000 GP|
 >|19–20|[[Stone Golem]]|90 days|80,000 GP|
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

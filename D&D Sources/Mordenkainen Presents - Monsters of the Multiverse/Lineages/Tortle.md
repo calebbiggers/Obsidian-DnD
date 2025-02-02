@@ -13,7 +13,7 @@ icon: LiTurtle
 
 # Tortle
 
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[tortle.png|float-right|300]]Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
+![[tortle.png|float-right|300]]Tortles have a saying: “We wear our homes on our backs.” These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don’t have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
 
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
 
@@ -33,3 +33,5 @@ As a Tortle, you have these special traits.
 >**_Nature’s Intuition._** Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[#Animal Handling]], [[#Medicine]], [[#Nature]], [[#Perception]], [[#Stealth]], or [[#Survival]].
 >
 >**_Shell Defense._** You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [[#prone]], your speed is 0 and can’t increase, you have disadvantage on Dexterity saving throws, you can’t take reactions, and the only action you can take is a bonus action to emerge from your shell.
+
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

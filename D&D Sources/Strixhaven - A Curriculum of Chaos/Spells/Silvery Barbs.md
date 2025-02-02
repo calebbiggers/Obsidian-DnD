@@ -36,4 +36,4 @@ type: Spell
 >
 >You can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.
 
-![[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg|banner]]
+![[strixhaven-a-curriculum-of-chaos-banner.jpg|banner]]

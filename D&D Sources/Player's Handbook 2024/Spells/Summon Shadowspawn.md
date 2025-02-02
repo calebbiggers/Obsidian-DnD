@@ -25,6 +25,7 @@ sources:
 # Summon Shadowspawn
 
 >[!spell-callout] `=this.file.name`
+>![[summon-shadowspawn.png]]
 >*`=this.level`rd-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`
@@ -58,5 +59,5 @@ sources:
 >| ***Dreadful Scream (1/Day).*** The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened of the spirit for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. |
 >| Bonus Action |
 >| ***Shadow Stealth (Fear Only).*** While in dim light or darkness, the spirit takes the Hide action. |
-
-***At Higher Levels.*** When you cast the spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears on the stat block.
+>
+>***At Higher Levels.*** When you cast the spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears on the stat block.

@@ -11,8 +11,7 @@ icon: LiSailboat
 
 # Oath of the Open Sea
 
-![[Taldorei-Campaign-Guide-Reborn-Banner.jpg|banner]]![[oath-of-the-open-sea.png|float-right|300]]
-The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to likeminded travelers, rooting out tyranny and corruption wherever it is found.
+![[oath-of-the-open-sea.png|float-right|relative|ws-med]]The Oath of the Open Sea calls to seafaring warriors, swashbuckling sailors, and traveling guardians who seek the thrill of a limitless horizon. Driven to search for adventure and mystery across and beneath every endless oceanic expanse, paladins who swear this oath stand against those who would deny liberty to likeminded travelers, rooting out tyranny and corruption wherever it is found.
 
 Such guardians believe in the natural beauty of the sea, often making offerings and prayers to entities or deities such as the Wildmother or the Stormlord who influence safe passage. At the same time, they answer the call to hunt the monstrous creatures that too often bloody the waters with wanton violence and ill intent, and which terrorize the folk of the sea and shore.
 
@@ -60,3 +59,5 @@ You learn to channel the spirits of historic sea captains to briefly become a pa
 >**_Scallywag’s Dash._** You can take the [[Actions#Dash|Dash]] or [[Actions#Disengage|Disengage]] action as a bonus action.
 >
 >_**Buccaneer’s Reflexes.**_ You have [[D20 Tests#Advantage/Disadvantage|Advantage]] on Dexterity checks and Dexterity saving throws against effects you can see.
+
+![[Taldorei-Campaign-Guide-Reborn-Banner.jpg|banner]]

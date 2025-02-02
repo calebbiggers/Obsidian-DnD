@@ -24,6 +24,7 @@ sources:
 # Storm Sphere
 
 >[!spell-callout] `=this.file.name`
+>![[storm-sphere.png]]
 >*`=this.level`th-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

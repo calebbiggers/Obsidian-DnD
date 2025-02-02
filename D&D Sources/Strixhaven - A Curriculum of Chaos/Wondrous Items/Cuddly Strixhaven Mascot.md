@@ -20,4 +20,4 @@ type_details:
 >
 >The toy can also be used to fight off fear. When you make a saving throw to avoid or end the frightened condition on yourself, you can give yourself advantage on the roll if the toy is on your person. You must decide to do so before rolling the d20. If the save succeeds, you can't use the toy in this way until you finish a long rest.
 
-![[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg|banner]]
+![[strixhaven-a-curriculum-of-chaos-banner.jpg|banner]]

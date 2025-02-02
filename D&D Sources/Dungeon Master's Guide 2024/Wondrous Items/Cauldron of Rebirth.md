@@ -31,4 +31,4 @@ type_details: None
 >
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

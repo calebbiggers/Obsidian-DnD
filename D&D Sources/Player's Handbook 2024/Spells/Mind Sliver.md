@@ -23,6 +23,7 @@ sources:
 # Mind Sliver
 
 >[!spell-callout] Mind Sliver
+>![[mind-sliver.png]]
 >_Enchantment Cantrip (Sorcerer, Warlock, Wizard)_
 >
 >**Casting Time:** Action

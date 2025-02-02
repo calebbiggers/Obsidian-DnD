@@ -19,4 +19,4 @@ type_details: Warhammer
 >
 >You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has the [[Weapons#Thrown\|Thrown]] property with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra 1d8 Force damage, or an extra 2d8 Force damage if the target is a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

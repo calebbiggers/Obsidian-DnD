@@ -33,4 +33,4 @@ WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

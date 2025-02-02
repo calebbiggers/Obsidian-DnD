@@ -12,6 +12,9 @@ type_details:
 ---
 # Skyblinder Staff
 >[!uncommon-staff-callout] Skyblinder Staff
+>![[skyblinder-staff.png]]
+>
+>---
 >*Staff, Uncommon (Requires Attunement)*
 >
 >You gain a +1 bonus to attack and damage rolls made with this magic quarterstaff. While holding it, you gain a +1 bonus to spell attack rolls.

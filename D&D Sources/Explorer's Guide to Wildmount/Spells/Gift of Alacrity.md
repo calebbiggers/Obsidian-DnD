@@ -30,4 +30,4 @@ type: Spell
 >
 >You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

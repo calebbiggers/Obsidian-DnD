@@ -11,7 +11,8 @@ type: Wondrous Item
 type_details: 
 ---
 # Skysail
->[!rare-wondrous-item-callout] `=this.file.name`
+>[!rare-wondrous-item-callout] Skysail
+>![[sky-sail.png]]
 >*Wondrous Item, Rare (Requires Attunement)*
 >
 >These bat-like wings were first used by the Air Ashari to soar through the sky. They are constructed of either leather and bone, or cloth and wood, and are set onto a sturdy wooden pole that helps their user remain stable during flight.

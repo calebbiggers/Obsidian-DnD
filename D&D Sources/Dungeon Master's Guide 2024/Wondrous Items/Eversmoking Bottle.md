@@ -28,4 +28,4 @@ sources:
 >Closing the bottle causes the cloud to become fixed in place until it disperses after 10 minutes. A strong wind (such as that created by the [[Gust of Wind]] spell) disperses the cloud after 1 minute.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

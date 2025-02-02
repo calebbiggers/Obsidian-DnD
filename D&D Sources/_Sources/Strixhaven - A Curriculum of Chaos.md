@@ -24,4 +24,4 @@ WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
 
-![[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg|banner]]
+![[strixhaven-a-curriculum-of-chaos-banner.jpg|banner]]

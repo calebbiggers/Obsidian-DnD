@@ -23,6 +23,7 @@ sources:
 # Find Greater Steed
 
 >[!spell-callout] `=this.file.name`
+>![[find-greater-steed.png]]
 >*`=this.level`th-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

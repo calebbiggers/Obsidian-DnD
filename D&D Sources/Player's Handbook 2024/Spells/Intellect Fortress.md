@@ -26,6 +26,9 @@ sources:
 # Intellect Fortress
 
 >[!spell-callout] `=this.file.name`
+>![[intellect-fortress.png]]
+>
+>---
 >*`=this.level`rd-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

@@ -18,4 +18,4 @@ type_details:
 >
 >This glowing purple liquid smells of sugar and plum, but it has a muddy taste.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

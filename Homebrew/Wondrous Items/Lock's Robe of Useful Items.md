@@ -42,4 +42,4 @@ type_details:
 >* Rowboat (12 feet long)
 >
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

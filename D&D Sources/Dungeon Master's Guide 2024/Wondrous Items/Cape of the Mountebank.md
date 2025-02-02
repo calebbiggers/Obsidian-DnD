@@ -23,4 +23,4 @@ sources:
 >
 >When you teleport with that spell, you leave behind a cloud of smoke. The space you left is [[Exploration#Lightly Obscured\|Lightly Obscured]] by that smoke until the end of your next turn.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

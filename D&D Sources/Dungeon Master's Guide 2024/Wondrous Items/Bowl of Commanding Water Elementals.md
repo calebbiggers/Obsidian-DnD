@@ -24,4 +24,4 @@ sources:
 >The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

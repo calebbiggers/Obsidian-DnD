@@ -30,4 +30,4 @@ sources:
 >**Might of Giants.** The Strength score bestowed by your [[Belt of Giant Strength]] or [[Gauntlets of Ogre Power]] increases by 4, to a maximum of 30.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

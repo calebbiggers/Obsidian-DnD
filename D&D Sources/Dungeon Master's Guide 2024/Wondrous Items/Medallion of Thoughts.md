@@ -21,4 +21,4 @@ sources:
 >
 >The medallion has 5 charges. While wearing it, you can expend 1 charge to cast [[Detect Thoughts]] (save DC 13) from it. The medallion regains 1d4 expended charges daily at dawn.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

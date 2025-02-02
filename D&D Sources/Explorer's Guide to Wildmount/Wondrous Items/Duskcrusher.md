@@ -21,4 +21,4 @@ type_details: Warhammer
 >
 >While you are holding *Duskcrusher* and its radiant head is active, you can use an action to cast the [[Sunbeam]] spell (save DC 15) from the weapon, and this action can't be used again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

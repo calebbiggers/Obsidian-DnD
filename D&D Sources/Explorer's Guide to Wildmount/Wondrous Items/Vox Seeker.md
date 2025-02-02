@@ -36,4 +36,4 @@ type_details:
 >| Actions |
 >| **Pincer.** *Melee Weapon Attack*: +2 to hit, reach 5 ft., one target. *Hit*: 2 (1d4) piercing damage plus 3 lightning damage. |
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

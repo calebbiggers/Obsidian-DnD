@@ -15,4 +15,4 @@ WHERE contains(sources, link(this.file.name))
 SORT file.name ASCENDING
 ```
 
-![[Mythic-Odysseys-Of-Theros-Banner.jpg|banner]]
+![[mythic-odysseys-of-theros-banner.jpg|banner]]

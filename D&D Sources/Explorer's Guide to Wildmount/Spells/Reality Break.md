@@ -23,6 +23,8 @@ type: Spell
 ---
 # Reality Break
 >[!spell-callout] Reality Break
+>![[reality-break.png]]
+>
 >_Level 8 Conjuration (Wizard)_
 >
 >**Casting Time:** Action
@@ -36,11 +38,11 @@ type: Spell
 >
 >#### Reality Break Effects
 >
->| d10 | Effect |
+>| 1d10 | Effect |
 >| --- | --- |
 >| 1-2 | **Vision of the Far Realm.** The target takes 6d12 psychic damage, and it is stunned until the end of the turn |
 >| 3-5 | **Rending Rift.** The target must make a Dexterity saving throw, taking 8d12 force damage on a failed save, or half as much damage on a successful save. |
 >| 6-8 | **Wormhole.** The target is teleported, along with everything it is wearing and carrying, up to 30 feet to an unoccupied space of your choice that you can see. The target also takes 10d12 force damage and is knocked prone. |
 >| 9-10 | **Chill of the Dark Void.** The target takes 10d12 cold damage, and it is blinded until the end of the turn. |
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

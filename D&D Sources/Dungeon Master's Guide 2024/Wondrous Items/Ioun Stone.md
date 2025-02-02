@@ -90,4 +90,4 @@ sources:
 >You don't need to eat or drink while this clear spindle orbits your head.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

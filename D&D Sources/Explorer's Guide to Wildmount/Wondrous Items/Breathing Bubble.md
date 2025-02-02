@@ -18,4 +18,4 @@ type_details:
 >
 >The bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

@@ -26,4 +26,4 @@ type_details:
 >
 >In addition, you can cast the [[Identify]] spell using the googles. Once you do so, you can't do so again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

@@ -23,6 +23,7 @@ sources:
 # Tasha's Mind Whip
 
 >[!spell-callout] `=this.file.name`
+>![[tashas-mind-whip.png]]
 >*`=this.level`nd-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

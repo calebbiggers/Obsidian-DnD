@@ -21,4 +21,4 @@ sources:
 >
 >In [[Exploration#Darkness\|Darkness]], the unsheathed blade of this weapon sheds moonlight, creating [[Exploration#Bright Light\|Bright Light]] in a 15-foot radius and [[Exploration#Dim Light\|Dim Light]] for an additional 15 feet.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

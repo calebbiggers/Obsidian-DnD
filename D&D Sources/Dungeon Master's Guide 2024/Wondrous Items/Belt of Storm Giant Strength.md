@@ -20,4 +20,4 @@ type_details:
 >
 >While wearing this belt, your Strength score changes to 29. If your Strength is already equal to or greater than 29, the item has no effect on you.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

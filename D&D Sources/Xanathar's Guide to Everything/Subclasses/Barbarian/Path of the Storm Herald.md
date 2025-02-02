@@ -53,4 +53,4 @@ The power of the storm you channel grows mightier, lashing out at your foes. The
 >
 >**_Tundra._** Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

@@ -40,4 +40,4 @@ type_details: Dagger
 >* The saving throw DC for spells cast from the dagger increases to 17.
 >* While holding the dagger, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until you stop holding the dagger, until you attack or cast a spell that forces a creature to make a saving throw, or until you use a bonus action to become visible again.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

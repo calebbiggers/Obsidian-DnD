@@ -11,7 +11,7 @@ speed: 35
 icon: LiWind
 ---
 # Air Genasi
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[air-genasi.png|float-right|200]]Air genasi are descended from djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.
+![[air-genasi.png|float-right|200]]Air genasi are descended from djinn, the genies of the Elemental Plane of Air. Embodying many of the airy traits of their otherworldly ancestors, air genasi can draw upon their connection to the winds.
 
 Air genasi’s skin tones include many shades of blue, along with the full range of human skin tones, with bluish or ashen casts. Sometimes their skin is marked by lines that seem like cracks with bluish-white energy spilling out. An air genasi’s hair might blow in a phantom wind or be made entirely of clouds or vapor.
 
@@ -30,3 +30,5 @@ As a Water Genasi, you have these special traits.
 >**_Mingle with the Wind._** You know the [[Shocking Grasp]] cantrip. Starting at 3rd level, you can cast the [[Feather Fall]] spell with this trait, without requiring a material component. Starting at 5th level, you can also cast the [[Levitate]] spell with this trait, without requiring a material component. Once you cast [[Feather Fall]] or [[Levitate]] with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 >
 >Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

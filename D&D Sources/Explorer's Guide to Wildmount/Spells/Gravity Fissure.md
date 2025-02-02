@@ -36,4 +36,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d8 for each slot level above 6.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

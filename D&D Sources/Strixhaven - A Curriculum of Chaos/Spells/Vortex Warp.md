@@ -37,4 +37,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot._** The range of the spell increases by 30 feet for each slot level above 2.
 
-![[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg|banner]]
+![[strixhaven-a-curriculum-of-chaos-banner.jpg|banner]]

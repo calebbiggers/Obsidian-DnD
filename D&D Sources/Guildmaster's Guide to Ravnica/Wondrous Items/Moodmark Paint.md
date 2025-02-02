@@ -11,6 +11,9 @@ type_details:
 ---
 # Moodmark Paint
 >[!common-wondrous-item-callout] Moodmark Paint
+>![[moodmark-paint.png]]
+>
+>---
 >*Wondrous Item, Common*
 >
 >This thick, black paint is stored in a small jar, containing enough paint to apply moodmarks to one creature. The paint is dabbed on the face in spots or markings that often resemble the eyes of insects or spiders. Applying the paint in this way takes 1 minute.

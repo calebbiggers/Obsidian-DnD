@@ -40,4 +40,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot_** The damage increases by 1d6 for each slot above 2, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2.
 
-![[Strixhaven-A-Curriculum-Of-Chaos-Banner.jpg|banner]]
+![[strixhaven-a-curriculum-of-chaos-banner.jpg|banner]]

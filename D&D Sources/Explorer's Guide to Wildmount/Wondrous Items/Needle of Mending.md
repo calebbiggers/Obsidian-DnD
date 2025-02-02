@@ -19,4 +19,4 @@ type_details: Dagger
 >
 >You gain a +1 bonus to attack and damage rolls made with the dagger. While holding it, you can use an action to cast the [[Mending]] cantrip from it.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

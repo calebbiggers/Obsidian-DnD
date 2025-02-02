@@ -56,4 +56,4 @@ sources:
 >**_Destroying the Axe._** The only way to destroy the axe is to melt it down in the Earthheart Forge, where it was created. It must remain in the burning forge for 50 years before it finally succumbs to the fire and is consumed.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

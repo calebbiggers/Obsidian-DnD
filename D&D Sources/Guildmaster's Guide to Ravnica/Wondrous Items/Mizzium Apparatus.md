@@ -15,6 +15,9 @@ type_details:
 ---
 # Mizzium Apparatus
 >[!uncommon-wondrous-item-callout] Mizzium Apparatus
+>![[mizzium-apparatus.png]]
+>
+>---
 >*Wondrous Item, Uncommon (Requires Attunement By A Sorcerer, Warlock, Or Wizard)*
 >
 >Innovation is a dangerous pursuit, at least the way the mages of the Izzet League engage in it. As protection against the risk of an experiment going awry, they have developed a device to help channel and control their magic. This apparatus is a collection of leather straps, flexible tubing, glass cylinders, and plates, bracers, and fittings made from a magic-infused metal alloy called mizzium, all assembled into a harness. The item weighs 8 pounds.

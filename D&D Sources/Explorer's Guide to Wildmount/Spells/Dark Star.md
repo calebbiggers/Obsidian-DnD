@@ -22,6 +22,7 @@ type: Spell
 ---
 # Dark Star
 >[!spell-callout] Dark Star
+>![[dark-star.png]]
 >_Level 8 Evocation (Wizard)_
 >
 >**Casting Time:** Action
@@ -35,4 +36,4 @@ type: Spell
 >
 >Any creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw. The creature takes 8d10 force damage on a failed save or half as much damage on a successful save. A creature reduced to 0 hit points by this damage is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

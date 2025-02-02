@@ -25,7 +25,7 @@ sources:
 # Shadow Blade
 
 >[!spell-callout] `=this.file.name`
->*`=this.level`nd-Level `=this.schools`*
+>![[shadow-blade.png|float-right|relative|ws-med]]*`=this.level`nd-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`
 >**Range:** `=this.range`

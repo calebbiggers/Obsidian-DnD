@@ -15,8 +15,8 @@ type_details: Arrow
 # Unbreakable Arrow
 
 >[!common-weapon-callout] Unbreakable Arrow
->*Weapon (Arrow), Common*
+>![[unbreakable-arrow.png|float-right|relative|ws-med]]*Weapon (Arrow), Common*
 >
 >This arrow can't be broken, except when it is within an [[Antimagic Field]].
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

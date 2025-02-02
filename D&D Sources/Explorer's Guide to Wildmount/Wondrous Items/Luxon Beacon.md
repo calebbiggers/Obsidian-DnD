@@ -23,4 +23,4 @@ type_details:
 >
 >***Soul Snare.*** If a follower of the Luxon who has undergone a ritual of consecution dies within 100 miles of a *Luxon Beacon*, their soul is ensnared by it. This soul will be reincarnated within the body of a random humanoid baby developing within 100 miles of the beacon.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

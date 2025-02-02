@@ -14,7 +14,7 @@ type_details:
 >[!artifact-wondrous-item-callout] Orrery of The Wanderer
 >*Wondrous Item, Artifact (Requires Attunement)*
 >
->This delicate and exquisitely crafted clockwork orrery features multiple geared components whose sweeping hands and dials represent the complex interplay of planar and magical realms. Standing two feet high, the orrery housing is a wondrous device imbued with magic of its own, but the power of its six clockwork components makes the artifact even more potent.
+>![[orrery-of-the-wanderer.png|float-right|relative|ws-med]]This delicate and exquisitely crafted clockwork orrery features multiple geared components whose sweeping hands and dials represent the complex interplay of planar and magical realms. Standing two feet high, the orrery housing is a wondrous device imbued with magic of its own, but the power of its six clockwork components makes the artifact even more potent.
 >
 >The *Orrery of the Wanderer* was created by a renowned clockwork mage known only as Lottie. She crafted the relic as a means of tapping into the power of the planes, and to channel the divination and foretelling powers of the stars. But Lottie soon realized that her creation was far more powerful than she had intended. As it tapped into planar magic, the orrery began to manifest the darkness and malevolence inherent to some of the planes. Eventually, it would impress upon its owner a desire to open portals into the most cursed and dangerous worlds, including the Far Realm.
 >

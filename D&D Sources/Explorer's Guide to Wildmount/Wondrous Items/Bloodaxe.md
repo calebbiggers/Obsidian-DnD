@@ -19,4 +19,4 @@ type_details: Greataxe
 >
 >This axe is forged from a dark, rust-colored metal.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

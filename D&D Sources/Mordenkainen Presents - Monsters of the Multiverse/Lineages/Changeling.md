@@ -11,7 +11,7 @@ speed: 30
 icon: LiVenetianMask
 ---
 # Changeling
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[changeling.png|float-right|250]]With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face is only a disguise. For other changelings, a new face may reveal an aspect of their soul.
+![[changeling.png|float-right|250]]With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face is only a disguise. For other changelings, a new face may reveal an aspect of their soul.
 
 The first changelings in the multiverse appeared in the Feywild, and the wondrous, mutable essence of that plane lingers in changelings today—even in those changelings who have never set foot in the fey realm. Each changeling decides how to use their shape-shifting ability, channeling either the peril or the joy of the Feywild. Sometimes they adopt new forms for the sake of mischief or malice, and other times they don a new identity to right wrongs or delight the downtrodden.
 
@@ -32,3 +32,5 @@ As a Changeling, you have these special traits.
 >**_Shapechanger._** As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can’t duplicate the appearance of an individual you’ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren’t changed by this trait.
 >
 >You stay in the new form until you use an action to revert to your true form or until you die.
+
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

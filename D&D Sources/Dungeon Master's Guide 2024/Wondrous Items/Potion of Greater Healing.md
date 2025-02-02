@@ -25,4 +25,4 @@ type_details:
 >You regain 4d4 + 4 hit points when you drink this potion. The potion's red liquid glimmers when agitated.
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

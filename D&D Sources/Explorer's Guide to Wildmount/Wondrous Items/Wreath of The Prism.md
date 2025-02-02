@@ -30,4 +30,4 @@ type_details:
 >* You can affect creatures of challenge rating 15 or lower with the wreath.
 >* The save DC of the wreath's spell increases to 17.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

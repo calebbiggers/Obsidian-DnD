@@ -31,4 +31,4 @@ sources:
 >|[[Potion of Superior Healing]]|8d4 + 8|Rare|
 >|[[Potion of Supreme Healing]]|10d4 + 20|Very Rare|
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

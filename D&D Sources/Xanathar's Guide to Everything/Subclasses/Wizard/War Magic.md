@@ -43,4 +43,4 @@ The magic you channel helps ward off harm. While you maintain concentration on a
 
 Your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice within 60 feet of you each take force damage equal to half your wizard level.
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

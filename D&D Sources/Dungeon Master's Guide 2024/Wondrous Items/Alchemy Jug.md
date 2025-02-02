@@ -40,4 +40,4 @@ sources:
 >|Wine|1 gallon|
 
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

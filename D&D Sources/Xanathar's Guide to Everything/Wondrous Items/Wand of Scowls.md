@@ -21,4 +21,4 @@ type_details:
 >
 >The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand transforms into a [[Wand of Smiles]].
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

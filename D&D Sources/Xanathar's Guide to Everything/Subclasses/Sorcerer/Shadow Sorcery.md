@@ -54,4 +54,4 @@ You can spend 6 sorcery points as a bonus action to magically transform yourself
 
 You remain in this form for 1 minute. It ends early if you are [[Conditions#Incapacitated|Incapacitated]], if you die, or if you dismiss it as a bonus action.
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

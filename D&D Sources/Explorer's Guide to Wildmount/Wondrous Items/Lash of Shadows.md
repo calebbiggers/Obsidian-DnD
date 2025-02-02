@@ -42,4 +42,4 @@ type_details: Whip
 >* The saving throw DC for the weapon's poisons increases to 17.
 >* The weapon gains a new poison option called **Cockatrice Tears**. A creature that fails the saving throw against this poison begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

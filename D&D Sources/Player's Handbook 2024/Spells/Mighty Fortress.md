@@ -24,6 +24,7 @@ sources:
 # Mighty Fortress
 
 >[!spell-callout] `=this.file.name`
+>![[mighty-fortress.png]]
 >*`=this.level`th-Level `=this.schools`*
 >
 >**Casting Time:** `=this.casting_time`

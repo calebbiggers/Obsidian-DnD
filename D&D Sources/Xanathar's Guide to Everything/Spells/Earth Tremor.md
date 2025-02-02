@@ -39,4 +39,4 @@ type: Spell
 >
 >**_Using a Higher-Level Spell Slot._** The damage increases by 1d6 for each slot level above 1.
 
-![[Xanathars-Guide-To-Everything-Banner.jpg|banner]]
+![[xanathars-guide-to-everything-banner.jpg|banner]]

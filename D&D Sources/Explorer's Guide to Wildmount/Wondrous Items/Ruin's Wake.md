@@ -39,4 +39,4 @@ type_details: Spear
 >* While holding the spear, you can let out a battle cry as a bonus action. Each creature you choose within 30 feet of you gains advantage on attack rolls until the start of your next turn. This property can't be used again until the next dawn.
 >* When you reduce a creature to 0 hit points with an attack from the spear, you can regain hit points equal to the damage you dealt with the attack. This property can't be used again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

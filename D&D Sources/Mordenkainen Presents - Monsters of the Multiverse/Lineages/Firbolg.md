@@ -8,7 +8,7 @@ sources:
 speed: 30
 ---
 # Firbolg
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[firbolg.png|float-right|300]]Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs’ souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.
+![[firbolg.png|float-right|300]]Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs’ souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest.
 
 A firbolg’s magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna.
 
@@ -28,3 +28,5 @@ As a Firbolg, you have these special traits.
 >**_Powerful Build._** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 >
 >**_Speech of Beast and Leaf._** You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

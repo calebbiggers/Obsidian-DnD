@@ -41,4 +41,4 @@ type_details: Warhammer
 >* You can burrow through solid rock at half your burrowing speed and leave a 5-foot diameter tunnel in your wake.
 >* As an action, you can use the warhammer to cast one of the following spells from it (save DC 17): [[Earthquake]], [[Meld into Stone]], or [[Stone Shape]]. Once a spell has been cast using the warhammer, that spell can't be cast from the warhammer again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

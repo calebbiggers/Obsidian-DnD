@@ -54,4 +54,4 @@ type_details: War Pick
 >* The saving throw DC for the war pick's Breath Weapon property increases to 17, and that property deals 5d6 damage on a failed save, or half as much damage on a successful one.
 >* The saving throw DC for the war pick's Frightful Presence property increases to 17.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

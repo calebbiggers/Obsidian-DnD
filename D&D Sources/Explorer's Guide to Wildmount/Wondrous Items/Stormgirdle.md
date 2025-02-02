@@ -36,4 +36,4 @@ type_details:
 >* Your Storm Avatar's lightning strike deals 5d6 lightning damage (instead of 3d6).
 >* You can cast the [[Control Weather]] spell from the girdle. This property can't be used again until the next dawn.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

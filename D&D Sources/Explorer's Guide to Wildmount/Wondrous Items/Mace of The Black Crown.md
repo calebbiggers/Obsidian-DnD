@@ -41,4 +41,4 @@ type_details: Mace
 >* The weapon's Summon Devil feature can also be used to summon a **barbed devil**.
 >* You have resistance to fire damage while you hold this weapon.
 
-![[Explorers-Guide-To-Wildemount-Banner.jpg|banner]]
+![[explorers-guide-to-wildemount-banner.jpg|banner]]

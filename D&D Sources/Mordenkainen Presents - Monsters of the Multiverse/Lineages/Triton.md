@@ -10,7 +10,7 @@ speed: 30
 icon: RaTrident
 ---
 # Triton
-![[mordenkainen-presents-monsters-of-the-multiverse-banner.webp|banner]]![[triton.png|float-right|300]]Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds’ oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean’s surface.
+![[triton.png|float-right|300]]Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds’ oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean’s surface.
 
 Tritons have webbed hands and feet, small fins on their calves, and coloration that favors blues and greens.
 ## Triton Traits
@@ -30,3 +30,5 @@ As a Triton, you have these special traits.
 >**_Emissary of the Sea._** You can communicate simple ideas to any Beast, Elemental, or Monstrosity that has a swimming speed. It can understand your words, though you have no special ability to understand it in return.
 >
 >**_Guardian of the Depths._** Adapted to the frigid ocean depths, you have resistance to cold damage.
+
+![[mordenkainen-presents-monsters-of-the-multiverse-banner.jpg|banner]]

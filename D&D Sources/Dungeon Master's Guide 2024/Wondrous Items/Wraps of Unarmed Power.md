@@ -18,4 +18,4 @@ sources:
 >
 >While wearing these wraps, you have a bonus to attack rolls and damage rolls made with your [[Combat#Unarmed Strikes\|Unarmed Strikes]]. The bonus is determined by the wraps' rarity, and those strikes deal your choice of Force damage or their normal damage type.
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]

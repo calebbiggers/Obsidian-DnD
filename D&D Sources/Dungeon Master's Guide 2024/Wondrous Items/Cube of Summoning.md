@@ -35,4 +35,4 @@ sources:
 >|5|[[Summon Elemental]]|
 >|6|[[Summon Fey]]|
 
-![[dungeon-masters-guide-2024.avif|banner]]
+![[dungeon-masters-guide-2024-banner.avif|banner]]
